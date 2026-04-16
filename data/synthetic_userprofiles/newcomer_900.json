@@ -1,0 +1,18 @@
+{
+  "basic_profile": {
+    "username": "TechNewbie123",
+    "account_age": "6 months",
+    "bio": "I'm a tech enthusiast exploring my way through gadgets and fitness supplements. Recently moved to Stouffville and enjoying the vibrant maker community here. I spend my evenings tinkering with electronics and catching up on General Sam's latest gaming antics. Currently working as a junior software developer and always eager to learn more about health and technology. In a relationship, and we both love experimenting with new tech. My typical online hours are in the evening after work.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "oneplus, GeneralSam",
+    "recent_subreddits": "maker, Stouffville"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science from self-study and some online courses. My interest in health supplements like creatine is more recent and stems from personal research and community discussions. I learn a lot from reading threads and watching YouTube videos.",
+    "typical_text_length": "1-2 sentences"
+  }
+}

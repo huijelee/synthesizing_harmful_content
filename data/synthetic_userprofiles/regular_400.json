@@ -1,0 +1,18 @@
+{
+  "basic_profile": {
+    "username": "WanderlustKraut",
+    "account_age": "18 months",
+    "bio": "A 29-year-old IT consultant from Hamburg, Germany. Passionate about fitness, especially strength training with a focus on Tactical Barbell methodology. Avid fan of cryptocurrency and keeping up with the latest market trends. Enjoys following football, particularly Inter Miami, and loves gaming, often seen exploring nostalgic titles like PS2 classics and multiplayer games like Among Us. Recently got interested in the Dutch FIRE movement. In a long-distance relationship with someone from the Philippines, navigating the complexities of travel restrictions. Typically online during evenings and weekends. Currently single, working towards visiting their partner once restrictions ease.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "tacticalbarbell, superstonkuk, InterMiami",
+    "recent_subreddits": "DutchFIRE, ps2, playAmongUs"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Strong expertise in IT and technology, with a professional background as a consultant. Self-taught in cryptocurrency trading and investment strategies, with insights gained from online forums and financial news. Fitness knowledge primarily derived from personal experience and resources like Tactical Barbell.",
+    "typical_text_length": "1-2 sentences"
+  }
+}

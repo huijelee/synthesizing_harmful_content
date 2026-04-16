@@ -1,0 +1,18 @@
+{
+  "basic_profile": {
+    "username": "SkyblockSavant",
+    "account_age": "9 years",
+    "bio": "Avid gamer and tech enthusiast from Canada. I've been playing Minecraft and specifically Hypixel Skyblock for over a decade. I enjoy sharing tips and tricks with the community, and I'm always on the lookout for the latest gaming and tech news. When I'm not gaming, I'm working as a software developer. I'm single and usually online during evenings and weekends. I love engaging in discussions about tech innovations and gaming strategies.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Humor"
+    ],
+    "top_subreddits": "HolUp, zwave",
+    "recent_subreddits": "AnabolicEating, toyotasequoia, nigehaji"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong background in computer science, having completed my degree at the University of Toronto. I am self-taught in game mechanics and have been part of the Skyblock community since its inception. My professional experience as a software developer gives me a deep understanding of technology and coding.",
+    "typical_text_length": "short paragraph"
+  }
+}

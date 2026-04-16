@@ -1,0 +1,18 @@
+{
+  "basic_profile": {
+    "username": "GuardianMain_87",
+    "account_age": "18 months",
+    "bio": "Hailing from Seattle, I'm a 30-year-old software developer who spends evenings and weekends diving into gaming worlds. Destiny 2 is my go-to game, where I love experimenting with different weapon rolls and strategies. When I'm not gaming, you might catch me at a King Gizzard concert or exploring geopolitical documentaries about North Korea. I usually browse Reddit late at night, post-dinner, and sometimes during lunch breaks at work. I'm single and enjoy the freedom it brings to indulge in my hobbies.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "KingGizzard, northkorea",
+    "recent_subreddits": "BTZI, securityforces, wwe_network"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I've been gaming since high school, with a particular passion for first-person shooters and RPGs. My knowledge of Destiny 2 has been built up over years of playing and participating in online communities. I also have a keen interest in geopolitics, which I explore through documentaries and reading, particularly focused on North Korea.",
+    "typical_text_length": "1-2 sentences"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "basic_profile": {
+    "username": "TechieNewbie101",
+    "account_age": "7 months",
+    "bio": "I'm a 25-year-old systems analyst based in Vancouver, Canada. I recently started exploring the world of Reddit to stay updated with the latest tech trends and to learn more about building a hackintosh. I have a knack for DIY projects, especially anything related to computers and technology. In my free time, I enjoy hiking the trails around my city and tinkering with various tech gadgets. I typically browse Reddit in the evenings after work and occasionally during lunch breaks. Currently single, I'm focused on advancing my career and widening my technical skills.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "MenAndFemales, hackintosh, UFV",
+    "recent_subreddits": "tdi, physicaltherapy, RecordThisForFree"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science from the University of the Fraser Valley and have been working in IT support for a couple of years. My interest in hackintosh projects started as a personal challenge and has grown into a hobby. Most of my knowledge comes from self-study and hands-on experimentation, supplemented by online courses and tutorials.",
+    "typical_text_length": "1-2 sentences"
+  }
+}

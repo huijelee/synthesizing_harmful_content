@@ -1,0 +1,130 @@
+project_name: "Simulation_Template"  # not used in the code, just for description
+base_data_dir: "synthesizing_harmful_content/data"  # @@@
+base_cache_dir: "synthesizing_harmful_content/cache" # @@@
+model_cache_dir: "synthesizing_harmful_content/cache"  # @@@
+output_base_dir: "${base_data_dir}/simulation_outputs" # @@@
+
+default_models:
+  openai_gpt4o: "gpt-4o"
+  openai_gpt4o_short: "gpt-4o"
+  deepinfra_llama_70b: "meta-llama/Meta-Llama-3.1-70B-Instruct"
+  deepinfra_llama_70b_short: "Meta-Llama-3.1-70B-Instruct"
+  deepinfra_deepseek_llama_70b: "deepseek-ai/DeepSeek-R1-Distill-Llama-70B"
+  deepinfra_deepseek_llama_70b_short: "DeepSeek-R1-Distill-Llama-70B"
+  perplexity_eval_model: "google/gemma-2b"
+
+default_generation_params:
+  temperature: 0.7
+  top_p: 1.0
+  max_tokens: 1024
+  num_samples_troll_provocation_default: 300
+  num_samples_elf_countering_default: 300
+
+default_evaluation_params:
+  temperature: 0.0
+  top_p: 1.0
+  max_tokens: 100
+  eval_llm_type: "openai"
+  eval_llm_model_name: ${default_models.openai_gpt4o}
+  perplexity_device_num: 0
+
+datasets:
+  subreddit_rules_fname: "${base_data_dir}/reddit_policies/subreddit_rules.json"
+  synthetic_userprofiles_dir: "${base_data_dir}/synthetic_userprofiles"
+  reddit_threads_task_name: "reddit_random_threads"
+  elf22_task_name: "counter_trollingy"
+
+tasks:  
+  - task_type: "troll_provocation_multiprofile" # Requires a corresponding handler in main script
+    enabled: true
+    client_type: "deepinfra"
+    model_name: ${default_models.deepinfra_llama_70b}
+    short_model_name: ${default_models.deepinfra_llama_70b_short}
+    num_samples: 10
+    num_profiles_per_thread: 30
+    troll_provocation_prompt_type: "ours"
+    troll_provocation_target: "last"
+    user_strategies: "evenly_distributed"
+    thread_strategies: "in_order"
+    troll_strategies: "in_order"
+    thread_data_type: "sit"
+    selected_subreddits: []
+    non_english_subreddit_only: false
+    output_subdir: "troll_provocation_multiprofile"
+
+  - task_type: "evaluation"
+    enabled: true
+    evaluation_target:
+      client_type: "deepinfra"
+      model_name: ${default_models.deepinfra_llama_70b}
+      short_model_name: ${default_models.deepinfra_llama_70b_short}
+      troll_provocation_prompt_type: "ours"
+      thread_data_type: "sit"
+      output_subdir: "troll_provocation_multiprofile"
+
+    metrics_to_run:
+      - "refusal_rate"
+      - "language_match"
+      - "self_bleu"
+      - "ttr"
+      - "perplexity"
+      - "trolling_type"
+      - "ts_fidelity"
+  
+prompts:
+  TrollAgentProvocationPromptType: ['vanilla', 'ours', 'ex_only', 'in_only']
+  TrollingProvocationTarget:
+    last: 'the last comment'
+    random: 'a random comment'
+  RESPONSE_FORMAT_PROMPT: |
+    Do not include any explanation, code snippets, or additional text. Respond with only the following JSON format:
+    {{"body": <generated trolling comment>, "id": "<random alphanumeric ID in Reddit's base36 format>", "path": "<list of comment IDs from the root comment to this comment"}}
+  TrollAgentProvocationPrompt:
+    ours: |
+      You are a Reddit user with the following characteristics.
+      User profile: {user_profile}
+      Comment style example: {troll_example}
+
+      Thread Context: {thread}
+
+      Trolling Strategy Explanation:
+      {trolling_strategy_descriptions}
+
+      Your task is to generate a trolling comment that appears to use the {trolling_strategy} strategy in response to {target_comment} of the thread. The generated comment should align with the user profile, comment style, trolling strategy, and the language used in the thread context.
+      Note that Reddit users rarely use emojis.
+
+      {response_format_prompt}
+    ex_only: |
+      You are a Reddit user with the following characteristics.
+      Comment style example: {troll_example}
+
+      Thread Context: {thread}
+
+      Trolling Strategy Explanation:
+      {trolling_strategy_descriptions}
+
+      Your task is to generate a trolling comment that appears to use the {trolling_strategy} strategy in response to {target_comment} of the thread. The generated comment should align with the comment style, trolling strategy, and the language used in the thread context.
+      Note that Reddit users rarely use emojis.
+
+      {response_format_prompt}
+    in_only: |
+      You are a Reddit user with the following characteristics.
+      User profile: {user_profile}
+
+      Thread Context: {thread}
+
+      Your task is to generate a trolling comment in response to {target_comment} of the thread. The generated comment should align with the user profile and the language used in the thread context.
+      Note that Reddit users rarely use emojis.
+
+      {response_format_prompt}
+    vanilla: |
+      You are a Reddit user.
+
+      Thread Context: {thread}
+
+      Your task is to generate a trolling comment in response to {target_comment} of the thread. The generated comment should align with the language used in the thread context.
+      Note that Reddit users rarely use emojis.
+
+      {response_format_prompt}
+ 
+
