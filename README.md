@@ -1,4 +1,4 @@
-# Synthesizing Harmful Content via Persona-based Simulation for Robust Evaluation
+# Beyond Static Benchmarks: Synthesizing Harmful Content via Persona-based Simulation for Robust Evaluation
 
 This repository contains the code and data for **Synthesizing Harmful Content via Persona-based Simulation for Robust Evaluation**.
 
