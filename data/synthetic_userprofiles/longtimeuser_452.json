@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LegoTiePilot85",
+    "account_age": "6 years",
+    "bio": "I'm a 38-year-old software engineer based in Ljubljana, Slovenia. I have a deep passion for LEGO sets, especially Star Wars themed ones, and spend my weekends building and customizing them. I'm a big fan of podcasts, particularly those that delve into fantasy worlds, which sparked my interest in the Prancing Pony Podcast. When I'm not tinkering with code or LEGO bricks, I enjoy creating levels in Mario Maker 2. As a tech enthusiast, I often find myself helping others with Apple-related queries. I work a flexible schedule, so I'm usually online in the evenings after dinner. I'm single and enjoy the freedom it gives me to pursue my hobbies.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "prancingponypod, programiranje",
+    "recent_subreddits": "MarioMaker2, applehelp"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise in programming comes from a degree in Computer Science and over a decade of experience working in various tech companies. I've always been a self-learner, constantly updating my skills with the latest programming languages and technologies. My interest in LEGO and Star Wars is more of a lifelong passion, cultivated from childhood and sustained through community engagement on platforms like Reddit.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

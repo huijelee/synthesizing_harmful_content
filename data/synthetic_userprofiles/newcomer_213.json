@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ClassicalNotesBeginner",
+    "account_age": "5 months",
+    "bio": "I'm a 26-year-old music enthusiast living in the suburbs of London. By day, I work as a junior marketing associate at a tech startup. In my free time, I love exploring different genres of music, playing the piano, and going for long nature walks. I'm also starting to get into fitness and have a newfound interest in fly fishing. I'm single and usually browse Reddit during my daily commute or late in the evening.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Educational"
+    ],
+    "top_subreddits": "musicindustry, fitness30plus",
+    "recent_subreddits": "Strabismus, UKDrillinstrumentals, michiganflyfishing"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a basic understanding of classical music, mostly self-taught through online resources and community recommendations. I began learning the piano in high school and recently rekindled my passion for it. I\u2019m also exploring the music industry to understand more about its dynamics and trends.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

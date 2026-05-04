@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FinanceJourney42",
+    "account_age": "18 months",
+    "bio": "42-year-old female with a strong background in life sciences and 15 years of teaching experience. Recently transitioned into finance, driven by a passion for continuous learning and new challenges. Currently residing in the North East USA, she spends her weekdays studying for the SIE exam and networking online. Enjoys spending weekends cooking and experimenting with poutine recipes. Typically online during late evenings and early mornings. In a committed relationship and actively seeking career opportunities in finance.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "medicalschool",
+    "recent_subreddits": "poutine"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Extensive knowledge in life sciences acquired through years of teaching and self-study. Currently expanding her expertise into finance through self-directed learning, online courses, and engaging with finance communities on Reddit.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

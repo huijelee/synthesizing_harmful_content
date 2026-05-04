@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieKickstarterFan",
+    "account_age": "5 months",
+    "bio": "I'm a recent college graduate with a degree in business management, living in Austin, Texas. I\u2019ve recently developed an interest in crowdfunding and have just completed my first Kickstarter campaign. I enjoy learning about new management techniques and often end up browsing Reddit in the evenings after work. Currently working as a junior project manager at a tech startup. I\u2019m single and enjoy spending my weekends watching movies or working on my car, a Honda Prelude.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Educational"
+    ],
+    "top_subreddits": "mgmt, chonglangTV, askpsychology",
+    "recent_subreddits": "hondaprelude"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a formal education in business management, which has given me a solid foundation in project planning and execution. I\u2019m also self-taught in areas like crowdfunding, learning from online resources and personal experimentation.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvyExplorer",
+    "account_age": "18 months",
+    "bio": "An avid technology enthusiast from Manchester, UK, balancing a career in IT consultancy with a passion for exploring new gadgets and software. Often spends evenings and weekends diving into tech forums and subreddits, sharing insights and learning from the community. Enjoys biking and brewing craft coffee in spare time. Currently in a long-term relationship and enjoys discussing both tech and philosophical topics.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "Stryder7x, Libright_Opinion",
+    "recent_subreddits": "GoodValue"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses a computer science degree with additional certifications in network management. Gained expertise through a combination of formal education, hands-on experience in IT roles, and self-learning via online courses and community discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

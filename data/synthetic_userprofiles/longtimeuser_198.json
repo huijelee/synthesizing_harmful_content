@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EddiesBurned",
+    "account_age": "10 years",
+    "bio": "EddiesBurned is a seasoned gamer and tech enthusiast from Seattle, Washington. They have a deep passion for immersive RPGs and a knack for min-maxing character builds in games like Cyberpunk 2077. By day, they work as a software developer, specializing in AI systems, and by night, they transform into a digital nomad exploring the vast worlds of virtual landscapes. They are in a long-term relationship and often collaborate on gaming content with their partner during the evenings. EddiesBurned typically spends their online hours from 6 PM to midnight PST, diving into discussions about game mechanics and occasionally venturing into educational subreddits to satisfy their curiosity about the latest tech trends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "Anesthesia, longnaturalnails",
+    "recent_subreddits": "Creatine, pbsspacetime, RoyalChaos"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "EddiesBurned has a strong foundation in computer science with a degree from a reputable university. They have honed their expertise in software development through a combination of formal education and self-taught programming projects. Their deep dive into gaming mechanics is driven by a personal interest in understanding the intricacies of game design and player engagement. They often share insights gained from both professional experiences and personal gaming exploits.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

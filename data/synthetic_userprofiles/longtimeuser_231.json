@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PikaTechWiz",
+    "account_age": "6 years",
+    "bio": "A tech enthusiast who found a love for retro gaming and modding. Based in Seattle, I spend my evenings and weekends diving into game development and modification. As a software engineer by profession, I bring my coding skills to my hobbies, constantly tinkering with new ideas. When I'm not glued to my computer, I enjoy cycling around the Pacific Northwest and exploring new music. Currently in a relationship with a fellow gamer, we often collaborate on projects and gaming sessions together.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "arcadehunter, OlderThanYouThinkIAm",
+    "recent_subreddits": "pedals, seedboxes, Studentcoin"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and over a decade of experience in software development, I've honed my skills in scripting and coding. My passion for gaming led me to explore game development, where I self-taught through online resources and community forums. This has given me a unique blend of professional expertise and hobbyist enthusiasm.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

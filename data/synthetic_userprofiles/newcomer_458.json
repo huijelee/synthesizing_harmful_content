@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbie2023",
+    "account_age": "6 months",
+    "bio": "I'm a tech enthusiast who recently got into the world of Apple products. Currently living in Lynn, MA, I enjoy spending my weekends fishing and tinkering with racing simulators like NR2003. I work as a junior software developer, a role that feeds my curiosity and passion for learning new technologies. I'm currently single and usually online during the evenings after work. I dislike the high cost of cloud services and am always on the lookout for free or more affordable alternatives.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "browsers, LynnMA, Headgum",
+    "recent_subreddits": "FishingPlanet, Nr2003"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, having graduated from a local community college. Most of my knowledge about tech comes from personal interest and online courses. I'm still learning the ropes when it comes to Apple products, as I've been a long-time Windows and Android user.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

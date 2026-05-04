@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FinanciallyCurious99",
+    "account_age": "5 years",
+    "bio": "A passionate individual with a keen interest in financial planning and investment strategies. Based in Lawrence, Kansas, they spend their day working as a data analyst in a mid-sized tech company. When not crunching numbers, they indulge in music, often posting about artists like James Blake. They tend to be online during late evenings after work, and they are currently single. They enjoy engaging in discussions about financial independence and occasionally delve into philosophical debates.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Bogleheads",
+    "recent_subreddits": "oldfagdotorg, UniversityofKansas, JamesBlake"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "The user has a strong foundation in financial literacy, largely self-taught through online resources and community forums like Bogleheads. Their analytical skills are honed through professional experience in data analysis, which also aids them in making informed financial decisions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

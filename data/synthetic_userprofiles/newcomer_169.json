@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DowntonNewbie123",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old from Helsinki, Finland, who recently discovered the captivating world of Downton Abbey. I work in digital marketing for a tech startup, which keeps me on my toes during the weekdays. On weekends, I love unwinding with historical dramas and exploring new series. I'm single and enjoy spending my downtime at local cafes or hiking in the Finnish countryside. I usually browse Reddit during my lunch breaks and late evenings.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Discussion",
+      "Technology"
+    ],
+    "top_subreddits": "LakkoPostaukset, ReportNeeded",
+    "recent_subreddits": "hubspot"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in marketing and a keen interest in digital trends. My knowledge in historical dramas like Downton Abbey is still budding, mostly fueled by binge-watching sessions and discussions with friends and family.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

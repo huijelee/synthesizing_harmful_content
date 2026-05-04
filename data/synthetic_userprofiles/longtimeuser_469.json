@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ChronicWanderer92",
+    "account_age": "7 years",
+    "bio": "I'm a 31-year-old software developer living in Austin, Texas. I have a keen interest in exploring niche hobbies like bird watching and collecting unique perfumes. During the day, I work from home, which gives me the flexibility to browse Reddit during breaks. I'm passionate about health topics, particularly Lyme disease, as I've been managing my own diagnosis for several years. In the evenings, I usually unwind by catching up on my favorite subreddits or watching animated series. I'm currently single and enjoy spending weekends volunteering at local wildlife reserves.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Animals",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Ornithology, Perfumes",
+    "recent_subreddits": "korrasami, CorpuschristiNSFW, AUfrugal"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science from the University of Texas. My interest in Lyme disease stems from personal experience and extensive self-research. I actively participate in online communities to exchange knowledge and support others dealing with similar health issues.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

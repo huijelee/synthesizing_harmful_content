@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NYC_Novice",
+    "account_age": "4 months",
+    "bio": "A recent transplant to New York, trying to navigate the challenges of a new city. Previously worked in retail, but currently unemployed and seeking stability. Enjoys exploring digital marketing trends and occasionally swapping hardware parts online. Usually online during late evenings, especially when feeling overwhelmed. Single, with a passion for discussing societal issues and sharing personal experiences.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Lifestyle",
+      "Technology"
+    ],
+    "top_subreddits": "HardwareSwapEU",
+    "recent_subreddits": "FreedTheNips, digital_marketing"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Primarily learned about digital marketing through online courses and self-study. Recently shifted focus to understanding community dynamics and survival tactics due to personal circumstances. Strong interest in technology, often browsing and participating in hardware-related discussions.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MapleInvestor42",
+    "account_age": "7 years",
+    "bio": "I'm a 35-year-old financial analyst based in Toronto, Canada. I have a passion for investing and love sharing insights with the community. During weekdays, I work at a mid-sized financial firm, and during weekends, I enjoy hiking in the Canadian Rockies. I\u2019m married with two kids, and I often find myself online late in the evenings after the kids are asleep. My interests include financial markets, technology trends, and exploring new cuisines.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Kashmiri, DoorDashProblems, blokada",
+    "recent_subreddits": "WellnessOver30, ArenaFPS, HelluvaBoss"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a Bachelor's degree in Finance from the University of British Columbia. Over the years, I've gained extensive experience in financial analysis and investment strategies through my professional work and personal investing. I'm always looking to expand my knowledge, especially in emerging markets and tech investments.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

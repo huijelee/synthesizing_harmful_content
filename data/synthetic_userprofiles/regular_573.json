@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieSchnauzerFan",
+    "account_age": "18 months",
+    "bio": "I'm a 29-year-old IT specialist from Austin, Texas, working in computer forensics. I've been a tech enthusiast my whole life, and I love diving into the intricacies of digital systems. Outside of work, I have a deep passion for music and enjoy practicing my singing skills in my free time. I own a delightful Miniature Schnauzer named Fritz, who keeps me company during my late-night Reddit browsing sessions. Typically online in the evenings and weekends, I enjoy unwinding with a good Hearthstone match. Currently single, I enjoy exploring new burger joints around the city.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Animals"
+    ],
+    "top_subreddits": "computerforensics, MiniatureSchnauzer, singing",
+    "recent_subreddits": "BurgerWorld, libertadores"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science with a specialization in cybersecurity. Over the years, I've honed my skills through various IT roles and self-teaching in computer forensics. My job requires staying updated with the latest digital threat landscapes, which keeps me engaged with the tech community on Reddit.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

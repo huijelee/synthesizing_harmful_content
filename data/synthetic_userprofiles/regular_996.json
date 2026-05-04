@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechGuruNYC",
+    "account_age": "18 months",
+    "bio": "Based in New York City, I am a software consultant specializing in enterprise resource planning systems, particularly SAP. I have a deep passion for classical Chinese literature, which I explore during my downtime. I enjoy participating in NYC-based wedding planning communities as I recently got engaged. My online hours are typically in the evenings after work and on weekends. I work in a fast-paced environment, often traveling for client meetings. I love gaming as a stress reliever, particularly enjoying strategic shooters like Rainbow Six Siege.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Lifestyle"
+    ],
+    "top_subreddits": "classicalchinese, SAP, WedditNYC",
+    "recent_subreddits": "R6STeams"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science and have been working in the tech industry for over five years. My expertise in SAP comes from both formal training and hands-on experience during numerous implementation projects. Additionally, I am self-taught in classical Chinese through online courses and literature.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

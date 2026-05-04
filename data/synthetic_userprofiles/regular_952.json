@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousMindset123",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old software developer based in Penang. I love exploring new tech trends and am passionate about mental health advocacy. When I'm not coding, I enjoy gaming, watching political dramas like 'House of Cards', and engaging in discussions about cultural and societal issues. I'm single and typically browse Reddit during evenings and weekends after work.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "AskRomania",
+    "recent_subreddits": "StopGaming, penang, HouseOfCards"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and have been working in tech for over 5 years. My knowledge extends from software development to understanding the impact of technology on mental health, thanks to self-study and personal interest in psychology.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

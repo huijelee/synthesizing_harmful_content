@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ThriftyStarFan",
+    "account_age": "5 years",
+    "bio": "Hello! I'm a 29-year-old Texan living in the heart of Dallas. I work as a freelance graphic designer, which gives me the flexibility to explore my various interests. I'm a huge Dallas Stars fan and love catching games whenever I can. I also enjoy thrift shopping for unique finds and have recently developed a keen interest in the latest smartphone tech, especially the Pixel series. I'm single and enjoy my independence, but I'm open to meeting new people. My typical online hours are late evenings, as I work best during the night.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "NakedAttraction, DallasStars, ThriftStoreHauls",
+    "recent_subreddits": "Pixel4"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Graphic Design from a local university and have been working in the field for over seven years. My love for technology keeps me updated with the latest trends in smartphones and gadgets through self-learning and online tutorials.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

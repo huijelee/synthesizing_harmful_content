@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LevelNoob42",
+    "account_age": "6 months",
+    "bio": "I'm a 25-year-old software developer living in Austin, Texas. I've always had a strong interest in gaming, particularly esports, which is evident from my frequent visits to the G2eSports subreddit. However, lately, I've become concerned about how much time I spend gaming, especially during stressful periods. My interests also include technology and keeping up with the latest Apple products, as seen by my recent activity in the macpro subreddit. When I'm not working or gaming, I enjoy hiking and spending time with my dog. I'm currently single and usually online in the evenings after work.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "G2eSports",
+    "recent_subreddits": "macpro"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science and have been working in the tech industry for the past three years. My expertise lies mainly in software development and IT solutions, a field I pursued due to a lifelong fascination with computers and technology. Gaming has always been a significant pastime for me, and I've developed a fair understanding of esports through self-teaching and community engagement.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNomad_42",
+    "account_age": "18 months",
+    "bio": "TechNomad_42 is a 29-year-old video editor based in Boston, Massachusetts. Having a strong passion for soccer, they are an avid supporter of the New England Revolution. Originally from Wroclaw, Poland, they moved to the US for college and stayed after landing a job at a local media company. They dislike long commutes and are always looking for ways to work remotely. Their online hours typically range from 6 PM to midnight, after work and gym sessions. Currently single, they enjoy traveling, especially to places where they can indulge in their new hobby, skydiving.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "newenglandrevolution, wroclaw",
+    "recent_subreddits": "DuvalCounty, SkyDiving, cork"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "TechNomad_42 has a degree in Media and Communications from a university in the US and has been working professionally as a video editor for over 5 years. They have developed a solid understanding of both hardware and software through self-teaching and on-the-job experience. They often explore new technologies and tools to optimize their workflow and are knowledgeable about remote work solutions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CherrySwapExpert",
+    "account_age": "4 years",
+    "bio": "I'm a 29-year-old software developer based in Austin, Texas, with a passion for gaming and cryptocurrencies. I spend my working hours developing blockchain solutions, and in my free time, I indulge in my love for Animal Crossing and fantasy literature. I am usually online in the evenings, often browsing Reddit while sipping on a cup of coffee. I'm currently in a relationship and enjoy discussing philosophical topics and economic theories. I dislike early mornings and overly crowded places.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "tezos",
+    "recent_subreddits": "samharris, TheFirstLaw, TQQQ"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a Bachelor's degree in Computer Science and have been working in the tech industry for over 7 years. My expertise lies in blockchain technology, which I initially explored during my university days and later honed through professional experiences and personal projects. I'm also a self-taught enthusiast in game design and narrative storytelling.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

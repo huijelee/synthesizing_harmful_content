@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DataSavvyNewbie",
+    "account_age": "8 months",
+    "bio": "I'm a tech enthusiast from Toronto, Canada. I work as a junior data analyst at a local startup. In my spare time, I enjoy exploring new software and playing MMORPGs like Black Desert Mobile. I have a keen interest in fitness and often practice bodyweight exercises. I dislike restrictive internet plans, as they limit my ability to download large game files and software updates. I'm usually online in the evenings after work, around 6 PM to 10 PM EST. Currently, I'm single and enjoy my independent lifestyle.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "bys, PwC, bodyweightfitness",
+    "recent_subreddits": "SoftwareInc, BlackDesertMobile, Soosh"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Information Technology, which sparked my interest in data analysis. I am mostly self-taught in data visualization tools and Python programming, often using Reddit communities and online tutorials to enhance my skills.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

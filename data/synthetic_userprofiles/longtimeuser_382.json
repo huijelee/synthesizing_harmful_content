@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HistamineHacker",
+    "account_age": "7 years",
+    "bio": "A 35-year-old culinary researcher based in Seattle, passionate about understanding food intolerances, especially histamine intolerance. Enjoys hiking in the Pacific Northwest and experimenting with allergen-free recipes. Works as a freelance food writer and recipe developer. Single and dedicated to raising awareness about dietary restrictions. Typically online in the evenings and weekends, when not exploring the great outdoors.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Lifestyle",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "AppleWhatShouldIBuy, invasivespecies, BlissRoms",
+    "recent_subreddits": "GSP, Detroit, soundcloud"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses a degree in Food Science from the University of Washington. Has spent over a decade researching histamine intolerance and dietary impacts, often self-teaching through extensive reading and experimentation. Regularly attends workshops and seminars on nutrition and food allergies.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieRedditor2023",
+    "account_age": "6 months",
+    "bio": "I'm a 22-year-old college student currently studying business administration in the Midwest. I recently started a part-time job at CVS to help cover tuition and living expenses. When I'm not studying or working, I enjoy browsing Facebook Marketplace for vintage finds and keeping up with the latest COVID-19 vaccination news. I usually check Reddit in the evenings after classes and during lunch breaks. I'm single and living in a shared apartment with a couple of roommates. My interests include online shopping, health and wellness, and staying informed about current events.",
+    "top_subreddit_categories": [
+      "General Content",
+      "Lifestyle",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "CovidVaccinated, FacebookMarketplace",
+    "recent_subreddits": "InaAogo"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a general knowledge of business concepts through my college courses and some practical experience gained from my part-time job. I also keep informed about COVID-19 developments and online marketplace trends through social media and news outlets.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

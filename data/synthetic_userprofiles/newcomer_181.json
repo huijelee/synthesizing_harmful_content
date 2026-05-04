@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieExplorer2023",
+    "account_age": "5 months",
+    "bio": "Hello! I'm a software engineering student from Sydney, Australia, diving into the world of Reddit. I have a keen interest in blockchain and cryptocurrencies, which is why I recently started using Atomic Wallet. Apart from tech, I enjoy playing Roblox and am a big fan of the Jurassic World series. I typically browse Reddit in the evenings, after classes or work. I'm currently single and juggling my studies with a part-time job at a local tech startup.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Educational"
+    ],
+    "top_subreddits": "TDS_Roblox, casualiama, backpain",
+    "recent_subreddits": "specialed, jurassicworldthegame"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a foundational knowledge in software engineering gained through my university studies and some personal projects. I am particularly interested in blockchain technology, which I have been exploring through online courses and forums.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

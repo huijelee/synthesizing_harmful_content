@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CTTechyGrappler",
+    "account_age": "8 years",
+    "bio": "I'm a 35-year-old IT consultant based in Hartford, Connecticut. I'm passionate about technology and Brazilian Jiu-Jitsu. I spend most of my days solving complex tech issues and rolling at my local dojo. I typically browse Reddit in the evenings after work and practice, often sharing insights about computer hardware and occasionally diving into discussions about my favorite MMO, Creatures of Sonaria. I'm single, enjoy hiking on weekends, and have a penchant for trying out craft beers.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "ComputerHardware, jiujitsu, CreaturesofSonaria",
+    "recent_subreddits": "Chainlink"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a Bachelor's degree in Information Technology, and I've been working in the tech industry for over a decade. I started tinkering with computers as a teenager, which led to my career. My knowledge of Jiu-Jitsu comes from years of training and competing since college.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

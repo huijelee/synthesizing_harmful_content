@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CraftyNewbie42",
+    "account_age": "6 months",
+    "bio": "I'm a college student majoring in Computer Science at Lone Star College. I recently got into Minecraft and love exploring new ideas in the game. I'm originally from Houston, Texas, and I usually browse Reddit during the evenings after classes or late at night when I can't sleep. I'm single and enjoy watching comedy sketches, especially Key & Peele. I'm not a fan of overly complicated mods in games, but I appreciate innovative ideas for vanilla gameplay.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Entertainment"
+    ],
+    "top_subreddits": "Chiraqology, ELATeachers, KeyandPeele",
+    "recent_subreddits": "queensgambit, LoneStarCollege, eveonline"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a foundational knowledge in computer programming from my college courses. Most of my Minecraft knowledge is self-taught through YouTube tutorials and community discussions. I'm still learning about different game mechanics and mods.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

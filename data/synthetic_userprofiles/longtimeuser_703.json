@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MandoLoreMaster",
+    "account_age": "7 years",
+    "bio": "A seasoned Redditor and tabletop RPG enthusiast hailing from Budapest, Hungary. With a deep love for Star Wars and role-playing games, I've been part of the gaming community for over two decades. When I'm not engrossed in RPGs, I work as a software developer for a tech startup. I enjoy discussing corporate influence on technology and pop culture, as seen in my frequent visits to subreddits like circlebroke2 and HailCorporate. I'm single, and my typical online hours are in the evenings after 8 PM CET, where I indulge in both programming and RPG threads.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "circlebroke2, programmingHungary, HailCorporate",
+    "recent_subreddits": "platinumend, Hooping"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong foundation in software development, having studied computer science at university and honed my skills through years of hands-on experience. My passion for RPGs and Star Wars has led me to amass extensive knowledge about the lore and mechanics of various systems, particularly those set in the Star Wars universe.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "strict"
+  }
+}

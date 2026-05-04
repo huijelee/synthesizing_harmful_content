@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BeachBumScholar",
+    "account_age": "18 months",
+    "bio": "I'm a 22-year-old student currently attending CSULB, where I'm majoring in Computer Science. I live off-campus in Long Beach, California. My interests include gaming, Japanese comedy shows like GakiNoTsukai, and I'm a big fan of the band Death. I usually browse Reddit in the evenings after classes or during breaks. I'm currently single and enjoy spending my free time exploring new music and catching up on my favorite shows.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Entertainment",
+      "Educational"
+    ],
+    "top_subreddits": "DeathBand",
+    "recent_subreddits": "GakiNoTsukai, Monash"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a solid foundation in computer science due to my ongoing studies at CSULB. Additionally, I taught myself basic Japanese through online courses to better appreciate my favorite shows. My interest in music has led me to learn a lot about different genres, especially metal.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

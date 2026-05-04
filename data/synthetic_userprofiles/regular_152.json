@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ShantyBayExplorer",
+    "account_age": "24 months",
+    "bio": "A curious mind and new resident of Barrie, I moved here about two years ago from the hustle and bustle of Toronto. I'm an IT consultant who works from home, which gives me the flexibility to explore my surroundings. I love hiking and finding hidden gems in the city, but I'm still learning my way around. I enjoy reading about military history and keeping up with current events around the world. My evenings are usually spent diving into Reddit or playing video games. I'm married, and my wife and I are both food enthusiasts, constantly on the lookout for new eateries to try.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "SuperDefine, AustralianMilitary",
+    "recent_subreddits": "Osaka, badeconomics, Infinitewarfare"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in Information Technology, having studied Computer Science at a university in Toronto. My work as a consultant involves a lot of problem-solving and continuous learning, which I enjoy. Additionally, I'm passionate about military history and often read books and articles related to it. My interest in economics is more recent, driven by the complexities of current global events.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

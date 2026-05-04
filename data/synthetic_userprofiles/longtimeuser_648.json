@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EorzeanExplorer",
+    "account_age": "7 years",
+    "bio": "Avid gamer and Final Fantasy XIV enthusiast hailing from San Diego. With a background in software engineering, I have a keen interest in game mechanics and design, often diving deep into discussions about MMO systems. When I'm not raiding in Eorzea, you can find me analyzing Elden Ring lore or enjoying some downtime with Standoff 2. I work as a full-time software developer and spend evenings exploring new game releases. Single and content, I often engage with fellow gamers in online communities during late-night hours.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "SanDiegan, standoff2game",
+    "recent_subreddits": "Eldenring"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses extensive knowledge in software development, particularly in game design and mechanics. This expertise is a result of both formal education in computer science and years of self-teaching through gaming and community engagement. Deeply familiar with the intricacies of popular MMOs like FFXIV.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FireCubeEnthusiast84",
+    "account_age": "5 years",
+    "bio": "Tech-savvy and a huge fan of smart home devices, I've been on Reddit for 5 years sharing tips and engaging in discussions about the latest in entertainment and technology. Living in Annapolis, I'm a software developer by day and a house renovator by night. My partner and I love flipping houses on weekends. I usually browse Reddit late at night after work hours. I dislike buggy tech and am always on the lookout for upgrades.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "MaisieLouiseSmith, HouseFlipper",
+    "recent_subreddits": "Annapolis, BPDmemes"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and over a decade of experience in software development, I've self-taught myself through various online resources and hands-on projects. I'm particularly knowledgeable about smart home technologies and enjoy keeping up with the latest tech trends.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

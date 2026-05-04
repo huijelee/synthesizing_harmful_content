@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EpicGamerMaine",
+    "account_age": "5 years",
+    "bio": "I'm a 35-year-old software developer based in Portland, Maine, with a passion for gaming and building custom PCs. When I'm not coding, you can find me hanging out with my Maine Coon, Luna, or tinkering with home automation projects. I usually browse Reddit in the evenings after work and during weekends. I\u2019m in a long-term relationship with my partner, who shares my love for video games and cats.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Animals",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "MaineCoon",
+    "recent_subreddits": "homebuilt"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Computer Science and have been working as a software developer for over a decade. I've always had a keen interest in technology and gaming, which led me to self-teach advanced programming and game development skills. My expertise is further bolstered by my experience in building custom PCs, both for gaming and professional use.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

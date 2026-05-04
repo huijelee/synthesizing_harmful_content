@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousEtymologist42",
+    "account_age": "18 months",
+    "bio": "A 28-year-old linguistics enthusiast from Portland, Oregon who spends most evenings exploring the roots of words and the intricacies of language. Works as a freelance writer, primarily focusing on educational content. Enjoys deep dives into conspiracy theories during late-night Reddit scrolls. Recently engaged, with plans for a budget-friendly wedding. Usually online during evenings and late nights, often accompanied by a cup of herbal tea.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "etymology, numerai",
+    "recent_subreddits": "BigBudgetBrides, mammamia, MassForTheDead"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a Bachelor's degree in Linguistics from a local university. Developed a strong interest in etymology during college and continued exploring this passion through self-study and online courses. Also dabbles in data science concepts, inspired by participation in Numerai competitions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

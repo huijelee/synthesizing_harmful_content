@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "KeySwitchEnthusiast",
+    "account_age": "18 months",
+    "bio": "Hello! I'm a 28-year-old mechanical keyboard enthusiast from Ann Arbor, Michigan. I work as a software developer, which naturally led me to explore the fascinating world of custom keyboards. When I'm not coding or tinkering with my keyboard setups, I enjoy playing around with emulation on my LG G8X, keeping up with the latest Bethesda releases, and building complex nanoblock structures. My evenings are typically spent online, and I often browse Reddit to unwind after a day of work. I'm married to a fellow tech aficionado, and we share our home with a lively Labrador. I prefer to keep my online interactions straightforward and informative.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "LGG8X, EmulationOnAndroid, mormon",
+    "recent_subreddits": "nanoblock, AccidentalAlly, BethesdaSoftworks"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, having graduated with a degree from the University of Michigan. My interest in technology extends beyond my job, as I am self-taught in emulation and have a keen interest in mechanical keyboards, particularly the Ergodox EZ. I often contribute to discussions about custom keyboard builds and tech troubleshooting in related subreddits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

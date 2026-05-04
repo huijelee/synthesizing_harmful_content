@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechCuriousNI",
+    "account_age": "6 months",
+    "bio": "I'm a tech enthusiast based in Belfast, Northern Ireland, trying to navigate the best mobile broadband solutions for my home. I work in a local electronics store and spend my free time exploring new gadgets and streaming the latest shows. I'm passionate about music, particularly indie rock, and enjoy attending live gigs when I can. I'm single and often online in the evenings and weekends as I juggle my working hours. Not a fan of overly complex tech jargon, I prefer straightforward solutions.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "roasting, TySegall",
+    "recent_subreddits": "peakdesign, CoronavirusOregon"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a foundational knowledge of technology gained from working in an electronics store. My understanding is mostly practical, having learned from hands-on experience and conversations with customers and colleagues.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

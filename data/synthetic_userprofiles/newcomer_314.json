@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "VRNavigator2023",
+    "account_age": "6 months",
+    "bio": "A tech enthusiast and avid gamer from Cape Town, South Africa. Recently delved into VR gaming with a focus on space exploration games like No Man's Sky. Works as a junior software developer during the day and explores the virtual universe by night. Interested in true crime, especially cases like the NXIVM case, and enjoys staying up-to-date with the latest in electric vehicles, particularly the Hyundai Ioniq 5. Single and enjoys spending free time hiking Table Mountain or diving into the latest VR experiences. Typically online in the evenings and weekends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "Younger, theNXIVMcase",
+    "recent_subreddits": "Ioniq5, survivorsa, capetown"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a background in computer science with a degree from a local university. Passionate about technology and virtual reality, learning through online courses and forums. Recently started exploring the world of electric vehicles and keeping an eye on renewable energy trends.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

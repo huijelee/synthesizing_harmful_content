@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvyExplorer",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old tech enthusiast from Malm\u00f6, Sweden, who enjoys exploring the latest gadgets and technology trends. My interests include photography, where I primarily use Nikon cameras, and I'm an avid fan of JoJo's Bizarre Adventure and Kings of Leon. I work as a freelance IT consultant, helping small businesses optimize their tech infrastructure. In my free time, I love attending live concerts and exploring new places in and around Europe. I'm currently single and enjoy the flexibility of working remotely, which allows me to manage my own schedule. I typically browse Reddit during the late afternoon and evening hours.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "Nikon",
+    "recent_subreddits": "malmo, JoJoITA, kingsofleon"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science and have been working in the IT field for over 5 years. My expertise lies in troubleshooting hardware and software issues, which I've honed through both formal education and practical experience in various consulting projects.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

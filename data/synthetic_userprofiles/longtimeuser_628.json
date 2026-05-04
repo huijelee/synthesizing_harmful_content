@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PurpleChocobo92",
+    "account_age": "9 years",
+    "bio": "Hey there! I'm Alex, a 31-year-old passionate about gaming, mental health advocacy, and social justice. Originally from the Midwest, I've recently moved to the West Coast to work as a software developer in a tech startup. In my spare time, I dive deep into RPGs, especially Final Fantasy, and enjoy photography as a therapeutic hobby. I'm single and open to meeting new people who share similar interests. My online activity peaks during late evenings and weekends, often fueled by a good cup of coffee.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "PoliticalSparring, loveadhd",
+    "recent_subreddits": "FinalFantasyVI, boudoir, dragonfable"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and a minor in Psychology. My passion for mental health advocacy stems from personal experiences and extensive reading. I keep myself updated on current events and policies through discussions and debates on subreddits like 'PoliticalSparring'.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

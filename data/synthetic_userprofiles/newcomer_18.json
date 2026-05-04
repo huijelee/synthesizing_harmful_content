@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbieAustin",
+    "account_age": "8 months",
+    "bio": "I'm a tech enthusiast based in Austin, Texas, who recently got into the world of PC gaming and streaming. I work as a junior electrical engineer, dabbling with KiCad for PCB design during the weekdays. On weekends, you can find me exploring local coffee shops or attending live comedy shows. Fashion is a new hobby of mine, especially the eclectic street styles from Harajuku. Single and loving the freedom to explore new interests. My online hours vary, but I'm usually active late at night or during lunch breaks.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "KiCad, WKUK, AustinTweakers",
+    "recent_subreddits": "kep1er, HarajukuFashion"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in electrical engineering, which I studied at the University of Texas. Most of my tech knowledge comes from self-teaching and community forums. I'm relatively new to cloud gaming and streaming, learning as I go from online resources and Reddit discussions.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EagerElecRookie",
+    "account_age": "4 months",
+    "bio": "I'm a freshman at UCSD, majoring in Electrical Engineering. I recently discovered Reddit and have been using it to connect with fellow students and explore my hobbies. I enjoy blacksmithing and experimenting with different types of whisky during my downtime. Originally from San Diego, I love the sunny weather and the beach. My typical online hours are in the evenings after class or on weekends. I'm currently single and focusing on my studies.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Blacksmith, whisky",
+    "recent_subreddits": "GnuCash"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a basic understanding of electrical engineering concepts from my introductory courses at UCSD. I also have a keen interest in blacksmithing, which I started learning through online tutorials and local workshops. My exploration of whisky is more of a casual hobby, where I enjoy trying different brands and learning about the distillation process.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

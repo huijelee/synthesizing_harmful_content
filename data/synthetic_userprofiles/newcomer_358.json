@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CraftyConsoleNewbie",
+    "account_age": "6 months",
+    "bio": "I'm a 22-year-old college student majoring in Computer Science, currently living in the Twin Cities area. My interest in gaming, especially Minecraft, started during high school and has persisted through college. I enjoy exploring the technical aspects of games, but I often find myself frustrated with console limitations compared to PC capabilities. I usually browse Reddit in the evenings after classes and during weekends. I'm single and often spend my free time playing games or watching gaming content on YouTube.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "Kyrgyzstan, juul, controlgame",
+    "recent_subreddits": "saintcloud, standoff2game"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a moderate understanding of gaming, particularly in Minecraft and various console games. Most of my knowledge is self-taught through online communities, YouTube tutorials, and trial and error. I've recently begun exploring modding and game development as part of my coursework.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

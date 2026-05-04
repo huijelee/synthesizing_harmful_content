@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BrickExplorer2023",
+    "account_age": "5 months",
+    "bio": "I'm a 28-year-old mechanical engineer based in Toronto, Canada. I've recently developed an interest in collecting and building intricate brick models, especially themed around fantasy worlds like LOTR. Aside from this hobby, I enjoy exploring men's fashion trends and play the mobile game Random Dice in my free time. I usually browse Reddit in the evenings after work, around 8 PM to 11 PM EST. Currently single, I spend weekends visiting local hobby shops or catching up on fashion blogs.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "randomdice",
+    "recent_subreddits": "malefashion"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My interest in building models started as a kid with LEGO sets, but I've recently expanded into other brands. I primarily learn through online reviews and community recommendations. My engineering background gives me a keen eye for design and structural stability, which I apply to my hobby.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

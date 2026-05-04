@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieNavigator123",
+    "account_age": "6 months",
+    "bio": "A curious soul from New Orleans, currently juggling medical school at Tulane and a part-time job in retail at Old Navy. I love flying my DJI Phantom drone over the Mississippi River and capturing stunning aerial shots. When I'm not studying or working, you'll find me exploring the latest in tech and medicine. Single and loving the freedom to dive deep into my interests. I usually browse Reddit at night when I wind down from a busy day.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Technology"
+    ],
+    "top_subreddits": "djiphantom, Physicianledmedicine, Tulane",
+    "recent_subreddits": "Oldnavy"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Currently a medical student with a keen interest in integrating technology into healthcare. I've always been a tech enthusiast, having built my own PC during high school after watching countless YouTube tutorials. My educational background in medicine and my hobby in tech have given me a unique perspective on how these fields can intersect.",
+    "typical_text_length": "brief comments",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

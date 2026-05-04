@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FashionCurious123",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old fashion enthusiast from Leeds, UK, currently working as a freelance graphic designer. I developed an interest in replica fashion to explore trendy styles without breaking the bank. In my free time, I enjoy playing digital board games like Gloomhaven and trading gear on Borderlands 3. I dislike poor customer service and overhyped fashion trends. I'm usually online during late evenings and weekends. I'm single and enjoy spending time with friends over video calls.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "GloomhavenDigital, Borderlands3Exchange",
+    "recent_subreddits": "harborfreight, spambotdetector"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in graphic design, having studied it at university. My interest in fashion and tech comes from years of self-study and following online communities. I've learned a lot about replica fashion through Reddit and YouTube channels.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

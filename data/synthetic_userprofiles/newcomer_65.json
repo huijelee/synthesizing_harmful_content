@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BellBrokeRookie",
+    "account_age": "8 months",
+    "bio": "I'm a 24-year-old amateur gamer who recently stumbled upon the world of Reddit. I spend my downtime diving into video games and exploring online communities. Based in Austin, Texas, I work as a junior mechanic during the day and immerse myself in gaming and Reddit at night. I'm single and currently share an apartment with a couple of roommates who are equally into gaming. I usually browse Reddit during late evenings and weekends. I enjoy learning about cars, especially Honda motorcycles, and have a penchant for humor and snarky commentary, which often draws me to subreddits like gymsnark.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Humor"
+    ],
+    "top_subreddits": "Honda_XR_and_XL, gymsnark",
+    "recent_subreddits": "yiotro_games, IsThereASubredditFor"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a practical background in mechanics, largely acquired through hands-on experience at my current job and tinkering with bikes in my free time. My gaming knowledge is self-taught, built from years of playing and watching Let's Plays online. I recently started exploring the broader gaming community on Reddit, which has been a great source of tips and tricks.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

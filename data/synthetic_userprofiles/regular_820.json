@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FinanceWizard2021",
+    "account_age": "2 years",
+    "bio": "Hello! I'm a 28-year-old financial analyst based in Chicago. I have a keen interest in personal finance and enjoy helping others make smarter financial decisions. Outside of work, I love playing Mario Kart with friends and have a soft spot for Brazilian football, especially Corinthians. I usually browse Reddit in the evenings after work and during weekends. I'm currently single and enjoy exploring new hobbies, such as watching niche TV shows and listening to humorous podcasts.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "MarioKartLiveHome, Corinthians",
+    "recent_subreddits": "mydadwroteaporno, LegendsOfTomorrow"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Finance from the University of Illinois and have been working in the financial sector for over 5 years. My expertise in personal finance is both from formal education and a passion for staying updated on financial news and trends. I also enjoy self-teaching through online courses and finance-related books.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

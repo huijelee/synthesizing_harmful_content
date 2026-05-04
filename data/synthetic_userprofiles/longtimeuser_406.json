@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PlantWhisperer_88",
+    "account_age": "7 years",
+    "bio": "Avid plant enthusiast with a knack for technology. Originally from Portland, Oregon, but currently residing in Manchester, UK. Works as a software developer during the day and indulges in houseplant care during late evenings. Single and enjoys exploring new plant species and watching reality TV shows like Love Island USA. Often online between 8 PM and midnight GMT, frequently sharing tips on plant care and discussing the latest tech gadgets.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "OnePlus8T",
+    "recent_subreddits": "LoveIslandUSA, IsleofMan, Scythe_official"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses a strong foundation in software development with a degree in Computer Science. Gained plant knowledge through a combination of self-teaching, attending local horticulture workshops, and participating in online plant communities. Has a keen interest in plant care, especially in creating optimal indoor environments for plant growth.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

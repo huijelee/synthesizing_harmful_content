@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MiamiMechMage",
+    "account_age": "18 months",
+    "bio": "A 27-year-old mechanical engineer currently living in Cincinnati, Ohio. Originally from Miami, I graduated from Miami University (hence the username) with a degree in Mechanical Engineering. I have a keen interest in tabletop role-playing games, especially Warhammer 40k and World of Darkness settings. I also enjoy discussing underrated TV shows and sharing opinions on them. When not working on engineering projects, I spend time playing baseball and following MLB updates. I'm single, and my typical online hours are in the evening after work and on weekends. I love debating about pop culture and am a big fan of sci-fi and fantasy genres.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "miamioh, AdeptusMechanicus, WorldOfDarkness",
+    "recent_subreddits": "Stuck10YearsBehind, MLBPowerPros"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise lies in mechanical engineering, which I honed through my academic studies and current job, where I work on design projects. I'm also self-taught in the lore and mechanics of various tabletop games, particularly Warhammer 40k and World of Darkness. My background in these games comes from years of playing, researching, and engaging with community forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

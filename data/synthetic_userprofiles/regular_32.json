@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GreenCardGuru",
+    "account_age": "2 years",
+    "bio": "I'm an avid contributor on immigration-related subreddits, particularly focused on sharing my experiences and helping others navigate the complexities of the U.S. immigration system. Originally from India, I've been living in the U.S. for the past six years, working as a software developer. I'm passionate about technology, especially gaming mods, and I love tinkering with No Man's Sky in my free time. I reside in California, and I'm usually online during the late evenings, thanks to my flexible work-from-home schedule. I'm married, with my spouse currently in the process of obtaining a green card.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "Roadkillshow, roseanne, NoMansSkyMods",
+    "recent_subreddits": "idlemafiagame, CHIEF_Coalition"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and have spent the last few years working in the tech industry, which has honed my expertise in software development. Additionally, my personal journey through the immigration process has made me knowledgeable about USCIS policies. I frequently research and stay updated on immigration laws to assist others in similar situations.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

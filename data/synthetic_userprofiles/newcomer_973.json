@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CoffeeQuestNewbie",
+    "account_age": "6 months",
+    "bio": "A 29-year-old software developer from Austin, Texas, who recently fell in love with espresso-making during the pandemic. Enjoys experimenting with different brewing methods and exploring the world of specialty coffee. When not coding or brewing, you can find them hiking in the Texas hill country or gaming. Typically online in the evenings after work and on weekends. Currently single and enjoys the freedom to explore new hobbies.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Discussion"
+    ],
+    "top_subreddits": "BrainFog, snuggly",
+    "recent_subreddits": "ShadowHearts, OptionsExclusive, himynameisjay"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Primarily self-taught in the realm of espresso and coffee-making, with a background in computer science. Became interested in coffee through various online resources and communities, and frequently engages with content creators and coffee enthusiasts to expand knowledge.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousCoder42",
+    "account_age": "18 months",
+    "bio": "I'm a 19-year-old college student from Seattle, majoring in Computer Science. I have a passion for coding, particularly in Python, and love creating visualizations with Manim. When I'm not buried in code, I enjoy arranging floral designs as a relaxing hobby. I usually browse Reddit in the evenings after classes and during weekends. Currently single, I enjoy hanging out with friends and exploring new cafes around town.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "python, manim",
+    "recent_subreddits": "FloralDesign"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I gained my programming knowledge through a combination of formal education and online courses. I've been coding since high school and have a particular interest in Python for data science and visualization. My floral design skills are self-taught, developed through online tutorials and hands-on practice.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

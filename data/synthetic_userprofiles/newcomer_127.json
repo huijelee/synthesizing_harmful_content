@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CardCollectorNYC",
+    "account_age": "6 months",
+    "bio": "A 25-year-old gaming enthusiast from New Jersey who recently got into collecting trading cards, especially Yu-Gi-Oh! cards. Enjoys traveling to nearby cities, particularly NYC, to explore different card and comic shops. Works as an entry-level IT support technician, which allows for flexible hours. Generally active online in the evenings after work and during weekends. Single and enjoys spending free time exploring Reddit for new hobbies and interests.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "DCGuns",
+    "recent_subreddits": "Femaleorgasmdenial, GrowTents, IThinkYouShouldLeave"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a basic understanding of Reddit and its subreddits, with primary knowledge focused on card collecting and trading. Recently started exploring other hobbies like indoor gardening with grow tents and niche interests. Most knowledge is self-taught through online forums and YouTube videos.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousUOStudent",
+    "account_age": "5 months",
+    "bio": "I'm a 20-year-old university student majoring in Kinesiology at the University of Oregon. Originally from India, I moved to the U.S. for my studies. I'm passionate about fitness and understanding how the human body works, which is why I'm actively exploring forums like AngionMethod and workout. In my free time, I enjoy watching British dramas like Ackley Bridge and engaging in discussions about cultural identity on subreddits like indianmuslims. My online activity is usually in the evenings after classes and workouts. I'm currently single and living in a dorm on campus.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Discussion",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "indianmuslims, UniversityofOregon, workout",
+    "recent_subreddits": "ackleybridge"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge is primarily rooted in my academic studies in Kinesiology, supplemented by personal interests in fitness and cultural studies. I frequently apply insights from my coursework to online discussions, particularly in forums related to physical health and exercise.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

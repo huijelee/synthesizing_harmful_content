@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ArchRambler42",
+    "account_age": "18 months",
+    "bio": "Hey there! I'm a tech enthusiast based in Norman, Oklahoma. By day, I work as a software developer, mainly dabbling in open-source projects. Linux is my go-to for everything, and I'm always on the lookout for the latest in privacy-focused tech. When I'm not coding, you can find me exploring the latest trends in fashion, especially anything from Uniqlo. I\u2019m also a bit of a retro gaming fan and enjoy playing Dr. Mario from time to time. Relationship-wise, I'm happily single, enjoying the freedom to dive into my hobbies. I typically browse Reddit in the evenings and late nights after work.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "uniqlo, ModernMagic",
+    "recent_subreddits": "oklahoma, DrMarioMains"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, which I pursued at a local university. My interests heavily lean towards Linux and privacy tech, which I've explored further through online courses and self-study. I've also gained practical experience by contributing to open-source projects.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

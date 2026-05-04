@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechQuestNovice",
+    "account_age": "8 months",
+    "bio": "I'm a 22-year-old engineering student currently in my final year of B.Tech. I'm torn between pursuing higher studies in technology through an M.Tech from IIT or diving into the world of UPSC with the hope of joining the Indian civil services. I have a keen interest in board games, particularly 'Blackstone Fortress', and I love modding games like those found in the 'synergiesmod' subreddit. I reside in Bangalore and usually browse Reddit in the evenings after college classes. I work part-time as a coding tutor, which helps me stay afloat financially. I'm single and enjoy spending my weekends exploring new tech gadgets or tinkering with smart home setups, which led me to the 'broadlink' subreddit recently.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Technology"
+    ],
+    "top_subreddits": "Blackstonefortress, synergiesmod",
+    "recent_subreddits": "broadlink"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge is primarily rooted in engineering and technology, gained through formal education in a B.Tech program. I've also developed a knack for tinkering with gaming mods and smart home devices through self-learning and online communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

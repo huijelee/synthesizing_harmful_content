@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "freshstart_rookie",
+    "account_age": "6 months",
+    "bio": "Hi! I'm a 25-year-old from a small town in the Midwest, currently working as a junior graphic designer. I recently moved to a bustling city to start fresh and explore new opportunities. In my free time, I enjoy learning about homemaking tips, which led me to the subreddit. I'm single and love spending evenings exploring local cafes or curling up with a good book. I'm usually online during evenings and weekends.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "homemaking",
+    "recent_subreddits": "u_skeppypvpproreal"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in graphic design and am passionate about digital art. Most of my knowledge comes from college courses and online tutorials. I'm also self-teaching myself about home economics and personal finance.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

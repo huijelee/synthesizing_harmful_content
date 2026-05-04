@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NeoNoodle_2077",
+    "account_age": "5 years",
+    "bio": "A 32-year-old IT consultant from Austin, Texas, with a love for all things cyberpunk and sci-fi. Spends most evenings gaming or diving into deep discussions on Reddit. An amateur chef, experimenting with recipes from around the world, often found on the cookbooks subreddit. Currently single, enjoys the freedom but open to meeting someone who shares his interests. Active online during late evenings, usually after 8 PM CST.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "177013, cookbooks, IsTheMicStillOn",
+    "recent_subreddits": "popups, bidets"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a degree in Computer Science from the University of Texas. Works as an IT consultant, which provides a solid understanding of technology and gaming systems. Self-taught in cooking through online resources and practice.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

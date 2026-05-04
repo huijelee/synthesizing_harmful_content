@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewYearNewMe26",
+    "account_age": "6 months",
+    "bio": "Hi! I'm a 26-year-old software developer living in Austin, Texas. Since the pandemic, I've taken a keen interest in self-improvement and sobriety, which led me to the r/stopdrinking community. Outside of work, I enjoy hiking, exploring new tech gadgets, and participating in local hackathons. I'm single and enjoy spending my evenings gaming or trying out new recipes. I usually browse Reddit in the evenings after work and occasionally during my lunch breaks.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "HowToHack",
+    "recent_subreddits": "TheBosnianApeSociety, DrSquatch"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science from the University of Texas and have been coding since I was a teenager. My interest in technology naturally led me to learn about cybersecurity, which is why I frequent subreddits like HowToHack. I stay updated with the latest tech trends and enjoy sharing tips and tricks with others.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

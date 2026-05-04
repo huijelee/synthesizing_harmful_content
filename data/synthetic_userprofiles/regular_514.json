@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FinanceFledgling",
+    "account_age": "18 months",
+    "bio": "I'm a 26-year-old recent graduate with a degree in Finance, currently living in Austin, Texas. I work as a junior financial analyst at a mid-sized firm. When I'm not crunching numbers, I love tinkering with my Ender 5 Plus 3D printer and recording music with my Presonus audio interface. I'm single and enjoy spending my evenings browsing Reddit, especially on financial advice and tech forums, from around 7 PM to midnight.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "GoldenSwastika",
+    "recent_subreddits": "presonus, ender5plus, WKHS"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a finance degree and a year and a half of professional experience, I have a solid understanding of personal finance, investment strategies, and market analysis. I often share insights I've gleaned from both formal education and real-world application in my job.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

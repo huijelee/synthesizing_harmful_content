@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbie_92",
+    "account_age": "6 months",
+    "bio": "I'm a tech enthusiast based in Austin, Texas, diving into the world of gadgets and streaming devices. Currently working as a junior IT support specialist. I'm passionate about optimizing tech performance, though I sometimes get frustrated with troubleshooting. In my free time, I enjoy attending music festivals and experimenting with productivity hacks. I'm usually online during the evenings and weekends. I'm single and enjoy connecting with others who share my tech and music interests.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "SonyHeadphones, AMDHelp, letterswap",
+    "recent_subreddits": "ShakyKnees, Nootropics"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a self-taught background in consumer electronics, particularly in streaming devices and computer hardware. I learned much of what I know from online forums, YouTube tutorials, and trial and error while setting up my own devices.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

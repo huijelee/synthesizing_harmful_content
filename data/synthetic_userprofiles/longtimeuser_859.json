@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "AvidBirdWatcher_84",
+    "account_age": "6 years",
+    "bio": "I'm a passionate ornithologist based in Leeds, UK, who loves sharing knowledge about bird species and their conservation. My day job involves working as a public health consultant, focusing on community health initiatives, especially around epilepsy awareness. When I'm not working or birdwatching, I love spending time in the local park with my dog and attending local board game meetups. I tend to browse Reddit in the evenings, usually between 7 PM and 10 PM. Happily married with two kids, and we often enjoy family game nights.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Ornithology, Epilepsy, publichealth",
+    "recent_subreddits": "Leeds, slp, FFGtrade"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Public Health and have amassed extensive knowledge in ornithology through years of birdwatching and participating in bird conservation projects. My public health expertise is complemented by my hands-on experience in community health programs, particularly those related to epilepsy.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

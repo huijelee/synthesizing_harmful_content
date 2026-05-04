@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GatorRunner23",
+    "account_age": "18 months",
+    "bio": "I'm a 27-year-old graduate student living in Gainesville, Florida. I love running, especially around Depot Park, and exploring new tech trends. I have a knack for cryptocurrencies and frequently delve into discussions about Kadena and WirexApp. During my downtime, I enjoy gaming, particularly in the NBA 2K community. I'm currently single and split my time between studying and working part-time as a barista. My typical online hours are late evenings, usually after 9 PM, when I unwind after a long day.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "kadena, wirexappofficial",
+    "recent_subreddits": "MyTeam"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science and am pursuing my Master's in the same field. My interest in cryptocurrencies started in college, where I joined a blockchain club. I've gained practical knowledge by participating in online forums and investing small amounts to understand market trends better.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

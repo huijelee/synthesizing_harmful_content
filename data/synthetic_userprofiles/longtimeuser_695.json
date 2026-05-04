@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CycloneGuru86",
+    "account_age": "7 years",
+    "bio": "Based in Des Moines, Iowa, CycloneGuru86 is a passionate Iowa State Cyclones fan who never misses a game. With a background in computer security, he works as a cybersecurity analyst by day and an ardent sports enthusiast by night. He's married with two kids, who are already developing a love for sports. His interests include college basketball, tech gadgets, and engaging in meaningful discussions about atheism and science. He dislikes grammar errors, hence why he often corrects them when spotted. Typically online during evenings and weekends, he is a frequent contributor to sports-related subreddits.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "MobileAL, icon",
+    "recent_subreddits": "askanatheist, OPTIMUM, ComputerSecurity"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "CycloneGuru86 has a strong background in computer security, gained through a combination of formal education with a degree in Information Technology and years of hands-on experience in the field. He also avidly follows college sports, particularly Iowa State Cyclones basketball, staying informed through games, sports news, and forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

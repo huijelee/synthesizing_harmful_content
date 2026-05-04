@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "InvokerSurvivor_123",
+    "account_age": "4 months",
+    "bio": "A recent college graduate in computer science, currently working as a software developer in Austin, Texas. I have a keen interest in gaming, particularly MOBA games like DOTA 2. When I'm not coding, I'm either leveling up my skills or exploring new games. I'm in a relationship with someone who shares my passion for gaming. My typical online hours are evenings and weekends, as my job keeps me busy during weekdays.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "bookexchange",
+    "recent_subreddits": "EnderLilies, bosstoken, boneworks"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Self-taught gamer with a focus on mastering strategies and counterplays in DOTA 2. I often watch Twitch streams and YouTube tutorials to improve my gameplay. My knowledge is primarily from personal experience and online resources.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

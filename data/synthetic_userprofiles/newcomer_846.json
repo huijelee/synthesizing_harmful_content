@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DoorMatDabbler",
+    "account_age": "6 months",
+    "bio": "I'm a curious newcomer exploring the world of Reddit. Originally from a small town in Greece, I've always been fascinated by different cultures and communities. I work as a freelance graphic designer, which allows me to keep flexible hours and deep dive into my hobbies. I'm single and enjoy spending my evenings playing video games, especially ARK Survival Evolved, or attending virtual knife parties. My weekends are often dedicated to exploring local parks and enjoying a good book.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Lifestyle",
+      "Humor"
+    ],
+    "top_subreddits": "greececirclejerk, ARKone",
+    "recent_subreddits": "knifeparty, MarioJudah"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge mostly stems from personal interests and hobbies. I have a degree in visual arts, which complements my work as a designer. I've picked up various tech skills through online courses and self-teaching. My interest in gaming and music is mostly driven by personal exploration and community engagement.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechDuckHunter23",
+    "account_age": "18 months",
+    "bio": "Originally from a small town in Oregon, I'm a 28-year-old IT technician with a knack for building custom PCs. When I'm not tinkering with hardware, I enjoy attending live indie music gigs and exploring the local food scene. I'm currently single and spend most of my evenings online, usually between 7 PM and midnight PST. I'm passionate about technology and have a soft spot for ducks, which I consider the most epic of all birds.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Animals"
+    ],
+    "top_subreddits": "DucksAreEpic",
+    "recent_subreddits": "hillsboro, alvvays"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Information Technology and have been working in the field for the past 5 years. My expertise in PC building comes from both my professional experience and a lifelong hobby of staying updated with the latest in hardware trends. I am self-taught in many aspects, often diving into forums and online courses to expand my knowledge.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

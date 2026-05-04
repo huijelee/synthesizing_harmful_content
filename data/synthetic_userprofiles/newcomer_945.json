@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FUT_Newbie_2023",
+    "account_age": "6 months",
+    "bio": "I'm a 27-year-old tech enthusiast from the Netherlands, currently diving into the world of FIFA Ultimate Team (FUT). I work as a junior IT consultant, which keeps me busy during the weekdays but allows me to indulge in my hobbies during the weekends. I have a strong passion for cars, especially Volkswagen models, and I'm an active member in the GolfGTI community. I also enjoy strategy games and exploring new tech gadgets. I'm single, and my typical online hours are in the evenings after work, from around 7 PM to midnight.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "GolfGTI, GodforceKing",
+    "recent_subreddits": "OndersteuningsPlein"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science, which has equipped me with a strong foundation in technology and programming. Most of my knowledge about FIFA and FUT has been self-taught through YouTube tutorials and reading online forums like futbin.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

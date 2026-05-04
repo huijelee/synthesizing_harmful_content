@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "AntiMLM_Veteran",
+    "account_age": "8 years",
+    "bio": "A seasoned Redditor with a passion for exposing the truth about multi-level marketing schemes. Based in Seattle, I work as a digital marketing consultant, which gives me a keen eye for spotting deceptive marketing tactics. I'm an avid reader, especially of sci-fi and fantasy novels, and often spend my evenings engaging with the online community. Married to an equally passionate partner, we both enjoy hiking in the Pacific Northwest when we're not glued to our screens.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Educational",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "makeupartists",
+    "recent_subreddits": "Highrepublic"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Marketing from the University of Washington, I have spent over a decade working in digital marketing. My interest in MLMs started when I saw friends and family being targeted by these schemes. I've since dedicated a lot of time to researching and understanding the nuances of these business models.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "strict"
+  }
+}

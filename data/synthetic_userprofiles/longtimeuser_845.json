@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CoachCrafter42",
+    "account_age": "6 years",
+    "bio": "Basketball enthusiast residing in Toronto, Canada. Passionate about sports management and video game modding. By day, I work as a software developer for a mid-sized tech company, mostly handling backend systems. I enjoy spending late evenings tinkering with basketball simulation games and creating custom mods. I live with my partner and our two cats. My online activity peaks during late nights and weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "SCBuildIt",
+    "recent_subreddits": "FilmTVBudgeting, PlaystationClassic, hamstercare"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Extensive experience in software development and game modding, primarily self-taught through online resources and forums. I have a strong background in sports analytics acquired through online courses and personal projects involving basketball simulations.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict, with a keen understanding of sitewide and subreddit-specific rules, often guiding others to adhere to them"
+  }
+}

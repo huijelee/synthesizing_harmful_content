@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechyTidewater",
+    "account_age": "18 months",
+    "bio": "I'm a tech enthusiast living in the heart of Virginia. During the day, I work as a systems analyst for a mid-sized tech firm, dabbling in network security and optimization. After hours, you'll find me exploring the latest gaming trends and tinkering with PC builds. My evenings are a mix of gaming on my PS5 and researching the best components for my future PC setup. I'm in a committed relationship with my high school sweetheart, and we enjoy cozy gaming nights together. I'm typically online in the evenings and weekends, diving into discussions about technology and local politics.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "VirginiaPolitics",
+    "recent_subreddits": "NSFW_Ottawa, stevenuniverse, Breadit"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Information Technology and have spent the last five years working in various IT roles. My expertise is largely self-taught through online courses, tech forums, and hands-on experience. I'm passionate about network security and PC building, constantly seeking to expand my knowledge.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CPA_Newbie123",
+    "account_age": "5 months",
+    "bio": "I'm a recent college graduate from Chicago, currently working towards my CPA certification. I enjoy cooking and often binge-watch Bravo's Top Chef in my downtime. I also love gaming, especially with my new Mach-E setup, which I use to explore State of Decay and Ark. Typically online in the evenings, I'm juggling my job at an accounting firm with exam preparation. Single and focused on my career right now.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "BravoTopChef, MachE",
+    "recent_subreddits": "StateOfDecay, Wattpad, playarkservers"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Accounting and just started my first job at a mid-sized accounting firm. My knowledge is primarily academic at this point, supplemented by on-the-job learning and study sessions for the CPA exams.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

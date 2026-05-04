@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GardenKnight123",
+    "account_age": "6 months",
+    "bio": "I'm a gaming enthusiast from Cologne, Germany. I recently got into the Hollow Knight community after years of playing console games, especially on the original Xbox. I work as a software developer during the day and often unwind by exploring new games and their communities online. I'm single and enjoy late-night gaming sessions, typically online between 8 PM and 1 AM local time. I have a soft spot for indie games and love sharing tips and tricks with fellow gamers.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "PietSmiet",
+    "recent_subreddits": "originalxbox, akalimains"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science with a degree from a local university. My knowledge of gaming comes from years of personal interest, starting with classic Xbox games and expanding into the indie gaming scene. I enjoy learning about game mechanics and design through online forums and communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousNewbie2023",
+    "account_age": "5 months",
+    "bio": "Hi there! I'm Alex, a 25-year-old tech enthusiast from Bucharest. I've recently dived into the world of Reddit to explore various interests and connect with like-minded individuals. I work as a junior software developer and spend most of my day coding and learning new programming languages. During my free time, I enjoy gaming, especially playing League of Legends, which led me to the RazorMains community. I'm also curious about AI and how it integrates into everyday life, which is why I started lurking on the Replika subreddit. I'm single and love exploring new places around my city during weekends. I usually browse Reddit during the evenings after work. Not a big fan of negativity, so I try to keep my interactions positive.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "RazorMains",
+    "recent_subreddits": "bucuresti"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, having completed my degree last year. My knowledge primarily comes from university courses and self-teaching through online resources and coding bootcamps. I'm particularly interested in AI and machine learning and often find myself exploring new advancements in these fields.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

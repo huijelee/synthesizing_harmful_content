@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PeasantSlayer_2023",
+    "account_age": "6 months",
+    "bio": "I'm a 22-year-old student based in Bangalore, pursuing a degree in Information Technology. I've recently gotten into gaming, with a particular interest in medieval RPGs like Kingdom Come: Deliverance. I'm also into reading manga during my downtime and trying to pick up ethical hacking skills. I'm usually online late at night after classes, and I'm single. I dislike overly strict environments but enjoy engaging in casual discussions with fellow gamers and tech enthusiasts.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Mangareader",
+    "recent_subreddits": "bangalore, HowToHack"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a foundational understanding of IT and programming from my university courses. Recently, I've been self-teaching ethical hacking through online resources and forums. My interest in medieval history and gaming is mostly self-taught, fueled by playing RPGs and reading related content online.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

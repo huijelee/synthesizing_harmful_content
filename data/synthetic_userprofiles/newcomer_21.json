@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousCadet123",
+    "account_age": "5 months",
+    "bio": "I'm a 24-year-old currently serving in the military and pursuing a degree in psychology through UMGC. I have a keen interest in psychology and technology, which is why I spend a lot of time on subreddits related to VR and gaming PCs. I recently moved to Texas with my partner and our dog, Max. I usually browse Reddit during the evenings after work or on weekends. I'm quite outgoing and always eager to learn, but I can be a bit skeptical about online advice.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Temple, EliteVR, CYBERPOWERPC",
+    "recent_subreddits": "ExchangeNudes"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in psychology, currently studying for a degree. My interest in technology is self-taught, primarily through online resources and community discussions. My military experience has given me a disciplined approach to time management, which I apply to my studies.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

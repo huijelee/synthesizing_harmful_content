@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BoobDoorwayAdventurer",
+    "account_age": "5 years",
+    "bio": "A 28-year-old trans woman living in Asheville, NC. By day, I work as a software engineer specializing in front-end development. In the evenings and weekends, you can find me hiking in the Great Smoky Mountains or playing retro video games. I'm a big fan of music, particularly genres that bridge the gap between old-school rock and modern pop. I often spend my online hours late at night, enjoying the stillness to catch up on my favorite subreddits. I've been in a committed relationship for the past two years with a fellow nature enthusiast.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "MarioJudah, DankPods, uncommonwords",
+    "recent_subreddits": "GSMNP"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science from a state university. Over the years, I've honed my skills in software development through both professional experience and personal projects. I've also developed a keen interest in linguistics and etymology, which is why I frequent subreddits like uncommonwords.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

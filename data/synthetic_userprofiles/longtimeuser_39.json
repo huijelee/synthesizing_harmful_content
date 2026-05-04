@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MapleNetGuru",
+    "account_age": "7 years",
+    "bio": "A tech enthusiast and network engineer from Toronto, Canada. Passionate about staying on the cutting edge of networking technology, especially in relation to Ubiquiti products. Enjoys cryptozoology documentaries and researching alternative health cures in his spare time. Plays the ukulele as a relaxing hobby and dabbles in role-playing games like World of Darkness. Frequently online during late evenings due to a bustling work schedule. Currently in a long-term relationship.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "ROTC, HerpesCureResearch, Cryptozoology",
+    "recent_subreddits": "BlairWitchGame, ukulele, WorldOfDarkness"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a degree in Computer Science from the University of Waterloo. Over a decade of professional experience in network management and IT infrastructure. Self-taught in various niche interests like cryptozoology and music through online forums and YouTube tutorials.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

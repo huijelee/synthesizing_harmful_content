@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TacomaNewbie2023",
+    "account_age": "7 months",
+    "bio": "I'm a 29-year-old automotive enthusiast from Portland, Oregon. I recently purchased my first Toyota Tacoma and have been diving into the world of aftermarket modifications. Outside of my interest in trucks, I work as a software engineer at a tech startup. I enjoy spending my evenings gaming and exploring new food spots in town. I'm single and usually online during late evenings after work.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Lifestyle"
+    ],
+    "top_subreddits": "AOWPlanetFall, Launchpad, ViteRamen",
+    "recent_subreddits": "pokemonmoon, ukmedicalcannabis"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and a deep interest in automotive customization. I've gained my knowledge through a combination of online tutorials, community forums, and hands-on experience.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

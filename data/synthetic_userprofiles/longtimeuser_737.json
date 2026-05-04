@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieTinkerer87",
+    "account_age": "5 years",
+    "bio": "A tech enthusiast based in Austin, Texas, who loves building and upgrading PCs. I work as an IT specialist for a mid-sized company and enjoy flipping houses on the side. When I'm not knee-deep in tech projects, I'm either watching the latest UFC fights or spending time with my loyal German Shepherd. I'm usually online during late evenings after work and on weekends. Happily single and enjoy the freedom to pursue my interests.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "HouseFlipping, UFC4",
+    "recent_subreddits": "Dogowners, textbook_piracy, averagedickproblems"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Extensive knowledge in computer hardware and software, which I\u2019ve accumulated over years of hands-on experience and formal education in computer science. I frequently build custom PCs and troubleshoot tech issues for friends and family.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BookwormBrazilian",
+    "account_age": "4 years",
+    "bio": "Originally from S\u00e3o Paulo, Brazil, I'm a 28-year-old financial analyst with a passion for learning and self-improvement. I enjoy diving into books about economy, history, and investments to broaden my understanding of global markets. I also have a fondness for video games, particularly Pok\u00e9mon, which I play during my downtime. In my free time, I like exploring local markets and cooking new recipes. I'm usually online in the evenings after work, around 7-10 PM BRT. Currently single, I find joy in connecting with communities that share my interests.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "LowStakesConspiracies, PokemonVGC, toronto",
+    "recent_subreddits": "mushroomID, UnsentLetters"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Economics from the University of S\u00e3o Paulo, I have a solid foundation in financial theories and practices. My job as a financial analyst involves constant research and staying updated with market trends, which I often supplement with self-taught knowledge from books and online courses. My understanding of history and investments is further enhanced by my active participation in related online forums and discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ChronicMunchies",
+    "account_age": "8 years",
+    "bio": "A 31-year-old living in Portland, Oregon, working as a freelance graphic designer. Passionate about cannabis culture and often shares creative ways to enhance the consumption experience. Enjoys indulging in niche hobbies like marble racing and exploring new trends in survival games. Typically online late at night, especially after work hours. Currently single and enjoys attending local art shows and music events.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "JellesMarbleRuns, peanutallergy, Lastshelter",
+    "recent_subreddits": "DeadByDaylightRAGE, Ernest, Jadereynoldsnsfw"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has an extensive background in graphic design, having studied visual arts at a local community college. Deeply interested in cannabis culture, self-taught through experimentation and community interaction. Actively participates in forums and online groups to stay updated on the latest strains and consumption methods.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

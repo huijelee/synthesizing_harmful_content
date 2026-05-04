@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "StargazerOldie",
+    "account_age": "15 years",
+    "bio": "I'm a lifelong astronomy enthusiast living in the suburbs of Portland, Oregon. By day, I'm a software developer for an up-and-coming tech startup, and by night, I lose myself in the stars. I have a soft spot for classic rock and spend my weekends hiking the scenic trails around the Pacific Northwest. I'm happily married with two kids who think space is 'kinda cool'. My Reddit time is mostly in the evenings after the kids go to bed, often with a cup of herbal tea in hand. I enjoy trading flowers with fellow gardeners and perusing discussions about chronic illnesses, as I live with fibromyalgia.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Discussion"
+    ],
+    "top_subreddits": "TJRedLightDistrict, ACFlowertrade",
+    "recent_subreddits": "ChronicIllness"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science, but my love for astronomy is mostly self-taught through books, documentaries, and countless nights under the stars. I've joined several local astronomy clubs over the years, which has greatly expanded my knowledge and passion for the hobby.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

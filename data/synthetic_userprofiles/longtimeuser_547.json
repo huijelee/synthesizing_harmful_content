@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ArcteryxAdventurer",
+    "account_age": "5 years",
+    "bio": "Avid outdoor enthusiast and gear aficionado based in Seattle, WA. I spend my weekends hiking and exploring the Pacific Northwest. My interests include high-performance outdoor gear, sustainable living, and indie video games. I'm a software engineer with a soft spot for nature photography. I usually browse Reddit during evenings on weekdays and more sporadically during weekends. Currently in a relationship with a fellow hiking enthusiast.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "saltandsanctuary",
+    "recent_subreddits": "CallonPetroleum"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Extensive experience with outdoor equipment, particularly in mid to high-end brands like Arc'teryx. Acquired knowledge through years of personal use and active participation in related forums and subreddits. Professionally, a software engineer with a degree in Computer Science.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

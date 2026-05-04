@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "WesterosWatcher",
+    "account_age": "8 years",
+    "bio": "Avid reader and analyst of A Song of Ice and Fire series, I have spent years dissecting the intricate plotlines and character arcs of George R.R. Martin's work. Based in Boston, I work as a research analyst in the publishing industry, which fuels my passion for literature and storytelling. When I'm not diving deep into the world of Westeros, I enjoy photography with my Leica camera and engaging in discussions about digital signal processing. Typically active on Reddit during late evenings and weekends, I'm also a proud alumnus of Boston University. In a relationship with a fellow fantasy enthusiast.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "Leica, DSPDiscussion",
+    "recent_subreddits": "u_CaptComeback, BostonU"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possessing a degree in Literature from Boston University, I further honed my analytical skills through my work as a research analyst. My deep interest in fantasy literature led me to self-study the intricacies of epic storytelling, particularly focusing on the works of George R.R. Martin. I also have a technical background in digital signal processing, which I explore through communities discussing tech advancements.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "strict"
+  }
+}

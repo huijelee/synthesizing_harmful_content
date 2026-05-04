@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FIFA_Newbie2023",
+    "account_age": "6 months",
+    "bio": "I'm a 22-year-old university student from Manchester, UK, currently studying computer science. I got into FIFA gaming during the lockdown and have been hooked ever since. I love playing with friends online and discussing strategies, although I'm still getting the hang of things. Besides gaming, I have a keen interest in musical theatre, especially 'Heathers: The Musical', and I follow the stock market for QuantumScape. I'm usually online in the evenings, after classes and during weekends. I'm single and enjoy spending my free time playing airsoft and exploring new tech trends.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "7LittleJohnstons, heathersmusical, QUANTUMSCAPE_Stock",
+    "recent_subreddits": "Airsoft_UK, Bitstamp, Notary"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a beginner's understanding of FIFA gaming, mostly from playing and watching YouTube tutorials. I'm also learning about the stock market through online resources and Reddit discussions. My knowledge in computer science is growing through my university courses, focusing on coding and software development.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

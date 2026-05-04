@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HawkeyeHypeGuy",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old gaming enthusiast from Seattle, WA. I work as a software developer during the day and dive into the world of gaming in the evenings. Huge fan of Marvel's Avengers and always on the lookout for the latest DLCs and updates. When I'm not gaming, you'll find me hiking the Pacific Northwest trails or experimenting with new recipes in the kitchen. Currently single and enjoying the freedom to dive deep into my hobbies. I'm usually online in the evenings and late nights, often lurking on gaming subreddits for the latest news.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Discussion",
+      "Technology"
+    ],
+    "top_subreddits": "UNjobs",
+    "recent_subreddits": "shidbot420Funi, AwardBonanza"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong background in software development, having studied computer science at the University of Washington. My gaming knowledge is self-taught, fueled by years of playing and engaging with gaming communities. I keep myself updated with the latest tech and gaming trends through forums, podcasts, and online courses.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

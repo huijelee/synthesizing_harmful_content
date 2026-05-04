@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "StarWarsBuilder77",
+    "account_age": "7 years",
+    "bio": "Avid LEGO enthusiast and Star Wars aficionado based in Wellington, New Zealand. I spend my weekends building intricate LEGO sets and exploring the rich lore of Star Wars. When I'm not piecing together LEGO bricks, I enjoy hiking and photography. As a software developer, I have a flexible schedule, allowing me to be active online mostly in the evenings. Currently in a long-term relationship with my partner who shares my passion for sci-fi. I dislike low-quality knock-offs and always appreciate a respectful online discourse.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "firefly",
+    "recent_subreddits": "ReoMaori"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise in LEGO and Star Wars comes from years of collecting sets and reading extended universe novels. My technical knowledge in software development stems from a Computer Science degree and over a decade of professional experience.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GamingGuru123",
+    "account_age": "6 months",
+    "bio": "Hi, I'm Alex, a 23-year-old software engineering student from Sydney, Australia. I love exploring new games and understanding the intricacies behind game design. My passion for gaming started in childhood, and I've always been fascinated by how games are developed. I dislike toxic communities, so I tend to avoid them. I usually browse Reddit during my evenings, typically between 7 PM and 11 PM. Besides gaming, I'm into astrology and have a keen interest in technology and how it shapes our world. I'm currently single and enjoying the student life.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "shadowofmordor, Jyotishya, TakeTheJab",
+    "recent_subreddits": "technicalminecraft"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a deep interest in gaming, particularly in game mechanics and design. My knowledge comes from years of playing various games and studying computer science, which gives me insights into both the player experience and the back-end development. Additionally, I've picked up some knowledge about astrology and vaccines from personal research and discussions in related communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

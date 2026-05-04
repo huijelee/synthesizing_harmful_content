@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HunterSage99",
+    "account_age": "8 years",
+    "bio": "Avid gamer and technology enthusiast based in Toronto, Canada. Known for diving deep into gaming lore and leaks, especially around franchises like Monster Hunter. Works as a software developer specializing in game development tools. Usually online during evenings and weekends. Enjoys outdoor activities like hiking and is a part-time knife collector. Single, but actively dating.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "DAZN, Newegg",
+    "recent_subreddits": "Knife_Swap"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Extensive knowledge in the gaming industry acquired through a combination of formal education in computer science and years of personal gaming experience. Actively follows industry news, leaks, and data-mining discussions to stay updated on upcoming releases and tech advancements.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "strict"
+  }
+}

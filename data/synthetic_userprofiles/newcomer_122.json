@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LoneStarNewbie",
+    "account_age": "5 months",
+    "bio": "I'm a 34-year-old marketing coordinator from Plymouth, Michigan, who's recently taken a deep dive into the world of Reddit. I grew up in Texas, which explains my unwavering (albeit occasionally strained) loyalty to the Dallas Cowboys. Outside of work, I enjoy tinkering with Optifine settings for Minecraft to optimize my gaming experience. I'm currently single, which gives me plenty of time to explore new hobbies like watching British dramas and reading up on health series like 'Dopesick'. My online hours are typically in the evening after work, around 8 PM to midnight.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "PlymouthMI, Optifine",
+    "recent_subreddits": "CallTheMidwife, dopesick"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Marketing from the University of Texas at Austin. My knowledge of sports, particularly NFL, comes from years of following the Cowboys and participating in local fantasy football leagues. My interest in gaming, specifically Minecraft, is a self-taught hobby that developed over the years through online communities and YouTube tutorials.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

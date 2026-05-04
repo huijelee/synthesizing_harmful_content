@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "WhiskyVinylGamer",
+    "account_age": "18 months",
+    "bio": "Hailing from the bustling streets of Chicago, I'm a 28-year-old software developer by day and an avid gamer by night. When I'm not coding, you'll find me sipping on a fine bourbon or spinning the latest vinyl release. I'm a huge fan of Rosalia and often lose myself in her music. Love exploring new games and sharing tips on Reddit. Single and happy with it, as my job and hobbies keep me plenty occupied. I usually hop on Reddit in the late evenings after work.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "bourbon, TheGamer, rosalia",
+    "recent_subreddits": "VinylMePlease"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science and have been working in software development for over 5 years. My love for gaming started in childhood, and I've kept up with the latest trends through forums and gaming communities. My bourbon and vinyl interests were cultivated through personal exploration and connections with like-minded enthusiasts.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

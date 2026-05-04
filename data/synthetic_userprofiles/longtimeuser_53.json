@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CryptoSage78",
+    "account_age": "5 years",
+    "bio": "I am a seasoned cryptocurrency enthusiast based in Austin, Texas. By day, I work as a software developer specializing in blockchain technology. I have a keen interest in financial markets and spend my evenings analyzing crypto trends and engaging in online discussions. In my free time, I enjoy strategy gaming and am an active player in online communities like EVE Online. I am married with two kids and often browse Reddit in the late evenings after my children have gone to bed.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "TheUndoing, OnePlus6t, SamuraiShodown",
+    "recent_subreddits": "eveonline"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science with a particular focus on blockchain technologies. I graduated with a degree in Computer Science from the University of Texas and have since worked in various tech startups focusing on innovative uses of blockchain. I've also self-taught myself through online courses and spend a significant amount of time reading and participating in crypto forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

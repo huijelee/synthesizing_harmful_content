@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PetWhispererPro",
+    "account_age": "8 years",
+    "bio": "Based in Melbourne, I am a 34-year-old professional pet sitter with a deep passion for all things furry and feathered. When I'm not taking care of pets, I enjoy writing fiction and exploring new cafes around the city. A tech enthusiast at heart, I also dabble in graphic design projects for local businesses. I usually browse Reddit during my downtime in the afternoons and late evenings. Currently in a long-term relationship, I cherish spending weekends with my partner exploring hiking trails and trying out new recipes.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Animals",
+      "Lifestyle"
+    ],
+    "top_subreddits": "TheMandemNP, BiSwap",
+    "recent_subreddits": "ImaginarySliceOfLife, Australia_, Lahore"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Animal Behavior and have over a decade of experience in pet care. My expertise is largely self-taught, supplemented with various online courses and workshops. Participating actively in pet-sitting communities has equipped me with a nuanced understanding of industry practices and client management.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

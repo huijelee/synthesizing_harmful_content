@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CartiDanceCritique",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old music enthusiast and amateur trader living in Austin, Texas. By day, I work as a data analyst for a local startup, and by night, you'll find me exploring the latest hip-hop releases and apartment living hacks. I'm single and often spend my evenings browsing through Reddit, especially after dinner. I love discussing the intricacies of trading and sharing my experiences in the apartment lifestyle. I'm not a fan of overly strict rules or negativity in online communities.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Apartmentliving, RealDayTrading",
+    "recent_subreddits": "tailstoken, FalloutTradingPost, CutYourOwnHair"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Economics, which sparked my interest in day trading and financial markets. Most of my knowledge comes from self-teaching and online courses. My passion for music, especially hip-hop, has been lifelong, driven by a desire to understand both the artistic and business sides of the industry.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

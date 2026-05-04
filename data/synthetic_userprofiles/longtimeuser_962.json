@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LongtimeSurvivor85",
+    "account_age": "16 years",
+    "bio": "I'm a 38-year-old outdoor enthusiast based in Portland, Oregon. I work as a software engineer with a passion for learning new programming languages and technologies. When I'm not coding, I enjoy hiking, camping, and spending time with my two rescue dogs. I'm married with no kids, and my spouse and I love exploring new cuisines and cooking together. I typically browse Reddit in the evenings, especially after a long day at work.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "SpoiledSurvivor",
+    "recent_subreddits": "lfgpremium, Avax"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a Bachelor\u2019s degree in Computer Science from Oregon State University and have over 15 years of experience working in the tech industry. My expertise spans front-end development and cloud computing. I am self-taught in several programming languages and enjoy contributing to open-source projects in my spare time.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

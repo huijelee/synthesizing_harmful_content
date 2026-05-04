@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LoneStarSeeker21",
+    "account_age": "18 months",
+    "bio": "A 28-year-old software developer from Austin, Texas, with a passion for outdoor adventures and personal development. While I spend my weekdays coding and developing applications, weekends are for exploring the Big Bend National Park. I'm a strong believer in self-improvement and often engage in discussions around lifestyle changes. In a committed relationship and enjoy spending evenings with my partner discussing various life topics. Typically active on Reddit during late evenings after work.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "BigBendTX",
+    "recent_subreddits": "stussy"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a Bachelor's degree in Computer Science. Acquired knowledge through formal education and extensive self-study on platforms like Coursera. Regularly updates skills through online courses and coding challenges.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

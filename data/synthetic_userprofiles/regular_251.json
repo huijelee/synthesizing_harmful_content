@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DanceFitGuru",
+    "account_age": "18 months",
+    "bio": "I'm a 29-year-old dance instructor and fitness enthusiast based in Toronto, Canada. I have a deep passion for staying active and promoting a healthy lifestyle. When I'm not teaching dance classes, you can find me hiking the trails around Ontario or experimenting with new healthy recipes. I love sharing tips on sustainable fashion and reselling gently used clothing. Not a fan of fast fashion, I lean towards quality over quantity. I usually browse Reddit in the evenings after work or during my lunch breaks. Currently single and enjoying the freedom to explore my personal interests.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "bell",
+    "recent_subreddits": "AudiS4, elon"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in kinesiology, which I studied during my undergraduate years. My dance and fitness knowledge comes from over a decade of practical teaching experience. Additionally, I've gained insights into the second-hand fashion market through online research and personal selling experiences on platforms like Poshmark and Mercari.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

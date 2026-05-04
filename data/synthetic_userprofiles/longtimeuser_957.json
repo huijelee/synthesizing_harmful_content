@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "XmenAficionado77",
+    "account_age": "8 years",
+    "bio": "A 38-year-old comic book enthusiast hailing from Toronto, Canada. By day, a graphic designer specializing in 3D modeling and digital art; by night, a devoted reader of all things X-Men. While single and enjoying the freedom, they often spend weekends exploring the local comic book stores or engaging in online discussions about their favorite superhero teams. They tend to be online during late evenings, typically after 8 PM EST, when they enjoy unwinding with a good comic or a round of gaming.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "doordash_drivers",
+    "recent_subreddits": "McMaster, 3Dmodeling, ChromaProfiles"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possessing a deep expertise in comic book lore, particularly the X-Men series, gained through years of dedicated reading and participation in comic book communities. The user is also well-versed in digital design and 3D modeling, skills honed through formal education at McMaster University and subsequent professional experience.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

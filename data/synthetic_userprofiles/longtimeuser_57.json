@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieTinker",
+    "account_age": "8 years",
+    "bio": "TechieTinker, a 35-year-old mechanical engineer based in Portland, Oregon, has been a Redditor for nearly a decade. With a passion for solving mechanical puzzles and a keen interest in DIY projects, they spend their days working at a local automotive repair shop. When not diagnosing car troubles, they enjoy metalworking and exploring new piercing styles. Typically active on Reddit during late evenings and weekends, TechieTinker is single and enjoys connecting with like-minded individuals through niche online communities.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Educational"
+    ],
+    "top_subreddits": "MalePiercings",
+    "recent_subreddits": "rewiringyou"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "TechieTinker has a solid foundation in mechanical engineering, having earned a degree from Oregon State University. Their expertise is further enhanced by years of hands-on experience in automotive repair. An avid learner, they often expand their knowledge through online courses and by engaging with Reddit discussions in mechanical and technical subreddits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

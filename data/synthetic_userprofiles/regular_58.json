@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DragRaceEnthusiast90",
+    "account_age": "18 months",
+    "bio": "A 33-year-old digital marketing specialist living in Austin, Texas. Passionate about reality TV, especially RuPaul's Drag Race. Enjoys spending weekends exploring local dog parks with their Bernese Mountain Dog, Max. Has a knack for finding humor in everyday situations and loves sharing funny memes. Usually online during late evenings after work. Single and enjoys socializing with friends both online and offline.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Humor",
+      "Animals"
+    ],
+    "top_subreddits": "HolUp, PPC",
+    "recent_subreddits": "bernesemountaindogs"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a bachelor's degree in Marketing and has worked in digital marketing for over a decade. Gained expertise in SEO and content creation through years of work experience and online courses. An avid fan of RuPaul's Drag Race, staying updated with the latest episodes and cast news.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ConsciousQuokka123",
+    "account_age": "18 months",
+    "bio": "I'm a curious mind based in Portland, Oregon, working as a freelance graphic designer. I have a keen interest in philosophy, particularly topics that intersect with science, such as panpsychism and consciousness. In my free time, I enjoy watching educational YouTube channels, exploring new cafes, and playing with my two cats. I typically browse Reddit during late evenings after work. Currently single and enjoying the freedom to explore various interests.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Entertainment",
+      "Animals"
+    ],
+    "top_subreddits": "CowbellyTV, kurzgefragt, CatQuest",
+    "recent_subreddits": "NewToReddit"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge base is a mix of formal education in graphic design and self-taught insights into philosophy and science. I love diving into online courses and documentaries, often spending hours exploring the rabbit holes of quantum physics and consciousness theories.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

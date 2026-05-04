@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvyNewbie2023",
+    "account_age": "5 months",
+    "bio": "I'm a tech enthusiast and gamer based in Portland, Oregon. My interests range from retro gaming consoles like the Sega Saturn to modern MMO gaming. I work as a junior IT support specialist, and in my downtime, I enjoy exploring new tech gadgets and peripherals. I'm currently single and usually online during late evenings after work. I have a keen interest in podcasting and recently started my own tech podcast.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "PrinzHeinrich, TWDWorldBeyond",
+    "recent_subreddits": "podcasting, emergencybackupshag, SegaSaturn"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in Information Technology with a focus on hardware and peripherals. I completed a diploma in IT and have been self-teaching through online courses and community engagement. My current job in IT support has given me hands-on experience with a variety of tech equipment.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

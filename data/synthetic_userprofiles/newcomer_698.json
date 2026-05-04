@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SnowFanatic92",
+    "account_age": "8 months",
+    "bio": "I'm a 31-year-old mechanical engineer from Denver, Colorado. I recently got into snowboarding and I'm trying to improve my skills on the slopes. Besides snowboarding, I have a keen interest in entomology, particularly scorpions, and I often browse forums related to my alma mater, TU Delft. My typical online hours are late evenings as I juggle my work and snowboarding sessions during the day. I'm currently single and enjoy spending my free time hiking in the Rockies or diving deep into stock market trends, particularly those related to Ho Chi Minh City.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Discussion"
+    ],
+    "top_subreddits": "Scorpions, TUDelft",
+    "recent_subreddits": "HCMCSTOCK"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a solid foundation in mechanical engineering, having graduated from TU Delft. My interest in snowboarding is quite new, and I'm learning through online forums, YouTube tutorials, and trial-and-error on the slopes. My knowledge of scorpions comes from years of fascination and self-study, including reading scientific journals and participating in online communities.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

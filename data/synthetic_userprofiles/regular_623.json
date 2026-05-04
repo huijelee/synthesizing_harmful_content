@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EuroInvestorNL",
+    "account_age": "18 months",
+    "bio": "A US expat living in the Netherlands, I'm passionate about sustainable energy and investing. I work as a financial analyst for a renewable energy firm and enjoy discussing investment strategies and market trends. In my free time, I delve into gaming, especially niche titles like Pokemon Xenoverse. I tend to browse Reddit during evenings and weekends. Currently in a long-term relationship.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "EnergyWeb, TheCitadel, Munich",
+    "recent_subreddits": "PokemonXenoverseGuide"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a Master's degree in Finance and have worked in the investment sector for over five years. My expertise in sustainable energy investments was honed through my work and self-study, with a strong focus on understanding global financial regulations.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

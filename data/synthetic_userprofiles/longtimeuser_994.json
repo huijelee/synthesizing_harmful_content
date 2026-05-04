@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NordicNomad88",
+    "account_age": "8 years",
+    "bio": "I'm a 34-year-old software engineer based in Stockholm, Sweden. I've been a Spikeball enthusiast for the past decade and love sharing insights on niche sports. When I'm not working or playing Spikeball, I enjoy exploring the Scandinavian wilderness and diving deep into tech debates, especially those about Apple's ecosystem. I'm married, and my spouse and I often travel across Europe, combining work and leisure. I usually browse Reddit during late evenings, often after 9 PM.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "SonoSequencr, applesucks, scandinavia",
+    "recent_subreddits": "SKALEnetwork"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science from Lund University and have been working in the software industry for over 12 years. My interest in Spikeball started as a casual hobby but grew through participating in local tournaments and online forums. My tech knowledge is primarily self-taught, supplemented with courses and continuous learning through forums like SonoSequencr.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ConsoleToPC_Player",
+    "account_age": "6 months",
+    "bio": "I'm a 27-year-old tech enthusiast currently living in Austin, Texas. I've been a console gamer for most of my life and recently decided to make the switch to PC gaming. My interests include building custom PCs, exploring music genres on Monstercat, and diving into the strategic world of old school Magic: The Gathering. I work as a junior software developer, and I often spend my evenings testing out new games or enhancing my coding skills. I'm currently single and enjoy spending my weekends hiking in the nearby state parks or attending local gaming meetups. My typical online hours are from 7 PM to midnight on weekdays and more sporadic on weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "oldschoolmtg",
+    "recent_subreddits": "deadcellsmobile, Monstercat, matlab"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in computer science and have been self-teaching PC hardware and software optimization through online courses and community forums. My transition from console to PC gaming has motivated me to learn more about the intricacies of gaming hardware.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

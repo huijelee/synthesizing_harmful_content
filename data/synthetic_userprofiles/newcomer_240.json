@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ChicagoRPGNewbie",
+    "account_age": "6 months",
+    "bio": "I'm a newcomer to the Reddit scene, diving deep into RPGs and modding. Born and raised in the Windy City, I spend my weekends exploring the outdoors and my weeknights delving into the world of tabletop games. Currently, I work as a junior software developer, which fuels my interest in game modding. I'm single and often online during the evenings after work, usually between 7 PM and midnight CST.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "BanishedModding, Vechain",
+    "recent_subreddits": "ChicagoOutdoors"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong background in software development, having studied computer science in college. My passion for RPGs started in high school, and I've been self-teaching ever since, diving into both the mechanics and the storytelling aspects. I'm particularly interested in how different games handle cultural and societal themes.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

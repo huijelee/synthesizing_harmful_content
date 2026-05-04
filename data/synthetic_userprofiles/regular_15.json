@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PineappleCriminalist",
+    "account_age": "18 months",
+    "bio": "A 28-year-old living in Portland, OR, who works as a forensic analyst. Passionate about crime shows like 'Criminal Minds' and enjoys discussing character development and plot twists with fellow fans. Outside of work, enjoys exploring the local foodie scene with their spouse. Typically online during late evenings after work, often unwinding with a glass of wine while browsing Reddit.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Lifestyle",
+      "Discussion"
+    ],
+    "top_subreddits": "Portlandsex",
+    "recent_subreddits": "MarriedLife"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a background in forensic science with a degree in criminal justice. Became interested in crime shows during college, which complements professional expertise. Enjoys analyzing fictional cases and comparing them to real-life forensic practices.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

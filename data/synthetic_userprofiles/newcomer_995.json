@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNeophyte123",
+    "account_age": "5 months",
+    "bio": "I'm a 23-year-old college student from Austin, Texas, currently majoring in Computer Science. I recently got into building PCs and often find myself troubleshooting issues. Besides technology, I'm passionate about music and play the guitar in my free time. I usually browse Reddit during the evenings after classes and on weekends. I'm single and live with a couple of roommates who share similar tech interests.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "AirForceRecruits",
+    "recent_subreddits": "Jericho, dentures, guitarrepair"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a foundational understanding of computer systems from my coursework in Computer Science. Most of my practical knowledge in building PCs comes from online tutorials and forums like Reddit and YouTube. I'm also actively learning more about music technology due to my interest in playing and repairing guitars.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousNewbie_2023",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old living in the bustling city of New York. By day, I'm a web developer navigating the fast-paced world of tech, and by night, I'm diving into the world of Reddit to learn and connect. Originally from Malaysia, I moved to the US a couple of years ago. I have a keen interest in technology and gaming, with a particular love for flight simulators like War Thunder. I also have a fascination with the supernatural and enjoy reading ghost stories in my spare time. As someone trying to expand my social circle, I often explore different subreddits related to hobbies and locations. Engaged to my college sweetheart, I'm navigating the exciting yet complex journey of planning a wedding. Despite my tech-savvy nature, I enjoy the occasional offline run through Central Park to clear my mind. Typically, I'm most active online during late evenings after work hours.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Warthunder, Realme",
+    "recent_subreddits": "u_TypicalMalaysian, RunNYC, Ghosts"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "While I have a solid foundation in technology due to my degree in computer science and my work as a web developer, my knowledge of fertility and health topics comes from personal experience and self-research. My partner and I are currently trying to conceive, so I've been delving into fertility discussions and medical articles to better understand the process.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechBuddha42",
+    "account_age": "7 months",
+    "bio": "I'm a tech enthusiast from Dublin, currently exploring the world of Linux and open-source software. I recently made the switch to Manjaro with KDE and Wayland, and I'm thrilled with the performance improvements. My interests include tech, Buddhism, and binge-watching 'Derry Girls'. By day, I work as a junior software developer, and by night, I'm usually diving into new tech trends or meditating. I'm single and enjoy spending my free time exploring new hobbies. I usually browse Reddit during the evenings.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "Buddhism",
+    "recent_subreddits": "CommandBlocks, DerryGirls, NoDamageDecember"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science and have been self-teaching Linux through online forums and tutorials. My interest in technology extends to experimenting with different operating systems and understanding their underlying architecture.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

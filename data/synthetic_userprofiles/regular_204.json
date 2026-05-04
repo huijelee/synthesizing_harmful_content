@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PuckWizard42",
+    "account_age": "18 months",
+    "bio": "Hailing from Reno, Nevada, I'm a 27-year-old software developer passionate about hockey and fantasy sports. I spend my evenings diving into fantasy leagues and keeping up with the latest episodes of The Flash. As a lifelong fan of the sport, I enjoy discussing strategies and player stats. In my downtime, I also help peers prepare for the TOEFL test, sharing tips and advice from my own experiences as a non-native English speaker. Currently single, I enjoy the flexibility to dive deep into my hobbies, especially during late nights. I usually log in to Reddit after work hours, around 7 PM PST, while winding down.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Entertainment"
+    ],
+    "top_subreddits": "ToeflAdvice",
+    "recent_subreddits": "theflash, Nevada"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and a love for hockey, I've combined my analytical skills with my passion for sports to become an adept fantasy league player. I also have a strong foundation in English language teaching, having tutored peers for the TOEFL exam.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GamerGuru2005",
+    "account_age": "5 years",
+    "bio": "I'm a 34-year-old gaming enthusiast from Austin, Texas, where I work as a software engineer for a tech startup. I've been passionate about gaming since my early teens, and I especially love mobile gaming. Besides gaming, I enjoy discussing politics and social issues, particularly around democratic values and international relations. I typically browse Reddit in the evenings and late at night, as it helps me unwind after work. I'm currently single and enjoy the flexibility it gives me to travel and explore different cultures.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "1022",
+    "recent_subreddits": "transnord, democrats"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science from the University of Texas, my expertise lies in software development and mobile technology. I have self-taught myself a lot about gaming hardware and peripherals, as I love optimizing my gaming experience through technology. I'm also well-versed in political discourse, thanks to my active participation in community debates and reading extensively on the subject.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

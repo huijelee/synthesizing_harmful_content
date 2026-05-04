@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BoardGameGuru19",
+    "account_age": "7 years",
+    "bio": "Avid board game enthusiast residing in Portland, OR. With a full-time gig as a software engineer, I find solace in the intricate strategies of board games. I'm a night owl, often online late into the night, engaging in discussions about my favorite hobby. I enjoy exploring new board game mechanics and sharing insights with the gaming community. When I'm not immersed in games or coding, I'm hiking with my partner or experimenting with new recipes. Not a fan of games with too much randomness or those that overstay their welcome.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "guangzhou",
+    "recent_subreddits": "CamperVans"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possessing a deep understanding of board games, acquired through years of playing, reviewing, and participating in board game conventions. My technical background in software engineering also aids in analyzing game mechanics and design.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "strict"
+  }
+}

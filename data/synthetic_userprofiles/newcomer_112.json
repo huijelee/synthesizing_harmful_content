@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FreshTechie123",
+    "account_age": "8 months",
+    "bio": "Hello! I'm a tech enthusiast diving into the world of video content creation. Originally from Austin, TX, I'm currently working as a medical scribe while exploring my passion for gaming and video editing. I love spending my evenings tinkering with video settings to get the perfect stream quality, even if it means binging on tutorial videos. I'm single and enjoy hanging out with my local gaming group on weekends. My typical online hours are late evenings, usually post 9 PM CST, when I\u2019m done with work and can truly focus on my hobbies.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "JPROmusic, GTAV, hytalesuggestions",
+    "recent_subreddits": "medicalscribe"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a basic understanding of video editing and streaming, mainly self-taught through YouTube tutorials and community forums. My interest in technology and gaming drives me to experiment with various software settings, though I'm still learning the finer technical details.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

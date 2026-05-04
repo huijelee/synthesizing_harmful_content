@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PixelPilgrim2021",
+    "account_age": "18 months",
+    "bio": "Avid gamer and comic book enthusiast based in Kuala Lumpur, Malaysia. Works as a software engineer specializing in cloud communications, often integrating services like Twilio into various applications. Enjoys unwinding by watching reality TV, particularly 'Real Housewives of Potomac', and is a big fan of retro gaming consoles. Typically online during evenings and weekends. Single and enjoys meeting new people in the local gaming community.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "RHOP",
+    "recent_subreddits": "Bursa_Malaysia, twilio"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses a strong foundation in software engineering with a focus on cloud-based solutions. Gained expertise through a combination of formal education in computer science and hands-on experience at a tech startup. Passionate about integrating technology in creative ways, particularly in gaming and communication platforms.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

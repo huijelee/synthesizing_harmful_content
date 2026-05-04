@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FantasyFootyGuru",
+    "account_age": "8 years",
+    "bio": "Avid fantasy football enthusiast from Manchester, UK. Work full-time as a data analyst, which helps fuel my passion for statistics-driven decision-making in FPL. I enjoy tinkering with my team during late evenings after work, usually around 8-11 PM GMT. Married with two kids, and we often end our weekends watching football together. Not a fan of overly optimistic player predictions; I prefer a more analytical approach. Love playing guitar in my spare time, which I discuss on music-related subreddits.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "leagueofboosting",
+    "recent_subreddits": "pedals"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possess a strong understanding of statistics and data analysis due to my background as a data analyst. This has been further honed through years of managing my own fantasy football team and participating in related discussions on Reddit. Regularly read articles and watch videos to stay updated on player performances and team news.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

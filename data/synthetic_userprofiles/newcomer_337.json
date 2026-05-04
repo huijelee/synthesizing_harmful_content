@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EmeraldAdventurer92",
+    "account_age": "6 months",
+    "bio": "I'm a 31-year-old software engineer based in Cork, Ireland. I have a keen interest in cryptocurrency and blockchain technology, which I started exploring during the pandemic. When I'm not coding, you'll find me indulging in my passion for professional wrestling, a hobby I've enjoyed since childhood. I discovered Reddit about half a year ago, and it's been a great platform to connect with like-minded people and learn new things. I usually browse Reddit in the evenings after work. I'm single and enjoy spending weekends hiking or exploring new cafes in town.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "CinnamonToastKen, prowrestling, BitcoinMarkets",
+    "recent_subreddits": "studentsofgroningen, mtgcube"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I graduated with a degree in Computer Science and have worked in the tech industry for over a decade. My knowledge in cryptocurrency stems from self-study and participating in online communities and forums. My interest in wrestling is purely recreational, driven by years of watching events and following storylines.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

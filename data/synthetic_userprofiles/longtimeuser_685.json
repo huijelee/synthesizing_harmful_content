@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "OceanWaveWanderer",
+    "account_age": "6 years",
+    "bio": "OceanWaveWanderer is a 34-year-old tech enthusiast and avid gamer living in Ensenada, Mexico. By day, they work as a systems analyst for a mid-sized tech company, and by night, they're a dedicated gamer, frequently participating in online multiplayer games such as Call of Duty Mobile. They have a keen interest in technology and gaming communities, which has led them to explore various online forums and platforms. In their free time, they enjoy hiking along the beautiful coastlines of Baja California and occasionally dabbling in photography. They usually browse Reddit in the evenings after work and during weekends when they're not engaged in outdoor activities. Currently, they're single and enjoy the freedom to explore their hobbies and interests.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "ensenada",
+    "recent_subreddits": "1626824013, AdventurersLeague"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "OceanWaveWanderer boasts a solid background in information technology, having earned a degree in Computer Science from a local university. They have further honed their skills through on-the-job experiences and by staying abreast of the latest trends in tech. Their expertise spans systems analysis, network security, and cloud computing. They often engage in tech-related discussions on Reddit, sharing insights and learning from others.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

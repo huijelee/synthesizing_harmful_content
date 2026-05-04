@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CryptoDiabloHunter",
+    "account_age": "8 years",
+    "bio": "An avid cryptocurrency enthusiast from the Pacific Northwest who discovered Bitcoin back in 2014. Passionate about blockchain technology and its potential to revolutionize various sectors. When not diving deep into crypto, they enjoy gaming, particularly Diablo 3, and exploring new music. Works as a freelance software developer with flexible hours, allowing for late-night Reddit browsing. In a long-term relationship with a fellow tech enthusiast. Dislikes misinformation and scams in the crypto space.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "diablo3",
+    "recent_subreddits": "CankerSores, Beck"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a solid understanding of cryptocurrency and blockchain technology due to both personal interest and professional work as a software developer. Self-taught through online courses, forums, and hands-on experience. Regularly keeps up with the latest trends and updates in the crypto world.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

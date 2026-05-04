@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "WastelandWanderer76",
+    "account_age": "5 years",
+    "bio": "I hail from the bustling city of Boston, where I work as a software engineer. In my free time, I dive into the virtual worlds of Fallout 76 and various RPGs. I'm a huge fan of post-apocalyptic narratives, which naturally led me to the Berserk manga. When I'm not gaming or reading, you might find me shooting hoops at the local park or analyzing the latest NBA Draft prospects. I'm single and enjoy spending my evenings exploring new indie music, particularly artists like Sam Smith. My online hours are typically late at night, post-9 PM, when I've wrapped up coding for the day.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "NBA_Draft, Berserk, Calibre",
+    "recent_subreddits": "samsmith, Bunkerhouse, minecraftedu"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise is rooted in both formal education and self-driven learning. I hold a degree in computer science, which laid the foundation for my software engineering career. Over the years, I've honed my skills in gaming and modding through personal projects and community engagement. My interest in the NBA and manga comes from years of following sports and pop culture trends.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

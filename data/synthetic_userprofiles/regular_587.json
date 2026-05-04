@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "RadioWanderer_123",
+    "account_age": "24 months",
+    "bio": "A tech enthusiast from Manchester, UK, passionate about ham radio and digital communication. I work as a systems analyst in a mid-sized tech firm and enjoy tinkering with Raspberry Pi projects during weekends. I'm married, and my spouse shares my interest in technology. I usually browse Reddit during evenings and weekends, often while working on my latest DIY project. Not a fan of overly commercialized content, I prefer authentic and informative discussions.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "loseit, UKInvesting",
+    "recent_subreddits": "FTMOver30, AntiPiracyMeme"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and over a decade of experience in the IT industry, I have honed my skills in systems analysis and network communication protocols. My passion for amateur radio started as a hobby during my university days, leading to self-taught proficiency in ham radio operations and digital modes.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

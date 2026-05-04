@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbie_503",
+    "account_age": "5 months",
+    "bio": "I'm a tech enthusiast who's just starting to dive into the world of PC building and upgrades. I live in Portland, Oregon, and work as a junior graphic designer. My interests include playing video games, exploring local coffee shops, and attending music festivals. I usually browse Reddit during the evenings after work and on weekends. I'm single and enjoy spending time with friends who share my interests in technology and gaming.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Lifestyle",
+      "General Content"
+    ],
+    "top_subreddits": "mildlyinfuriating",
+    "recent_subreddits": "PortlandProtests"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I recently got into PC building after purchasing my first gaming PC about six months ago. I've been learning through YouTube tutorials, forums, and asking questions on Reddit. My background in graphic design has helped me appreciate the importance of good hardware, and I'm continuously learning about the technical aspects.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

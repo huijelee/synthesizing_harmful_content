@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MapPainter_Engineer",
+    "account_age": "18 months",
+    "bio": "Hello! I'm a civil engineer based in Hamilton, Ontario, working on infrastructure projects during the day and moonlighting as a gamer by night. I've been a Redditor for a year and a half, diving into niche subreddits like CK3 and CosplayHelp in my free time. While my work involves precise calculations and planning, I enjoy the chaos and creativity of strategy games and cosplay. I'm currently single and enjoy spending my evenings unwinding on Reddit or diving into a new game. My typical online hours range from 7 PM to midnight on weekdays, with more sporadic activity during weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "McMasterEngineering",
+    "recent_subreddits": "CosplayHelp"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in civil engineering from McMaster University, which has provided me with strong analytical skills and a detail-oriented mindset. My expertise in engineering often crosses over into my gaming, where I apply strategic thinking to conquer virtual challenges. I am mostly self-taught in gaming strategies, picking up tips from fellow gamers and online communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

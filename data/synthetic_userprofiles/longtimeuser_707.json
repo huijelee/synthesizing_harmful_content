@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ExMoTechie87",
+    "account_age": "8 years",
+    "bio": "I'm a former member of the LDS Church, now exploring life beyond the faith. Originally from Salt Lake City, I moved to Denver for a fresh start. I work as a software engineer with a passion for technology and gaming, particularly Age of Empires 2. I enjoy exploring new hobbies, including car maintenance and DIY projects on my Chrysler. Married with one child, I often browse Reddit in the evenings after work and on weekends. I appreciate thoughtful discussions and avoid drama and negativity.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "IsItAScam",
+    "recent_subreddits": "aoe2, chrysler"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science from Brigham Young University, I have a strong foundation in software development. My interest in gaming led me to self-teach game design principles, and I actively follow tech trends and innovations. My expertise is further expanded by hands-on experience with car mechanics, driven by necessity and interest.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

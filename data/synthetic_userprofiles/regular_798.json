@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DavisCryExplorer",
+    "account_age": "18 months",
+    "bio": "I'm a 24-year-old graduate student at UC Davis, pursuing a master's degree in Environmental Science. Originally from Philadelphia, I moved to California for the weather and the vibrant college community. I'm passionate about sustainable energy solutions and spend my free time exploring local nature trails and paddling my canoe on nearby lakes. I also have a keen interest in basketball and am a die-hard Philadelphia 76ers fan. My typical online hours are late evenings after I wrap up my coursework. Currently single, I enjoy meeting new people and often engage in discussions about mental health and personal well-being.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "Catherine_Paiz, sixers, BangEnergy",
+    "recent_subreddits": "canoeing, sexover40, Kingsringleader"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a solid foundation in environmental science, gained through both formal education and practical fieldwork. My undergraduate degree was in Environmental Studies, and I've worked on several projects focused on renewable energy technologies. In addition to academia, I have self-taught knowledge in basketball analytics, which I often discuss in sports-related subreddits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

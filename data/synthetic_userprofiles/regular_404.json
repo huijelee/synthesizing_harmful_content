@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ForesterDudeCO",
+    "account_age": "18 months",
+    "bio": "A car enthusiast living in the beautiful state of Colorado. Passionate about off-roading and making the most out of my Subaru Forester on both daily commutes and weekend adventures. Married to a fellow outdoor lover and father of two energetic kids. Work as an electrical engineer, which naturally draws me towards technology and DIY electronics projects. Typically online during late evenings after the kids are asleep and on weekends if I'm not out exploring the trails. Enjoys helping others with automotive advice, especially when it comes to optimizing their vehicles for rugged terrain.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "ARMS, KiCad, runescape",
+    "recent_subreddits": "HackRFOne"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a degree in electrical engineering, with a strong foundation in automotive systems and electronics. Developed a deep understanding of Subaru vehicles through years of personal interest and hands-on experience. Often engages in self-teaching, especially in the realm of RF systems and software-defined radios, leveraging resources from subreddits and online courses.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

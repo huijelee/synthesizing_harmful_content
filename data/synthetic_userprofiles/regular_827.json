@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousQuester87",
+    "account_age": "18 months",
+    "bio": "I'm a 36-year-old content curator living in Austin, Texas. With a background in digital marketing, I spend my days helping small businesses optimize their online presence. Outside of work, I'm passionate about learning new things, particularly in the tech and health sectors. I have a mild interest in aviation simulations, which is why you'll find me occasionally browsing 'airportceo'. My evenings are usually spent online, engaging with communities that pique my curiosity. In a committed relationship and a bacon enthusiast at heart.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Lifestyle",
+      "Technology"
+    ],
+    "top_subreddits": "Psoriasis, baconreader",
+    "recent_subreddits": "airportceo"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Marketing and have over a decade of experience in digital marketing and content strategy. I\u2019m a self-taught tech enthusiast, constantly updating my skills with online courses and tutorials. My interest in health topics stems from personal experiences and a desire to better understand how lifestyle choices affect well-being.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

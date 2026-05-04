@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SeaVoyager1992",
+    "account_age": "5 years",
+    "bio": "A 31-year-old digital marketing strategist based in Manila, who's passionate about art, technology, and legal dramas. Loves exploring digital art on ProCreate, fascinated by the mysteries of Mars, and enjoys unwinding with a good episode of Boston Legal. Prefers the spontaneity of travel but struggles with transportation logistics. Typically online during late evenings after work and on weekends, balancing work and leisure. Currently single, enjoys meeting new people and collaborating on creative projects.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "ProCreate, Mars",
+    "recent_subreddits": "RedditWritesTheOffice, bigseo, bostonlegal"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Marketing and over 8 years of experience in digital strategy, they have honed their skills through a mix of formal education and self-teaching. Regularly updates themselves on the latest SEO trends and digital marketing strategies through various online courses and industry blogs.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

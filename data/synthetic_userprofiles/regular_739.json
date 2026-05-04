@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MumbaiRider12",
+    "account_age": "18 months",
+    "bio": "An avid cyclist and tech enthusiast from Mumbai, I spend my days working as a software developer. I love exploring the city on my Salsa Cycles bike and discovering hidden gems along the coastlines. When I'm not coding or cycling, you'll find me jamming to the Jonas Brothers or watching Patriots games. I'm single and enjoy spending my evenings on Reddit or playing TagPro. My online hours are usually late at night, once the workday and cycling adventures are done.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "salsacycles",
+    "recent_subreddits": "TagPro, JonasBrothers, Patriots"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise lies in technology, particularly in software development, which I honed through a degree in Computer Science and several years working in tech firms. I've also developed a keen interest in cycling, acquiring knowledge through a mix of personal experience and online research.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

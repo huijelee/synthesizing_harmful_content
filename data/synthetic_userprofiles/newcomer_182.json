@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechyNewbie2023",
+    "account_age": "5 months",
+    "bio": "I'm a 22-year-old college student studying computer science in London. I've recently gotten into PC building and love exploring various gaming setups. In my spare time, I enjoy playing Ubisoft games and checking out new tech releases. I typically browse Reddit in the evenings after classes. Currently single, I often hang out with friends at local gaming cafes. I'm still learning the ropes of the PC building community and love getting advice from more experienced builders.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Crainn, ubisoft",
+    "recent_subreddits": "gayvegas, jonesboro"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "As a computer science student, I have a foundational understanding of computer hardware and software. Most of my knowledge about PC building comes from online tutorials and forums as well as trial and error with my own setup.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

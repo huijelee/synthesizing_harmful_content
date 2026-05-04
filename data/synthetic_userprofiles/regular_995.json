@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BudgetBaker87",
+    "account_age": "18 months",
+    "bio": "I'm a 34-year-old amateur baker from Quebec, Canada. I've been exploring baking as a hobby for the past two years, especially focusing on budget-friendly recipes. I'm also into racing games and have a keen interest in personal finance, trying to make the most out of every dollar. I usually browse Reddit in the evenings after work, where I serve as a customer service representative. I'm married and enjoy spending weekends trying out new recipes or playing games with my partner.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "vosfinances, racinggames",
+    "recent_subreddits": "Clownvis, DinosaurEarth"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My baking knowledge is mostly self-taught through trial and error, and online resources. I frequently consult baking forums and watch tutorial videos. My interest in personal finance comes from managing my own expenses and following financial advice from various online communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

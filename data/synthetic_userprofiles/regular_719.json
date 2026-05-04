@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ForestWanderer42",
+    "account_age": "24 months",
+    "bio": "I'm a 29-year-old software engineer from Portland, Oregon. I have a keen interest in strategic video games and camping in music festivals like Electric Forest. I enjoy discussing game mechanics and exploring mods that enhance gameplay. I'm currently single and usually online during the evenings after work or during weekends. I work remotely which gives me flexibility with my schedule. I dislike poorly implemented game mechanics and I\u2019m a stickler for well-thought-out design.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "ElectricForest, SampleSize",
+    "recent_subreddits": "Powerwall, GTADupe"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Computer Science degree from Oregon State University. My passion for gaming stems from childhood, and I\u2019ve honed my skills and knowledge through years of playing and modding strategy games. I\u2019m self-taught in modding and actively follow updates in the gaming community.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

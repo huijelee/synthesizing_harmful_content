@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BikeAndBytes12",
+    "account_age": "18 months",
+    "bio": "I'm Alex, a 27-year-old software engineer from Columbus, Ohio. My work involves coding and developing applications, which gives me a great excuse to be online often. I've been into biking since college, and I enjoy exploring the trails and roads around my city. I'm a huge fan of Be\u015fikta\u015f, and I love discussing sports, especially soccer, with fellow fans. In my free time, I dabble in tabletop RPGs and am slowly learning to be a Dungeon Master. I'm single, and my late-night coding sessions often extend into the early hours, which is when I'm most active on Reddit.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "AITX, besiktas, homeland",
+    "recent_subreddits": "unvaccinated, DungeonMasters, TBI"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge in biking comes from years of personal experience and a lot of trial and error. I started with mountain biking but have recently been focusing more on road and gravel biking. Additionally, my technical expertise comes from a computer science degree and several years of working in the tech industry.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

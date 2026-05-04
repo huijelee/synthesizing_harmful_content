@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvySam",
+    "account_age": "18 months",
+    "bio": "Sam is a 29-year-old IT technician from Auckland, New Zealand. Passionate about technology and computers, Sam often helps friends and family with tech issues. In their free time, they enjoy hiking and exploring the great outdoors. Sam is a night owl, usually active on Reddit during late evening hours. They are currently single and enjoy participating in technology-focused discussions and forums to keep up with the latest trends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Discussion",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "CANZUKExchange",
+    "recent_subreddits": "mira004, FriendsOver40, kibbecirclejerk"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Sam has a strong background in IT, having studied computer science at university and worked in various tech support roles. They are self-taught in many areas, often learning through online tutorials and forums.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

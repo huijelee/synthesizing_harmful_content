@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieNewbie84",
+    "account_age": "7 months",
+    "bio": "I'm a mechanical engineer from Seattle, WA with a newfound passion for 3D printing. I recently got into this hobby after a friend gifted me a 3D printer. I enjoy exploring different filaments and tinkering with firmware to optimize my prints. Besides 3D printing, I have a deep love for classic films and I often participate in discussions about them. I work full-time at an engineering firm, so my online hours are mostly in the evenings and weekends. I'm single and enjoy spending my free time hiking and watching classic movies.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "SubredditDrama, The_Misfit_Company, classicfilms",
+    "recent_subreddits": "PoliticalDebate"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a formal education in mechanical engineering, which gives me a good foundation for understanding the mechanics of 3D printing. Most of my knowledge about 3D printing is self-taught through online tutorials, forums, and trial and error with my own printer.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

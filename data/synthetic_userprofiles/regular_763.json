@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PixelatedRaptorFan",
+    "account_age": "24 months",
+    "bio": "I'm a 28-year-old software developer based in Toronto, Canada. I've always been a huge fan of the Toronto Raptors and enjoy discussing potential trades and team strategies on Reddit. During my free time, I love revisiting classic games on my SEGA Genesis, and I have a growing interest in sim racing with Assetto Corsa Competizione. Despite my passion for sports and gaming, I'm also deeply concerned about privacy and digital rights issues, often keeping tabs on cases like Julian Assange's. I usually browse Reddit in the evenings after work or during weekends. Currently, I'm single and focused on my career and hobbies.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "SEGAGENESIS, ACCompetizione, PikatchupShipping",
+    "recent_subreddits": "WhereIsAssange"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in computer science from the University of Waterloo, which sparked my interest in technology and software development. Over the years, I've honed my skills through both professional experience and self-learning. My interest in basketball is largely driven by personal passion, staying updated through games, stats, and community discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

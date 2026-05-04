@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TacticalTeaLover",
+    "account_age": "30 months",
+    "bio": "Avid gamer and aspiring game designer residing in the UK. Passionate about tactical shooters but critical of their mechanics. Enjoys playing competitive games like Titanfall 2 and Doom Eternal. Often found discussing game design theories and strategies online. Works as a junior software developer in a tech startup. Enjoys airsoft and local beer festivals on weekends. Single and enjoys late-night gaming sessions.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Discussion"
+    ],
+    "top_subreddits": "MedicineCommunity",
+    "recent_subreddits": "Airsoft_UK, UK_beer"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Grew up playing video games, which fueled an interest in game design and development. Self-taught in game mechanics analysis by participating in various online forums and communities. Holds a degree in Computer Science, focusing on software development. Has attended several gaming conferences and workshops.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

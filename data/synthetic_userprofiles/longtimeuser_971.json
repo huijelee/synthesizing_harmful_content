@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TropicoVet2005",
+    "account_age": "18 years",
+    "bio": "I'm a 34-year-old gamer and tech enthusiast from Syracuse, New York. I've been playing video games since I was a kid, and I've got a particular soft spot for simulation and strategy games like Tropico and the Project Jojo series. When I'm not gaming, I enjoy tinkering with tech gadgets, especially game controllers from 8bitdo. I work as a software developer, which means I spend a lot of time online, both for work and leisure. I'm usually active on Reddit in the evenings, after work, and on weekends. I'm single and enjoy discussing gaming strategies and tech innovations with likeminded folks.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "8bitdo, ProjectJojo, cuse",
+    "recent_subreddits": "criminalminds, WholesomePorn"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science, which has fueled my passion for technology. I've been self-teaching in the realm of game development, focusing on how AI can improve gaming experiences. My knowledge is a blend of formal education and practical experience, mainly driven by my job and personal projects.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

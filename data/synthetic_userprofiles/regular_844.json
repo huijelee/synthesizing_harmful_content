@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieGamer_92",
+    "account_age": "18 months",
+    "bio": "A tech enthusiast from Birmingham, UK, with a passion for retro gaming and emulation. I work as an IT support specialist during the day, which allows me to dive into my interests during off-hours. I'm single and often browse Reddit in the evenings and late nights. I enjoy helping others troubleshoot tech issues and have a soft spot for classic Nintendo games.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "nofapaudio, IndianTeenagers, N64WrestlingGames",
+    "recent_subreddits": "CasualUK"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Self-taught with a focus on emulation and retro gaming, coupled with formal training in IT support. I spend a lot of my free time watching tutorial videos and reading forums to solve tech problems.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

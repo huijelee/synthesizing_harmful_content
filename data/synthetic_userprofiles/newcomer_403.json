@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FlankinNewbie123",
+    "account_age": "5 months",
+    "bio": "Hi there! I'm Alex, a college freshman from Texas studying Computer Science. I'm a huge fan of video games, especially FPS and RPGs. I've recently gotten into Paladins, and I'm still learning the ropes. I usually browse Reddit in the evenings after classes and during weekends. I'm single and love hanging out with my friends to discuss game strategies or just chill. I'm not a fan of Apple products, as you might guess from my recent subreddit visits. I'm also interested in story-driven games like Tales of Arise and the Halo series.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "TAMUAdmissions, wako",
+    "recent_subreddits": "applesucks, TalesOfArise, HaloStory"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "As a computer science student, I have a growing knowledge of programming and tech. However, I'm still a novice when it comes to Paladins and gaming strategies. I learn mostly through playing and watching online tutorials.",
+    "typical_text_length": "brief comments",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

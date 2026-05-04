@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HouseGroove123",
+    "account_age": "18 months",
+    "bio": "A 27-year-old music enthusiast from Singapore with a passion for electronic dance music. Works as a software developer by day and spends evenings curating Spotify playlists. Enjoys discovering new tunes and supporting up-and-coming artists. Typically online during late evenings due to work commitments. Single and enjoys spending weekends exploring the local music scene.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "NationalServiceSG",
+    "recent_subreddits": "algorithms, dubaigonewild, CVS"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a degree in computer science and has been working in the tech industry for over 5 years. Developed an interest in electronic music during college and has been self-teaching music production ever since. Keeps up with the latest trends in both technology and music.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

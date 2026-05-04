@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GamerTechGuy42",
+    "account_age": "18 months",
+    "bio": "I'm a tech enthusiast and avid gamer based in Austin, TX. I work as a software developer and spend most of my evenings and weekends online, exploring gaming forums and tech subreddits. My interests include live streaming, modding games, and listening to podcasts about self-improvement and military strategy. I'm single and often engage in gaming marathons with friends. I usually browse Reddit late at night, around 10 PM to 2 AM CST, when I'm winding down after a coding session.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "ValorantPBE, fcs, JockoPodcast",
+    "recent_subreddits": "Karma_Whore"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and have been tinkering with computers and software since my early teens. My knowledge is mostly self-taught, with a lot of hands-on experience from building custom PCs and coding personal projects. I often seek out new challenges through online courses and forums, particularly focusing on gaming technology and software development.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

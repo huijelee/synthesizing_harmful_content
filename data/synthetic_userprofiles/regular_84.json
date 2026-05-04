@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ArcadeAce42",
+    "account_age": "18 months",
+    "bio": "I'm a 29-year-old software engineer living on the East Coast of the US. I grew up playing video games, especially fighting games, and have recently picked up an interest in retro gaming. In my free time, I enjoy riding my Yamaha Bolt and diving into fantasy novels, with Artemis Fowl being a personal favorite. I work typical 9-5 hours, so I'm usually online in the evenings and weekends. Currently single, and focusing on my career and hobbies.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "IHateSportsball, Yamahabolt",
+    "recent_subreddits": "RedditPregunta, SEGAGENESIS, ArtemisFowl"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I've got a Bachelor's degree in Computer Science and have been coding since my teenage years. Most of my gaming knowledge comes from years of playing and engaging with online communities. I have a knack for tech, which extends to understanding the nuances of retro gaming consoles.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

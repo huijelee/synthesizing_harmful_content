@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FGO_MangaSeeker",
+    "account_age": "18 months",
+    "bio": "Avid gamer and manga enthusiast based in Toronto, Canada. Currently working as a software developer with a penchant for JRPGs and the Fate series. When I'm not coding, I enjoy exploring various forms of storytelling, whether it's through games, anime, or manga. I usually browse Reddit during breaks at work or late at night. I'm single and keen on connecting with fellow gamers and manga fans.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "heroesofhammerwatch, JustKindaDoing",
+    "recent_subreddits": "Duhan, dnbproduction, ObraDinn"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Deeply knowledgeable about mobile games and the Fate series, primarily self-taught through years of gaming and exploring fan communities. Holds a degree in Computer Science, which helps in understanding game mechanics and technology-related topics.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

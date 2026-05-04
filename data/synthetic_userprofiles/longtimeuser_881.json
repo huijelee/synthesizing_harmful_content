@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GreenThumbGuru420",
+    "account_age": "5 years",
+    "bio": "I'm a passionate home gardener with a focus on growing my own strains of cannabis. Originally from Portland, Oregon, I enjoy experimenting with different growing techniques and sharing my knowledge with others. My interests include horticulture, home brewing, and vinyl record collecting. I'm usually online in the evenings after work, where I manage a local plant nursery. Happily married with two cats, I enjoy lazy weekends watching Star Trek reruns and keeping up with the latest in tech and music.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "VaporVinyl",
+    "recent_subreddits": "StarTrekDiscovery, Amplenote, Spudmode"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Botany from Oregon State University and have worked in the horticulture industry for over a decade. I've gained extensive hands-on experience through managing a plant nursery and have a specific interest in the cultivation of cannabis. My knowledge is further supplemented by constant self-education through online resources and community discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

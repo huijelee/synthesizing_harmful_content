@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "JavaScriptNewbie2024",
+    "account_age": "6 months",
+    "bio": "A curious individual based in Boston, just starting their journey on Reddit and exploring the world of coding. They're a recent graduate in economics, with a growing interest in technology and how it intertwines with data analysis. They spend most of their online time in the late evenings, juggling their day job as a data analyst intern with their coding aspirations. Single and enjoying the freedom to explore new hobbies, they often find themselves drawn to podcasts and philosophical discussions.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "econometrics",
+    "recent_subreddits": "ThatHappensPod, TrueAntinatalists"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses a foundational understanding of economics from their undergraduate degree. Currently self-teaching JavaScript via online tutorials and community forums. They are also exploring the application of econometrics in tech.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

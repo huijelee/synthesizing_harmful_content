@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvyNomad",
+    "account_age": "18 months",
+    "bio": "A 28-year-old digital nomad originally from Austin, Texas, enjoying the freedom of remote work in the tech industry. Passionate about real estate technology and always on the lookout for the latest in streaming services. Typically online during late-night hours or early mornings, thanks to a flexible work schedule. Currently single and enjoys exploring new cultures and languages, especially Spanish. Dislikes misinformation and clickbait headlines.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "RealEstateTechnology, yagami_yato, TiviMate",
+    "recent_subreddits": "InsaneParler, askspanish"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a Bachelor's degree in Computer Science from the University of Texas and has been self-teaching real estate investment strategies through online courses and forums. Regularly attends tech webinars and reads industry blogs to stay updated.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GardenStateGazer",
+    "account_age": "18 months",
+    "bio": "A 22-year-old part-time college student residing in New Jersey. Balances academics with a part-time job at a local bookstore. Enjoys exploring state parks and has a keen interest in local legislation, especially around employment laws. Dislikes crowded places but loves quiet coffee shops where they can study or read. Usually online in the evenings, especially after work or classes. Currently single and enjoys spending weekends with friends or their French bulldog, Louie.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Discussion",
+      "Animals"
+    ],
+    "top_subreddits": "Yellz0, menlopark, u_LovingAural",
+    "recent_subreddits": "Frenchbulldogs"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Primarily self-taught in employment laws through personal research and experience. Takes an interest in local and state-level policies, using subreddits and online forums as primary sources of information. Attending community college with a focus on Business Administration.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SkyHighPilot92",
+    "account_age": "24 months",
+    "bio": "Avid gamer and aviation enthusiast from Seattle, WA. I spend most of my time exploring virtual skies on Flight Simulator 2020 and strategizing heists in Payday the Heist Online. I'm a 31-year-old software developer who loves tinkering with tech and pushing gaming graphics to the limit. Currently single and focusing on self-growth after a recent breakup. I usually browse Reddit in the evenings after work, between 7 PM and midnight. I enjoy engaging in discussions about LGBTQ+ topics and always on the lookout for the latest in technology.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "PaydayTheHeistOnline",
+    "recent_subreddits": "gay, Flightsimulator2020"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "User has a strong background in software development with a degree in Computer Science from the University of Washington. Gained expertise through a mix of formal education and self-taught experiences, particularly in game development and virtual reality. Regularly updates knowledge base with the latest tech trends and gaming updates.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

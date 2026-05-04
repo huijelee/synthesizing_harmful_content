@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "newbieGamer2023",
+    "account_age": "6 months",
+    "bio": "Avid gamer who recently discovered the joys of Reddit and the vast world of online gaming communities. Currently residing in San Francisco and working part-time as a barista while finishing a degree in computer science at SFSU. Passionate about strategy games and mods, especially enjoying Millennium Dawn for HOI4. Loves learning about new cultures, with a particular interest in Croatian language and history. Usually online in the evenings and late at night, balancing gaming and schoolwork. Single and enjoys the freedom of exploring new hobbies and gaming genres.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Discussion"
+    ],
+    "top_subreddits": "SFSU, MillenniumDawn, croatian",
+    "recent_subreddits": "u_fairybb98"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a growing interest in computer science and video game development. Learning through university courses, online tutorials, and community feedback. Enjoys experimenting with mods and game mechanics, often diving into Reddit for tips and tricks.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

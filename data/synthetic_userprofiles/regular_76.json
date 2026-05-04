@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CraftyGamer101",
+    "account_age": "18 months",
+    "bio": "CraftyGamer101 is a 28-year-old software developer based in Vancouver, Canada. With a passion for gaming and programming, they spend most of their evenings exploring the latest in game development while also sharing their love for retro games like Chrono Trigger. An avid fan of Animal Crossing, they often trade items and discuss game strategies on Reddit. Outside of gaming, they have a strong interest in tech developments and love experimenting with new coding languages. They generally dislike toxic online behavior and prefer communities that foster positive interactions. Typically online after work hours, from 7 PM to midnight, CraftyGamer101 enjoys contributing to discussions and learning from fellow Redditors. They are currently single, focusing on career and personal growth.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "Biltong, ACNHTrade, chronotrigger",
+    "recent_subreddits": "uwo, NBALiveMobileBuySell, ethdev"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "CraftyGamer101 holds a bachelor's degree in computer science and has been coding since high school. They have extensive experience in game development, having worked on several indie projects. Their knowledge is a mix of formal education and self-teaching through online courses and tutorials. They stay updated with the latest tech trends through forums and Reddit communities.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

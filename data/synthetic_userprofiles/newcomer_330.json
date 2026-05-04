@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EagerInvestor2023",
+    "account_age": "5 months",
+    "bio": "I'm a 29-year-old software developer based in Austin, Texas. I recently started exploring personal finance and investing, which led me to join Reddit. I'm particularly interested in ETFs and the Bogleheads investing philosophy. I enjoy cooking, particularly trying out new recipes, and I'm an amateur butterfly knife enthusiast. I usually browse Reddit in the evenings after work. I'm currently single and enjoy spending time with friends during the weekends.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "butterflyknife",
+    "recent_subreddits": "DiscussDID, HUEstation"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in computer science and have been working in the tech industry for 7 years. My interest in investing began recently, spurred by discussions with colleagues and online research. I've been actively learning through books and forums like Bogleheads.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SaturdaysSkeptic",
+    "account_age": "6 months",
+    "bio": "An avid concert-goer who recently discovered the Reddit universe. I live in Noida and work as a graphic designer. My interests include attending music festivals, especially Bass Canyon, and following Andrew McMahon's work. I'm also venturing into paludariums as a new hobby. I usually browse Reddit during late evenings after work. I'm single and enjoy spending my weekends exploring the local music scene.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "BassCanyon, noida, andrewmcmahon",
+    "recent_subreddits": "FuseMains, paludarium"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in graphic design, having studied at a local art institute. My love for music led me to follow various artists and attend live events, fueling my passion for festival experiences. Recently, I've been exploring DIY projects like creating paludariums, learning mostly through online tutorials and community advice.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

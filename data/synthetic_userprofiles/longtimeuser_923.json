@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LochNessLad96",
+    "account_age": "8 years",
+    "bio": "I'm a 27-year-old Scottish lad living in the heart of Edinburgh. With a passion for technology and a knack for tinkering with gadgets, I work as a software developer. I enjoy gaming, especially Warhammer 40k, and spend my weekends painting miniatures or exploring the beautiful Highland trails. I'm in a committed relationship with my partner, who shares my love for adventure and creativity. Typically, I\u2019m active on Reddit during the evenings, after work hours, and occasionally during lunch breaks. Besides my job, I have a keen interest in history and occasionally contribute to discussions about ancient civilizations.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "GCSE, gramps",
+    "recent_subreddits": "ApksApps, mastcelldisease, Salamanders40k"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "A self-taught programmer who started coding during my teenage years. I hold a degree in Computer Science from the University of Edinburgh and have continuously expanded my expertise through online courses and tech forums. My knowledge spans various programming languages, but I specialize in Python and JavaScript.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

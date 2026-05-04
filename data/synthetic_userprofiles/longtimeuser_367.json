@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechWanderer92",
+    "account_age": "5 years",
+    "bio": "TechWanderer92 is a 31-year-old software developer based in Austin, Texas. With a passion for technology and gaming, they spend their evenings tinkering with new gadgets or diving into the latest video games. Outside work, they enjoy traveling and exploring new airports, which fuels their interest in the 'airportceo' subreddit. Though not a fan of TV shows, they occasionally catch up on popular series when recommended by friends. They are single and enjoy a flexible work schedule that allows them to be online mostly during the evening hours.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "airportceo, dawless, TVTsucks",
+    "recent_subreddits": "fcmasterrace, flutterhelp, AnaloguePocket"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "TechWanderer92 holds a degree in Computer Science and has over a decade of experience in software development. They are self-taught in music production and synthesizers, often contributing to 'dawless' discussions. Their knowledge of retro gaming comes from a lifelong passion, further enriched by participation in the 'AnaloguePocket' community.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

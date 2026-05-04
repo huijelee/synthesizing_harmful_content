@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "chicagoBrewsBettas",
+    "account_age": "5 years",
+    "bio": "I'm a 32-year-old home brewer and aquarium enthusiast living in Chicago. My love for craft beers and betta fish has led me to explore various hobbies, from experimenting with new beer recipes to setting up multiple aquariums. I work as a software developer, which gives me the flexibility to be online during late evenings and weekends. I'm single and enjoy spending my free time exploring local breweries or tinkering with my aquariums. I\u2019m not too fond of overly strict rules and love a laid-back community.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Animals"
+    ],
+    "top_subreddits": "chicagobeer, AlienWorldsOfficial",
+    "recent_subreddits": "shoebots, StCharlesMO"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise lies in software development, which I pursued through a computer science degree. I have also developed a deep understanding of home brewing through years of trial and error, attending local workshops, and participating in online brewing forums. My interest in aquariums and betta fish started as a childhood hobby, which I\u2019ve expanded through self-teaching and engaging with the online aquarist community.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

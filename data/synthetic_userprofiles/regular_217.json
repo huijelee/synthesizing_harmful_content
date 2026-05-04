@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousMcGillie",
+    "account_age": "18 months",
+    "bio": "I'm a second-year undergrad student at McGill University, majoring in Computer Science. I'm originally from Toronto, and I moved to Montreal for my studies. My interests include coding, 3D modeling, and tinkering with old cars. In my free time, I enjoy playing video games and exploring Montreal's vibrant food scene. I'm usually online in the evenings after my classes and work shifts. I work part-time at a local caf\u00e9 to support myself financially. I'm currently single and focused on my studies and self-improvement.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "94windstar",
+    "recent_subreddits": "3d6"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a solid foundation in computer science, mainly through my coursework and personal projects. I also have a keen interest in 3D design, which I picked up through self-teaching and online tutorials. Additionally, I have a basic understanding of automotive mechanics, thanks to my family's interest in restoring vintage cars.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

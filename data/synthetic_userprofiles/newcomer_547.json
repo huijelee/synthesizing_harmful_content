@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechTeaNewbie",
+    "account_age": "6 months",
+    "bio": "I'm a 24-year-old tech enthusiast hailing from Toronto, Canada. I recently got into building PCs after years of gaming on consoles. I work as a junior IT support specialist at a local startup. When I'm not tinkering with new tech or reading up on the latest PC builds, I love indulging in my passion for tea. DAVIDsTEA is my go-to for exploring new flavors. I'm single and usually online in the evenings after work. I enjoy learning from experienced builders but can get impatient when I don't get quick responses.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "DAVIDsTEA, lkco",
+    "recent_subreddits": "u_spookumsss, AskOldPeople, VerticalShift"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a foundational knowledge of computer systems from my IT support job, where I troubleshoot basic hardware and software issues. My interest in PC building is self-taught through online forums, YouTube videos, and trial-and-error with my own setups.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousFootExplorer",
+    "account_age": "7 years",
+    "bio": "Hailing from the windy city of Chicago, CuriousFootExplorer is a 32-year-old mechanical engineer who spends his weekdays designing drones and his weekends experimenting with remote-controlled helicopters. With a penchant for unraveling flat earth theories, he often finds himself deep in debate on niche internet forums. While he dislikes unnecessary bureaucracy, he enjoys learning about new technologies and sharing his knowledge in online communities. He is single, enjoys hiking along Lake Michigan, and is usually active on Reddit between 8 PM and midnight after winding down from his busy day.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "Wavesplatform, DebateFlatEarth",
+    "recent_subreddits": "RCHeli"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "CuriousFootExplorer holds a Bachelor's degree in Mechanical Engineering from a reputable university. His interest in engineering was sparked at a young age when he started building model airplanes. Over the years, he has honed his skills through both formal education and self-directed projects, particularly in the field of aerodynamics and remote-controlled aircraft.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

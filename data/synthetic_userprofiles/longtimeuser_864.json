@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNomad82",
+    "account_age": "8 years",
+    "bio": "A tech enthusiast and digital minimalist based in Austin, Texas. Passionate about optimizing technology use to improve daily productivity. Works as a software engineer and often shares insights on tech forums. Enjoys playing indie games like Sifu and staying updated with the latest in smartphone technology, particularly OnePlus devices. Typically online during evenings and weekends. In a long-term relationship and enjoys attending local music festivals like BottleRock.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "OnePlus7Pro, SifuGame, tifu",
+    "recent_subreddits": "bottlerock"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a degree in Computer Science and has over a decade of experience in software development. Deeply interested in user interface design and productivity hacks, which they've honed through both professional work and personal experimentation.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

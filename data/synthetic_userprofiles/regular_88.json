@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PixelCrafter2021",
+    "account_age": "18 months",
+    "bio": "I'm a 15-year-old high school student from the Midwest who loves gaming, especially Minecraft and strategy games. I enjoy playing on community servers and have recently started dabbling in coding through USACO practice problems. When I'm not gaming, I'm either reading about vampires or following stock market trends on SmallStreetBets. I usually log on to Reddit in the evenings after school and homework. Currently single and spending most of my free time online.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Educational"
+    ],
+    "top_subreddits": "tall",
+    "recent_subreddits": "usaco, vampires, smallstreetbets"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I've been playing Minecraft for a few years now, learning much of what I know from YouTube tutorials and community forums. I started exploring coding through online resources and competitions like USACO. I also have a keen interest in fantasy literature and finance, which I explore through various subreddits.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

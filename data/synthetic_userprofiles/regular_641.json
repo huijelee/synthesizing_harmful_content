@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MysticScriptor",
+    "account_age": "18 months",
+    "bio": "MysticScriptor is a 28-year-old software developer from Toronto, Canada. With a keen interest in RPG games and a love for strategic gameplay, they spend their evenings exploring virtual worlds and crafting perfect team compositions. During the day, they work as a full-stack developer for a tech startup, which allows them to constantly learn and apply new technologies. In their spare time, they enjoy organizing their life with Org mode and catching up on niche internet culture podcasts. Married to their college sweetheart, they often game together or plan their next travel adventure. MysticScriptor is typically online during late evenings and weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "orgmode, PokemonClover",
+    "recent_subreddits": "HelloInternet, nonononoyes"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "MysticScriptor has a strong foundation in computer science, holding a degree from the University of Waterloo. Their expertise is further honed by years of professional experience in software development. A lifelong gamer, they have an in-depth understanding of RPG mechanics and often delve into game theory to optimize strategies. They frequently share their insights and experiences on relevant subreddits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

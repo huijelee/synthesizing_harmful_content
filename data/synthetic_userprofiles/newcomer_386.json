@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousDragonslayer99",
+    "account_age": "6 months",
+    "bio": "I'm a student currently attending UCSD, majoring in computer science. I recently got into the 'How to Train Your Dragon' series and am trying to watch everything in the correct order. I have a passion for technology and gaming, which is why I often visit the razer subreddit. I enjoy building things and have started exploring the 'buildingblocks' subreddit for ideas. During the evenings, you can usually find me online discussing PC setups or exploring new game strategies. I'm single and mostly spend my free time gaming or watching series. I dislike spoilers and people who don't respect gaming etiquettes. Based in San Diego, I'm online mostly during late afternoons and nights.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "razer",
+    "recent_subreddits": "buildingblocks, UCSD, Pauper"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I'm knowledgeable in computer science due to my studies at UCSD. I also have a self-taught background in gaming and tech, which I constantly update by following various tech forums and gaming communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

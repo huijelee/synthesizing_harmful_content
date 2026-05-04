@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieInvestor123",
+    "account_age": "5 months",
+    "bio": "I'm a 22-year-old college student majoring in Business Administration, currently residing in Cardiff, UK. I've developed a recent interest in the stock market and have been exploring different investment strategies. Besides my academic pursuits, I enjoy gaming on my Xbox, especially during late nights. I'm single and love spending time with my family and friends, often engaging in deep discussions about various anime series. I usually browse Reddit in the evenings after my classes.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Discussion",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "ddo, jojohate",
+    "recent_subreddits": "Cardiff, polyfamilies, XboxSeriesXlS"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a foundational understanding of business principles from my university courses. My interest in stocks is largely self-taught, through online resources and sporadic reading of stock market news. I also pick up insights from discussions on Reddit and YouTube.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

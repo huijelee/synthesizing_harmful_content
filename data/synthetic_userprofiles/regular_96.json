@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GuardianMacaron",
+    "account_age": "24 months",
+    "bio": "I'm a 28-year-old pastry chef based in Portland, Oregon, with a passion for sci-fi video games and cybersecurity. When I'm not baking macarons or crafting intricate desserts, I'm diving into the world of Destiny 2 or engaging in the latest scambaiting techniques to expose online fraudsters. I usually browse Reddit in the evenings after work and sometimes during late-night gaming sessions. I'm currently single and enjoy exploring new cafes and dessert spots in my city.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "macarons, scambait",
+    "recent_subreddits": "Preston"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a culinary arts degree and have been working in the pastry sector for the past 6 years. My interest in technology and cybersecurity developed through online courses and self-study, primarily due to my hobby of scambaiting. My gaming knowledge stems from years of playing various video games, with a particular focus on the Destiny franchise.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

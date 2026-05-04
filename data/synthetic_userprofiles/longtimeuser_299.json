@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvyAussie",
+    "account_age": "7 years",
+    "bio": "I'm a tech enthusiast from Sydney, Australia, with a passion for the latest gadgets and software updates. I work as a software engineer, which keeps me on my toes with the latest technological trends. Outside of work, I love tuning into Love Island Australia and following the latest in cryptocurrency, particularly Ethereum. I'm usually online in the evenings after work and during weekends. Currently in a relationship, I enjoy spending time with my partner exploring new places whenever possible. My dislikes include battery-draining software updates and slow internet.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "ethereum, LoveIslandAus",
+    "recent_subreddits": "SmartCar, PCRedDead"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and several years of experience in software development, I have a strong foundation in technology. I've self-taught myself about cryptocurrencies and have been actively trading and discussing Ethereum for the past few years. My interest in technology extends to keeping up with the latest software updates and troubleshooting issues, which I often share insights about in relevant forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

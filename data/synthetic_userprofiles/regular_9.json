@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ElectricEnthusiast87",
+    "account_age": "18 months",
+    "bio": "I'm a 34-year-old renewable energy consultant from Pittsburgh, PA. I have a deep passion for electric vehicles and sustainable energy solutions. My job involves collaborating with firms to optimize their energy usage and transition to greener alternatives. In my free time, I enjoy exploring new vodka brands and experimenting with cocktail recipes. I\u2019m an avid fan of 'Derry Girls' and I try never to miss a local pantomime. I usually browse Reddit during late evenings after work. Currently single, I enjoy spending weekends visiting local cultural events or watching sitcoms.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "LordstownMotorsEV, energy, vodka",
+    "recent_subreddits": "DerryGirls, Pantos"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Environmental Engineering and have over a decade of experience working in the renewable energy sector. My knowledge stems from both formal education and hands-on experience. I regularly attend industry conferences and webinars to keep up with the latest trends in energy technology.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

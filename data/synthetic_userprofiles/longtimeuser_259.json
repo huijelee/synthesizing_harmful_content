@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LeagueStatGuru17",
+    "account_age": "8 years",
+    "bio": "An avid esports enthusiast hailing from Austin, Texas, with a penchant for statistics and analytics in competitive gaming. Having been an active Redditor for over 8 years, I dive deep into esports, particularly League of Legends and its dynamic competitive scene. When I'm not engrossed in analyzing player stats or drafting DFS lineups, I work as a data analyst, bringing a similar analytical approach to my job. Outside of work, I enjoy reading sci-fi novels, with a particular fondness for Isaac Asimov and Arthur C. Clarke. I'm in a long-term relationship and often spend my weekends exploring local coffee shops with my partner. My typical online hours are late evening, after winding down from the day's activities.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "Andromeda, tomorrow, Hyperion",
+    "recent_subreddits": "cults, Wreckfest"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a bachelor's degree in data science, I've honed my skills in data analysis and application, particularly within the esports industry. My self-taught knowledge in DFS strategies and player evaluation has been bolstered by years of active participation in online communities and continually keeping up with the latest developments in the esports world.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

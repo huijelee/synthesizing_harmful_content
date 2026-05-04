@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechWanderer23",
+    "account_age": "18 months",
+    "bio": "An avid Android enthusiast from Toronto, Canada, who spends his evenings exploring tech forums and tinkering with devices. By day, I work as a junior IT technician, and by night, I delve into the world of custom ROMs and rooting. My interests include strategy gaming, specifically Endless Space, and learning new languages using Duolingo. I'm single and enjoy my solitude, but I often engage in casual discussions online. My typical online hours are from 6 PM to midnight, Eastern Time.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Educational",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "IntensiveCare, winkhub",
+    "recent_subreddits": "EndlessSpace, duolingo"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a diploma in Information Technology and have spent the last few years self-teaching myself about Android rooting and custom ROMs. My interest began when I successfully rooted my first smartphone, and from there, it became a hobby. I frequently visit forums and subreddits to expand my knowledge.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "VinylCog",
+    "account_age": "18 months",
+    "bio": "VinylCog is a 32-year-old freelance web developer from Portland, Oregon. With a passion for music and technology, they spend their days coding and their nights spinning records at local clubs. A self-proclaimed audiophile, they love diving deep into the world of turntables and have an impressive collection of vinyl records. On weekends, they explore the mystical side of life through Hermeticism, often attending local meetups and online discussions. Typically online in the late evenings, VinylCog enjoys learning new programming languages and recently started delving into SQL. Single and content, they appreciate the freedom to chase their passions.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Educational"
+    ],
+    "top_subreddits": "Turntablists",
+    "recent_subreddits": "Hermeticism, learnSQL"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "VinylCog holds a degree in Computer Science and has over a decade of experience in freelance web development. Their expertise spans across various programming languages, with a recent focus on SQL. They've cultivated a deep knowledge of vinyl records and turntablism through years of personal interest and practice, often sharing insights and tips on related subreddits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "flexible"
+  }
+}

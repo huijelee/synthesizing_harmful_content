@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NostalgicHistorian",
+    "account_age": "8 years",
+    "bio": "A history enthusiast in their late 30s, living in a small town in Utah. They work as a high school history teacher, and their passion for historical art and medieval history is evident in their online interactions. They dislike misinformation and enjoy having in-depth discussions on various topics, especially around history and current events. Typically online during evenings and weekends, they spend their time engaging with communities that align with their interests. They are married and enjoy a quiet life with their family.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Educational",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "tucker_carlson, latterdaysaints",
+    "recent_subreddits": "AdultSelfHarm, PoorAudiophile"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "The user has a formal education in history, having earned a master's degree in European history. They frequently research and self-educate through online courses and historical documentaries. Their knowledge of art history and medieval weaponry is extensive, often contributing this expertise to online discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

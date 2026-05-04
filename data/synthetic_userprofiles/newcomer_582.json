@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FinanceCuriousNewbie",
+    "account_age": "5 months",
+    "bio": "I'm a 27-year-old software developer based in Vancouver, Canada. I've recently taken an interest in personal finance, specifically investing through TFSAs and ETFs. In my spare time, I enjoy listening to podcasts like the Duncan Trussell Family Hour and discussing alternative finance strategies. I'm currently in a relationship and we are planning to convert a school bus into a mobile home. Typically online during the evenings and weekends.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Discussion",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "cockcompare, duncantrussell, AltStreetBets",
+    "recent_subreddits": "skoolie, SuperModelIndia"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a computer science degree and work in tech, which keeps me engaged with problem-solving and analytics. My interest in finance is recent, driven by a desire to better manage my personal savings and investments. I'm self-taught in finance, learning through online resources, Reddit discussions, and trial and error.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

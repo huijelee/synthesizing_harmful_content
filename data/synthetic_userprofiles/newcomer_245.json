@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbieNZXT",
+    "account_age": "4 months",
+    "bio": "Hey there! I'm a 24-year-old tech enthusiast from Wellington, New Zealand. I've recently dived into the world of PC building and gaming, and I love exploring new hardware setups. When I'm not tinkering with my PC, you'll find me writing short stories or enjoying a relaxing sauna session. I work as a junior web developer, which keeps me busy during the weekdays. I'm single and enjoy spending my evenings online, usually between 6 PM and midnight.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "driving, Sauna, writing",
+    "recent_subreddits": "Welbutrin, SynthBass"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I'm a self-taught tech enthusiast who started building PCs about 6 months ago. My knowledge mainly comes from online tutorials, forums, and trial-and-error experiences. While I don't have formal training, my background in web development gives me a solid understanding of technology and problem-solving.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

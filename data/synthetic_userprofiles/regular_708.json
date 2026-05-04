@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MindfulUIUCalum",
+    "account_age": "18 months",
+    "bio": "I'm a 24-year-old university student majoring in Computer Science at UIUC. I have a deep interest in philosophy, especially Stoicism, which I discovered about a year ago. In my free time, I enjoy coding, reading about ancient philosophies, and following college sports, particularly the Tennessee Volunteers. I dislike unnecessary drama and prefer straightforward, meaningful discussions. I currently reside in Champaign, Illinois, and usually engage with Reddit during late evenings after study sessions. I'm single and find solace in both solitude and engaging with like-minded individuals online.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "UIUC",
+    "recent_subreddits": "vols, Jetbrains"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a solid foundation in computer science thanks to my coursework at UIUC. My interest in Stoicism was piqued by a philosophy class, which led me to self-study through books and online resources. I'm also familiar with JetBrains tools due to my coding projects.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

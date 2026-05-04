@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EpicTransmuter87",
+    "account_age": "6 years",
+    "bio": "A 34-year-old hobbyist from the coastal city of Charleston, SC. Passionate about RPGs and aquatic life, I spend my weekends tinkering with my saltwater aquarium and exploring the latest in delta-8 products. By day, I'm a software developer specializing in open-source media servers like Jellyfin. Married with two kids, I usually find time to browse Reddit during late evenings after the kids are asleep.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Lifestyle"
+    ],
+    "top_subreddits": "delta8, SaltwaterAquariumClub",
+    "recent_subreddits": "dccrpg, jellyfin, goodomens"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Extensively knowledgeable in RPG mechanics and game design, having been an avid player for over two decades. I developed a keen interest in marine biology through self-study and maintaining my saltwater aquarium. My tech expertise stems from a Computer Science degree and over a decade of professional experience in software development.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

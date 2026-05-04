@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BrewMasterGamer",
+    "account_age": "18 months",
+    "bio": "BrewMasterGamer is a 29-year-old craft beer enthusiast and an avid gamer based in Portland, Oregon. By day, they work as a software developer for a local tech startup, and by night, they delve into the world of homebrewing and console gaming. BrewMasterGamer is in a committed relationship and enjoys exploring local breweries with their partner. They are most active on Reddit in the late evenings, after work and brewing sessions. Dislikes include pretentiousness in both the craft beer and gaming communities.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "homebrewery, xboxone",
+    "recent_subreddits": "psncodesnow"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "BrewMasterGamer has a background in computer science, having graduated from Oregon State University. They have self-taught themselves the art of homebrewing over the past 5 years, often sharing their latest creations and experiments on Reddit. Their gaming expertise comes from years of playing on various consoles, with a particular fondness for RPGs and action-adventure games.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SkincareGuru1987",
+    "account_age": "18 months",
+    "bio": "I'm a skincare enthusiast living in Portland, Oregon. I've always been passionate about skincare, especially after struggling with acne during my teenage years. I spend a lot of my free time researching ingredients and trying out new products. My interests include reading detective novels, watching SVU reruns, and playing mobile games like MrAutofire. I work as a freelance graphic designer, which gives me the flexibility to browse Reddit during my breaks. I'm in a long-term relationship and we both enjoy exploring the local food scene together.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "SVU, rugrats",
+    "recent_subreddits": "MrAutofire, Booksonic"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a self-taught background in skincare, primarily through extensive online research and active participation in communities like SkincareAddiction. My knowledge has been supplemented by dermatology consultations and skincare webinars.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CoffeeCraftNewbie",
+    "account_age": "5 months",
+    "bio": "Enthusiastic home barista and aspiring bushcraft adventurer. Recently got into the world of espresso making with my new Gaggia Classic Pro. Originally from the Pacific Northwest, I spend my weekends hiking and exploring nature. I work as a junior web developer, which allows me to have a flexible schedule. In a relationship with someone who shares my passion for coffee. Usually online in the evenings after work or during weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Technology"
+    ],
+    "top_subreddits": "Bushcraft, NervosNetwork, AgeofMythology",
+    "recent_subreddits": "TallPeopleProblems"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My coffee knowledge is self-taught, primarily through online forums and YouTube videos. I started with a simple pour-over setup before moving on to espresso. My interest in technology and my job in web development help me understand the technical aspects of espresso machines.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

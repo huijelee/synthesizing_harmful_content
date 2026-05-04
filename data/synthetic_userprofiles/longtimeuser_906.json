@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavant82",
+    "account_age": "7 years",
+    "bio": "I'm a 41-year-old software developer based in Seattle, Washington. I have a deep passion for technology, specifically in building custom PCs and exploring new software solutions. Married with two kids, I usually hop on Reddit during late evenings after the kids are asleep. My weekends are often spent tinkering with tech gadgets or catching up on the latest in gaming and DIY projects. I dislike unnecessary complexity in tech products and am an advocate for user-friendly interfaces. Currently, I'm working at a mid-sized tech company, focusing on backend development.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "miui",
+    "recent_subreddits": "freemasonry, sonarr"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a Bachelor's degree in Computer Science and have over 15 years of experience in software development. My expertise lies in C++ and Python, and I've been a tech enthusiast since my teenage years. Most of my knowledge comes from a combination of formal education and self-teaching through online courses and community forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

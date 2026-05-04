@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousNewbie123",
+    "account_age": "5 months",
+    "bio": "Hello! I'm a college student from Manchester, currently juggling my studies with a part-time job at a local coffee shop. I'm a huge fan of anime and recently got into watching Akudama Drive. I also love soccer and am an avid supporter of Manchester United. In my free time, I enjoy catching up on my favorite comedy shows like 30 Rock. I'm new to investing and have been exploring Wealthsimple Trade. My online hours vary, but I'm mostly active in the evenings and late at night. I'm single and enjoy spending time with friends discussing the latest episodes of our favorite shows.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "30ROCK, ManchesterUnited, Wealthsimple_Trade",
+    "recent_subreddits": "APStudents2"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a basic understanding of anime and manga, which I've gained through binge-watching and participating in online discussions. My knowledge of soccer comes from years of watching matches and reading about team strategies. I am a beginner in personal finance and investing, picking up tips from online resources and subreddits.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

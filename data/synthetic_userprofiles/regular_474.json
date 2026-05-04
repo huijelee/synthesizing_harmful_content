@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BalanceSeeker89",
+    "account_age": "18 months",
+    "bio": "I'm a 34-year-old tech enthusiast and fitness buff based in Mumbai. By day, I work as a systems analyst for a mid-sized IT firm, and by night, I delve into the world of handbalancing and digital security. I\u2019m passionate about finding the intersection between technology and personal wellness. When I'm not perfecting my handstands, you\u2019ll find me exploring new eateries around the city or experimenting with gamified tech setups at home. I'm currently single and enjoy spending my weekends either on the beach or gaming with friends online. I typically browse Reddit in the evenings after work and on weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Lifestyle"
+    ],
+    "top_subreddits": "yubikey, gamingsetups, Cryptomator",
+    "recent_subreddits": "MumbaiHookUps, restaurateur"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in computer science and a personal interest in cybersecurity, specifically with tools like Yubikey and Cryptomator. My journey into handbalancing began as a way to improve my physical health, and I've been self-teaching through online resources and community forums. I've also recently started exploring the world of restaurant business through local meetups and subreddits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

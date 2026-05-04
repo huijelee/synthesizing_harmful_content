@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TobaccoVoyager",
+    "account_age": "8 years",
+    "bio": "I'm a 34-year-old hobbyist from Burlington, Vermont, with a deep passion for pipe tobacco and vintage electronics. When I'm not exploring new blends or fixing up old gadgets, you can find me lost in the world of The Witcher 3. I work as a software developer and enjoy crafting small home automation projects in my free time. Single and loving the freedom, I often spend my evenings on Reddit, usually between 7 PM and midnight. Although I'm quite the introvert, I occasionally enjoy local meetups with fellow tobacco enthusiasts.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "bemani, Witcher3, lgv40",
+    "recent_subreddits": "Realme, bitters, crosstradingrblx"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and over a decade in software development, I've honed my technical skills both professionally and through personal projects. My love for tobacco is more of a self-taught journey, driven by years of exploration and community engagement in online tobacco forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

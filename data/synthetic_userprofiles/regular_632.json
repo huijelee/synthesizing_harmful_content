@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FIFA_GrindMaster",
+    "account_age": "24 months",
+    "bio": "Avid gamer and esports enthusiast currently residing in Minneapolis. I spend my evenings and weekends grinding through FIFA and Battlefield 3. I work as a software developer for a local tech company, which gives me the flexibility to indulge in my gaming hobby. I'm not a fan of overly complex games and prefer straightforward, skill-based ones. In a relationship with my high school sweetheart, and we both enjoy gaming together. I'm typically online late at night after work and during weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "battlefield3, osumania",
+    "recent_subreddits": "BOINC, KirkCousins"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Grew up playing video games and have a deep understanding of gaming mechanics, particularly in sports games like FIFA. My software development background often helps me analyze game algorithms and strategies. I've also participated in several online gaming communities, sharing tips and tricks.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

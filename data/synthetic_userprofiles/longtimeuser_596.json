@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "WarpedScholar42",
+    "account_age": "5 years",
+    "bio": "Avid Warhammer 40k enthusiast and miniature painter from Portland, Oregon. When not engaged in the grimdark future, I'm often found trading stocks or experimenting with new brewing techniques. I work as a software developer by day, which feeds into my passion for technology and innovation. In a committed relationship, my partner and I often share our hobbies, and we are parents to two mischievous cats. My typical online hours are in the late evenings during weekdays and varied on weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "TapWithUs, stilltrying, 808Trading2",
+    "recent_subreddits": "ntnu, brighteyes"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I've been a Warhammer 40k player for over a decade, starting with the Thousand Sons faction. My expertise comes from countless hours of gaming and painting, combined with a deep dive into lore through novels and community discussions. My background in software development also keeps me abreast of current tech trends, often shared in subreddits like 808Trading2.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

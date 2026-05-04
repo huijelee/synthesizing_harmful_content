@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GadgetQuestNewbie",
+    "account_age": "6 months",
+    "bio": "I'm a tech enthusiast from Bangalore, India, who recently discovered the world of Reddit. I'm a software developer by profession, currently working at a startup, and I love diving into the latest gadgets and tech trends. I enjoy reading about other people's experiences with tech, especially smartphones. My online hours are mostly in the evenings and on weekends. I'm single at the moment and enjoy spending my free time gaming or exploring new tech communities.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Lifestyle",
+      "Discussion"
+    ],
+    "top_subreddits": "niceguystories, UNLV",
+    "recent_subreddits": "Talisman"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, which I studied at the University of Bangalore. My love for technology has been largely self-taught through reading online forums and watching YouTube reviews. I've developed a keen interest in mobile technology and software development.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

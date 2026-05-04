@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvyDave",
+    "account_age": "8 years",
+    "bio": "Dave is a 36-year-old electrical engineer based in Surrey, BC. With a passion for all things tech, he frequently engages in discussions about the latest gadgets, especially Apple products. When he's not working on electrical projects or tinkering with new devices, he enjoys exploring the local music scene and hanging out with his two cats. Dave is currently single and tends to be online during the late evening hours, often contributing to discussions after work. He occasionally participates in lighthearted subreddits to unwind.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "electrical",
+    "recent_subreddits": "gangsta, SurreyBC"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Dave holds a degree in Electrical Engineering from a reputable university and has over a decade of experience working in the field. His expertise is primarily in consumer electronics, which he has furthered by self-teaching through online courses and forums. Dave is particularly knowledgeable about Apple products, often providing insights and reviews based on his extensive hands-on experience.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

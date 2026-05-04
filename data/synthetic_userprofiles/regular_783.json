@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DigitalNomad42",
+    "account_age": "18 months",
+    "bio": "A 29-year-old software developer based in Austin, Texas. Passionate about algorithms and the strategic elements of online games. Enjoys discussing conspiracy theories and exploring the deeper meanings behind song lyrics. Tends to browse Reddit during late evenings, after work, while sipping on herbal tea. Single, prefers a quiet life filled with books and music. Occasionally participates in local music events and hackathons.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "OnePunchManVsBattles, algorithms",
+    "recent_subreddits": "randomdice, TheB1G, smokingherbs"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a Bachelor's degree in Computer Science from the University of Texas. Gained most of their knowledge through a combination of formal education and self-directed learning, often diving into coding projects and algorithm challenges. Recently developed an interest in music history and its cultural impacts.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

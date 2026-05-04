@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BookwormDesign",
+    "account_age": "6 years",
+    "bio": "Avid reader and digital designer based in Portland, Oregon. I've been enjoying the Reddit community for over half a decade, particularly diving into book discussions and design topics. I work as a freelance graphic designer, which gives me the flexibility to explore my passion for reading and continuous learning. In my free time, I love exploring the outdoors with my partner and our two dogs. I usually browse Reddit during the evenings after work and occasionally during lunch breaks. I'm also a huge fan of football and spend Sundays watching games.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "DesignHomeGame",
+    "recent_subreddits": "EverETH_Official, pickuplines, AppleWatchSharing"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holding a degree in graphic design, my expertise lies in creating visually appealing digital content. Over the years, I've honed my skills through various freelance projects and by participating in online design communities. My love for literature complements my creativity, often inspiring my design work.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

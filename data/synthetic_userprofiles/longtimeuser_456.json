@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BrakeGuru_78",
+    "account_age": "8 years",
+    "bio": "I'm a mechanical engineer based in Seattle with a passion for cars, especially Volkswagens. I spend my weekdays working at an automotive design firm and my evenings tinkering with various car mods in my garage. I've been married for 5 years and my spouse is as much a car enthusiast as I am. When I'm not working or under the hood, I enjoy hiking and exploring the Pacific Northwest. I'm typically online during the evenings and weekends, where I share my expertise and learn from the vibrant Reddit community.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "fordtransit, ItLurksBelow",
+    "recent_subreddits": "A3AntistasiOfficial, OpenVPN, Steuern"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Mechanical Engineering from the University of Washington and have been working in automotive design for over a decade. My expertise is further honed by years of hands-on experience with various car models, both professionally and as a hobbyist. I am also an avid follower of automotive technology trends, constantly updating my skills through online courses and forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

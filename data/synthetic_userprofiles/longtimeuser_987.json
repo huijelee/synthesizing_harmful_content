@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LonelyGameDev",
+    "account_age": "5 years",
+    "bio": "I'm a 28-year-old indie game developer based in Austin, Texas. I've been passionate about video games since I was a kid, which led me to pursue a career in game development. I enjoy immersing myself in the creative process and love connecting with others who share my passion for gaming and development. I'm currently single and spend most of my time working on personal projects or exploring new games. I typically browse Reddit during late nights when I'm winding down after a long day of coding. I am not a fan of overly commercial or mainstream game discussions, and I prefer communities that focus on indie developments or niche interests.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "GrayMatterApps, DeadSpace",
+    "recent_subreddits": "farcry6"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science from the University of Texas and have been working in game development for the past 6 years. My expertise lies in game design and programming, specifically using Unity and Unreal Engine. I've also taught myself various graphic design tools over the years to complement my development skills.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

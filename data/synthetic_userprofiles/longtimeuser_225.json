@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EuroGamerPro87",
+    "account_age": "7 years",
+    "bio": "I'm a 35-year-old gamer and fitness enthusiast based in Berlin, Germany. By day, I'm a software developer, but I spend my evenings and weekends gaming, mostly playing CS:GO and following the latest matches of Brighton & Hove Albion. I'm passionate about humanism and enjoy engaging in thoughtful discussions about philosophy and ethics. Despite my love for gaming, I dislike toxic behavior and prefer playing with like-minded individuals who respect each other. I'm married to my wonderful partner, and we both enjoy exploring the local culinary scene and traveling. I'm usually online from 6 PM to midnight CET during weekdays and more flexibly on weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Discussion"
+    ],
+    "top_subreddits": "xxfitness",
+    "recent_subreddits": "BrightonHoveAlbion, humanism"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science and have been working as a professional software developer for over a decade. My knowledge of gaming comes from years of playing and following the esports scene, particularly CS:GO. I'm also well-versed in fitness and nutrition, thanks to personal research and regular engagement with the XXFitness community.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

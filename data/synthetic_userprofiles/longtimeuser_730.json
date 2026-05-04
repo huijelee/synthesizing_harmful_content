@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavant1984",
+    "account_age": "7 years",
+    "bio": "A seasoned tech enthusiast with a penchant for building custom PCs. Residing in the Pacific Northwest, enjoys the lush greenery and the vibrant tech scene. Works as a freelance IT consultant, and often helps friends and family with tech-related problems. Enjoys gaming, especially strategy and simulation games, with a soft spot for retro hardware. Usually online in the evenings after 8 PM. In a long-term relationship, and shares a home with a tabby cat named Pixel.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Humor"
+    ],
+    "top_subreddits": "batteries, chimebank, callofwarmemes",
+    "recent_subreddits": "Total_Tank_Simulator"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses a deep understanding of computer hardware and software, largely self-taught through years of hands-on experience building and repairing PCs. Regularly keeps up-to-date with the latest technology trends and products through online forums and tech sites. Holds a bachelor's degree in Computer Science, which further solidifies their technical foundation.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

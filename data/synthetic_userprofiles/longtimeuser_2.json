@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TransylvanianTechie",
+    "account_age": "8 years",
+    "bio": "I'm a 34-year-old software developer living in Cluj-Napoca, Romania. I'm passionate about technology and game development, which is why you'll often find me browsing through Unity tutorials. In my free time, I enjoy listening to alternative and indie music, frequently checking out subreddits like Hopefulcasesmusic. I'm not a smoker, but I'm intrigued by discussions on the socio-political aspects of drug legalization. I work remotely for a tech startup and enjoy the flexibility it provides. I'm single and spend most evenings online, usually between 7 PM to midnight local time.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "unity_tutorials, Hopefulcasesmusic, CoronavirusAustralia",
+    "recent_subreddits": "Vinesauce, hdtgm, OhioMJCommunity"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science from the Technical University of Cluj-Napoca, I've spent the past decade honing my skills in software development and game design. I'm mostly self-taught in Unity through online resources and community forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

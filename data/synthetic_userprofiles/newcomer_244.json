@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BookWanderer101",
+    "account_age": "6 months",
+    "bio": "An enthusiastic book lover who recently moved to Ottawa. I work as a junior editor for a small publishing house and enjoy exploring the city's local bookstores and libraries. In my free time, I dabble in writing short stories and occasionally help organize community book swaps. Newly married, my weekends are usually spent with my partner, often indulging in our shared love for hiking and discovering local cafes. I'm generally online in the evenings, after work, and on weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "FragileMaleRedditor, SWORDS, rust",
+    "recent_subreddits": "hyperfixation, Sublimation"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in English Literature, which has fueled my passion for books and storytelling. Most of my knowledge comes from my academic background and my current role in publishing, where I learn about different genres and writing styles.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

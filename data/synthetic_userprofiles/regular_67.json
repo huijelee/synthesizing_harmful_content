@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DoomsdayDevotee82",
+    "account_age": "24 months",
+    "bio": "A 28-year-old music enthusiast hailing from Chicago, deeply passionate about hip-hop, especially the lyrical genius of MF DOOM. By day, I work as a software developer, but my evenings are often spent exploring new music or diving into gaming worlds. Love anything that requires a bit of strategy or creativity, like Portal or Thaumcraft. I'm single but enjoy a vibrant social life online and offline, often attending local music gigs. Typically online during late evenings, a night owl at heart.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "Radarscope",
+    "recent_subreddits": "Portal, Thaumcraft, Watsky"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Self-taught in music history with a particular focus on underground hip-hop artists. Developed coding skills through a computer science degree and continued learning through online courses and personal projects. Regularly keeps up with tech trends and gaming news.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

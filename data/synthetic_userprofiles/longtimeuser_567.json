@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "RetroRPGenthusiast",
+    "account_age": "6 years",
+    "bio": "A 34-year-old software engineer from Portland, Oregon. Passionate about retro gaming, especially titles like SS13 and Wyvern RPG. Enjoys analyzing the socio-political themes in Adam Curtis documentaries. Dislikes poorly optimized software and rude online interactions. Typically online during evenings and weekends. Works in a mid-sized tech company, often tinkers with personal programming projects. In a long-term relationship with a fellow gamer.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "AdamCurtis, wyvernrpg",
+    "recent_subreddits": "hypnosis"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a degree in computer science and has over a decade of experience in software development. Gained extensive knowledge in game design and programming through both formal education and self-teaching. Regularly follows tech blogs and forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

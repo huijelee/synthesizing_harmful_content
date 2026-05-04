@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "KiwiGamer92",
+    "account_age": "18 months",
+    "bio": "Avid gamer and tech enthusiast living in Wellington, New Zealand. I spend most of my free time exploring new games, especially indie titles like OMORI. Apart from gaming, I'm passionate about DIY projects and always looking for the latest tools to add to my collection. I work as a software developer for a local tech firm, which keeps me busy during the weekdays. In a relationship for 3 years, and we often enjoy hiking and exploring the beautiful landscapes of New Zealand on weekends. My typical online hours are in the evenings, usually between 8 PM and midnight.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "Tools, newzealand",
+    "recent_subreddits": "Qudian"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and have been working in software development for over 5 years. My interest in games started early on and grew with a focus on indie game development. I often engage with communities that discuss game mechanics and troubleshooting, which has expanded my understanding of various game genres.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

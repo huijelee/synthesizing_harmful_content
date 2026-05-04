@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousCoder19",
+    "account_age": "18 months",
+    "bio": "I'm a 21-year-old computer science student from Ames, Iowa, currently attending Iowa State University. I have a keen interest in programming and technology, and often spend my downtime diving into complex coding challenges or exploring new programming languages. I\u2019m passionate about my Sikh heritage and engage in discussions around Sikh politics. In my free time, I enjoy watching films that combine romance with deeper human struggles. I'm single and exploring the dating scene, often feeling a bit daunted by the expectations set by romantic movies. My typical online hours are in the evening, after classes and assignments. I love learning about different cultures and languages, which is why I'm part of the 'brosaemvmeste' community, a space for Russian-speaking people.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Sikhpolitics, brosaemvmeste, AskProgramming",
+    "recent_subreddits": "Bichirs, iastate"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a solid foundation in programming, gained through both my university courses and self-study. I frequently engage in online courses and programming forums to enhance my skills. My interest in Sikh politics stems from my cultural background and family discussions, which keeps me updated on current events and historical contexts.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

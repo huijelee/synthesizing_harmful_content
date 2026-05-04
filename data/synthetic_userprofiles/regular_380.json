@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "WelshWanderer_21",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old IT technician based out of Cardiff, Wales. I enjoy exploring the world of web scraping and have a keen interest in data analysis. Outside of work, I love spending time with my partner and our two cats. On weekends, you can find me trying out new recipes or playing around with gacha mobile games. I usually browse Reddit in the evenings after work and sometimes during lunch breaks. I'm married and enjoy discussing relationship dynamics and sharing experiences on subreddits like MarriedSex.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "shittyshitshitgacha",
+    "recent_subreddits": "MarriedSex, webscraping"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and have been working in IT for the past five years. Much of my web scraping knowledge is self-taught through online courses and community forums. I stay up-to-date with the latest technology trends by reading tech blogs and participating in relevant subreddit discussions.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MiddleEarthExplorer",
+    "account_age": "5 years",
+    "bio": "A Maryland native in my late 30s, I've been a Reddit user for half a decade now. By day, I work as a civil engineer, but my heart is in exploring the realms of Middle-earth and jamming to King Gizzard & The Lizard Wizard. I enjoy sharing memes, especially those involving LOTR, and keeping up with local news and events in Maryland. I'm single and enjoy spending my evenings browsing Reddit, usually between 7 PM and midnight Eastern Time. With a moderate interest in legal advice and community discussions, I often find myself diving into subreddits that offer a mix of humor and information, especially in times of global events like the COVID-19 pandemic.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Humor",
+      "Discussion"
+    ],
+    "top_subreddits": "lotrmemes, maryland, COVIDgrief",
+    "recent_subreddits": "conseiljuridique, KGATLW"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a strong background in engineering, I've honed my analytical skills over years of professional experience. My love for LOTR and progressive rock bands like King Gizzard & The Lizard Wizard have made me well-versed in fantasy literature and music trivia. I often share insights and engage in discussions about these topics.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "QuizMasterExtraordinaire",
+    "account_age": "7 years",
+    "bio": "A trivia enthusiast and tech-savvy individual from Austin, Texas. Passionate about challenging quiz games and staying ahead in financial management. Works as a software developer specializing in mobile app development, often delving into new gaming trends during off-hours. Recently single, enjoys long hikes and exploring new cafes in the city. Typically online in the evenings, particularly active during weekends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Educational"
+    ],
+    "top_subreddits": "wealthfront",
+    "recent_subreddits": "RelationshipAdviceNow"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses a strong background in computer science with a degree from UT Austin. Self-taught in mobile gaming development and has a keen interest in finance, regularly following investment trends and wealth management strategies.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

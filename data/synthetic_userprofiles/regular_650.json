@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechEnthusiast92",
+    "account_age": "18 months",
+    "bio": "I'm a 31-year-old software developer from Mumbai, India. By day, I work as a freelance web developer, focusing primarily on front-end technologies. In my free time, I enjoy exploring new tech gadgets, particularly laptops, and I'm an avid follower of K-pop, especially Enhypen. I usually spend my evenings online after work hours, often browsing tech forums and indulging in some casual gaming. Currently single, I appreciate the freedom to pursue my hobbies and interests.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "enhypen",
+    "recent_subreddits": "RandomActsOfGaming, Sindh"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and over six years of industry experience, I've developed a strong foundation in coding and technology. I keep myself updated through tech blogs, forums, and by experimenting with new software and hardware.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

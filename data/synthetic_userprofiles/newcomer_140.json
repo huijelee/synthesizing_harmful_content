@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "IslandExplorer2023",
+    "account_age": "6 months",
+    "bio": "I'm a 24-year-old recent graduate from UNSW, currently residing in Fredericksburg. I have a keen interest in gaming and discovering new communities online. I work part-time at a local workshop, which allows me to explore my love for crafting and DIY projects. I'm newly single, having recently navigated a difficult divorce. I typically browse Reddit during the evenings, often after 7 PM. I love sharing and exploring islands in games, especially during events like New Year's Eve.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Educational"
+    ],
+    "top_subreddits": "unsw, workshops, fredericksburg",
+    "recent_subreddits": "Divorce, TapTapHeroes"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in engineering from UNSW, which gave me a solid foundation in problem-solving and technical skills. Most of my knowledge about gaming and online communities comes from self-teaching and participating in various forums and Discord servers.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

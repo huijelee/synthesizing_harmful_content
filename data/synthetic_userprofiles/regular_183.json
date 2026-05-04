@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechGamer_23",
+    "account_age": "16 months",
+    "bio": "Living in a small town in Oregon, I am a 27-year-old tech enthusiast who spends most of my free time gaming and watching tech reviews on YouTube. I work as a freelance web developer, which gives me the flexibility to game late into the night. I am single and often find myself diving deep into games like Destiny and RDR2 to escape the mundanity of daily life. I typically browse Reddit during the late evening hours and am actively involved in discussions on topics related to gaming and technology.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Humor"
+    ],
+    "top_subreddits": "YoMama",
+    "recent_subreddits": "TrollHunters, CortexCommand, vaner"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, having graduated with a degree from a state university. My passion for technology extends to gaming, where I constantly keep up with the latest trends and game releases. I have taught myself web development through online courses and hands-on projects.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

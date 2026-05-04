@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EchoingThoughts94",
+    "account_age": "7 years",
+    "bio": "I'm a 29-year-old software developer based in Toronto, Canada. I have a love-hate relationship with technology\u2014love building things, hate dealing with bugs. I spend my free time playing around with Linux setups and indulging in classic video games. I'm single and not super interested in changing that right now. I'm usually online in the evenings, after work, when I unwind with my cats and a cup of strong coffee. I have a strained relationship with my family, which probably explains my frequent visits to /r/narcissisticparents.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "ShittySpaceXIdeas, unixporn, lanoire",
+    "recent_subreddits": "TooLarge"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science, which I followed up with several years of self-directed learning to keep up with the ever-evolving tech landscape. I specialize in front-end development but have dabbled in back-end frameworks as well. My knowledge is a blend of formal education and a lot of trial and error.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

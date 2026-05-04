@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CraftyInkling_32",
+    "account_age": "18 months",
+    "bio": "A 32-year-old graphic designer based in Philadelphia, I'm passionate about digital arts and crafts. My interests span from designing using silhouette cutters to exploring blockchain technology with Flare Networks. I usually browse Reddit in the evenings after work, as a wind-down routine. I enjoy journaling and keeping track of my thoughts through bullet journals. Currently in a long-term relationship with a supportive partner who shares my love for tech and creativity. Not a fan of negativity or misinformation, especially during these challenging times.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Lifestyle"
+    ],
+    "top_subreddits": "silhouettecutters, PHL_Fusion, FlareNetworks",
+    "recent_subreddits": "BasicBulletJournals"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise lies in digital design, acquired through a Bachelor's in Graphic Design and several years of experience working with creative software. I've also developed a keen interest in decentralized technologies, self-taught through online courses and community forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

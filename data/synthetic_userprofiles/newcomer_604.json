@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieChad2023",
+    "account_age": "5 months",
+    "bio": "I'm a 25-year-old software developer from Toronto who recently discovered Reddit. I enjoy playing hockey and often find myself exploring different topics late at night. I have a keen interest in technology and self-improvement. Currently single, I spend my downtime learning new programming languages and indulging in some guilty pleasure browsing on subreddits like Embarrassing_Moments. I usually hop online after work, around 7 PM.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "TheBirchChad, PBEChineseNewYear2021, RKTCompanies",
+    "recent_subreddits": "hockeyplayers, Embarrassing_Moments, azuredevops"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and work as a software developer. Most of my knowledge comes from formal education and hands-on experience in the tech industry. I'm also learning about Azure DevOps through online courses and practice.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GallagherGuru",
+    "account_age": "18 months",
+    "bio": "A 32-year-old Denver native who has been a fan of gritty TV dramas since college. Works as a graphic designer for a local marketing firm, which allows plenty of flexibility for late-night Reddit browsing. Enjoys discussing TV series, especially those with long story arcs, and is critical of shows that decline in quality over time. Single, and often spends weekends hiking in the Rockies or exploring local breweries with friends. Active online mostly during late evenings after work.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "TurkishStreak, addiction, Ban_Pokemon",
+    "recent_subreddits": "denverlist"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a bachelor's degree in Visual Communication Design. Gained a deep understanding of television narratives through years of watching and analyzing shows. Self-taught in understanding scriptwriting by following industry blogs and Reddit threads.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

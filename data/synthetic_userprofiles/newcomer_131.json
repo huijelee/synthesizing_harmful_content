@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbieX3",
+    "account_age": "6 months",
+    "bio": "I'm a tech enthusiast who recently got into customizing Android devices. Based in Eastern Europe, I work as a junior software developer. When I'm not coding, I'm either learning about new tech trends or gaming. I'm single and usually online late at night after work. I prefer cool climates and enjoy exploring open-source projects.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "libreELEC, Unity2D, AdultsWithAspergers",
+    "recent_subreddits": "Hydrocephalus"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Self-taught in technology through online resources and forums. I have a basic understanding of Android development and rooting, mostly from experimenting with my own devices. I often consult tech forums and YouTube tutorials.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

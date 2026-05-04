@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FinanceNewbie21",
+    "account_age": "6 months",
+    "bio": "I'm a 21-year-old finance enthusiast from Chicago. Just wrapped up my bachelor's degree in Economics and started my first job as a junior analyst at a financial consultancy firm. I've always been passionate about personal finance and investing, which is why you'll often find me lurking in finance-related subreddits. In my free time, I enjoy gaming, particularly RPGs like Baldur's Gate 3, and catching up with friends over a round of cricket. I'm single, and my typical online hours are evenings after work. I value a minimalist lifestyle, which sometimes clashes with my love for tech gadgets and cars.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "BaldursGate3, ModsAreKillingReddit, CricketBuddies",
+    "recent_subreddits": "Shisha, superlig"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a solid foundation in economics, thanks to my recent degree. My interest in personal finance was ignited during college when I took an elective on financial planning. I spend time reading books and forums to self-educate on investment strategies. My job also allows me to apply theoretical knowledge practically.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "VivaldiExplorer21",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old software developer based in Copenhagen with a passion for exploring new technologies and languages. Outside of work, I enjoy watching survival shows like 'Naked and Afraid' and have recently started learning Danish to connect more with the local culture. I typically browse Reddit in the evenings after work, around 8-10 PM CET. Currently single, I spend my weekends hiking and experimenting with new recipes.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Educational"
+    ],
+    "top_subreddits": "nakedandafraid",
+    "recent_subreddits": "grammar, Danish"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, having earned my degree from a well-known European university. My interest in technology has led me to continuously explore new browsers and software, which is how I discovered Vivaldi. I often delve into forums and online resources to stay updated on tech trends.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

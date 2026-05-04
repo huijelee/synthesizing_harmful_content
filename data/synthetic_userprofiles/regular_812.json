@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GriffeyFanatic21",
+    "account_age": "2 years",
+    "bio": "I'm a 28-year-old software developer based in Bellevue, Washington. I grew up in Seattle, so the Mariners are practically in my blood. When I'm not coding, I'm either at Safeco Field or enjoying a good hike in the Cascades. I've got a soft spot for classic rock and heavy metal, particularly bands like Burzum. My online hours are typically in the evenings and weekends, as I have a 9-to-5 job. I'm currently single and enjoy the freedom to travel and explore new music festivals.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "MusicVideos, burzum",
+    "recent_subreddits": "Rockwall, TACN"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science from UW and have been working in tech since graduation. My love for music is mostly self-taught; I picked up guitar in high school and have been obsessed with discovering old and new bands alike. My knowledge about baseball, especially the Mariners, comes from years of being a dedicated fan and attending games.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

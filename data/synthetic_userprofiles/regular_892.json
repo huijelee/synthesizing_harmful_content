@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "RunAndWrite234",
+    "account_age": "18 months",
+    "bio": "I'm a 32-year-old fitness enthusiast based in Austin, Texas. By day, I work as a data analyst for a tech company, and by night, I'm a passionate runner aiming to hit personal records in various benchmarks. I love exploring different training methods and sharing insights with the fitness community. I'm single and often spend my evenings either running around Lady Bird Lake or attending local running club events. I\u2019m active online mostly in the late evenings and weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Technology"
+    ],
+    "top_subreddits": "TheOneTrueCaliber",
+    "recent_subreddits": "DSM, HeimerdingerMains, hetzner"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Data Science, which I use daily in my role as a data analyst. I've always been passionate about fitness, and my interest in running began during college when I joined the track team. Most of my knowledge in running comes from self-research, online courses, and participating in local running workshops.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

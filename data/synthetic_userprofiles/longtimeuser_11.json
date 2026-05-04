@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechEnthusiast82",
+    "account_age": "7 years",
+    "bio": "Living in Berlin, I'm a 41-year-old secondary school history teacher with a passion for technology and politics. My interests range from the latest tech gadgets to political discussions, and I spend my downtime exploring art and culture. I'm married with two kids and often browse Reddit in the evenings after 8 PM when the house is quiet. I enjoy discussing educational policy and frequently contribute to teacher forums.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Educational",
+      "Technology"
+    ],
+    "top_subreddits": "lehrerzimmer, Kisekae_Art, CivPolitics",
+    "recent_subreddits": "turkish"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in History and Political Science, which I leverage in my teaching career. My tech knowledge is self-taught, primarily through online courses and staying up-to-date with tech blogs and forums. I've been a tech hobbyist since my teenage years.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

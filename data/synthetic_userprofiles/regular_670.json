@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CartiConnoisseur23",
+    "account_age": "18 months",
+    "bio": "A 28-year-old music enthusiast from Austin, Texas, who works as a freelance graphic designer. I enjoy exploring new music genres, particularly hip-hop and experimental sounds. My evenings are usually spent diving into history documentaries or catching up on comedy podcasts. I'm single and often spend time in downtown Austin exploring the live music scene. I usually browse Reddit late at night after work or during breaks.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Educational",
+      "Discussion"
+    ],
+    "top_subreddits": "HistoriaCivilis, TheBugle, TwoXADHD",
+    "recent_subreddits": "BDSMAdvice"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Fine Arts with a focus on digital media. My love for history and politics comes from years of avid reading and following current events. I also have a deep interest in neurodiversity topics, inspired by personal experiences and self-teaching.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

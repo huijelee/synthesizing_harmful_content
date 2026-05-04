@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GamerPet92",
+    "account_age": "18 months",
+    "bio": "28-year-old tech enthusiast and gamer from Austin, Texas. I work as a freelance digital marketer with a focus on content strategies. My interests include BDSM roleplay, smart home technologies, and competitive gaming. I dislike early mornings and anything that involves too much formality. I'm usually active on Reddit during late evenings after work. Currently single and enjoying the freedom of online interactions.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Aqara, RocketLeague",
+    "recent_subreddits": "content_marketing"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Marketing and have been working in digital marketing for over 5 years. My knowledge in smart home technologies comes from personal interest and self-teaching through online resources and communities like Reddit. I also play Rocket League competitively, which has expanded my understanding of gaming strategies and online community dynamics.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

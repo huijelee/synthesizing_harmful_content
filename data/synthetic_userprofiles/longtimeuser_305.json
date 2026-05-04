@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GameGuru24",
+    "account_age": "5 years",
+    "bio": "Avid gamer and tech enthusiast from Austin, Texas. I work as a software developer at a mid-sized tech firm, specializing in backend development. I\u2019m passionate about gaming, particularly on consoles, and have been a loyal Xbox fan since the original console. My interests also extend to exploring the latest in tech innovations and participating in community theater. I enjoy boating on weekends and catching the latest blockbusters at AMC Theatres. Typically online during evenings and late nights. In a committed relationship with my girlfriend, who I love to game with. Not a fan of sports games, but big on RPGs and co-op experiences.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "HighResNSFW, boating, AMCTheatres",
+    "recent_subreddits": "Stadia, boyfriends, pfBlockerNG"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Computer Science and have been working in the tech industry for over seven years. My expertise in gaming comes from years of personal experience, as well as engaging with communities online and staying up-to-date with the latest industry trends. I regularly participate in beta testing for games and am an active member of various gaming forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

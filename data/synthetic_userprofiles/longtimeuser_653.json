@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavant82",
+    "account_age": "8 years",
+    "bio": "TechSavant82 is a 41-year-old electronics engineer based in Vancouver, Canada. With a passion for gaming and technology, they spend their evenings exploring the latest gadgets and gaming consoles. They are a proud alumnus of the University of British Columbia, where they earned a degree in Electrical Engineering. Apart from their tech interests, they are an avid basketball fan and enjoy discussing the sport online. Typically online during late evenings and weekends, TechSavant82 is married with two children and often shares tips on balancing family life with a tech-driven career.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "ubcengineering, WarfaceSwitch, BasketLeague",
+    "recent_subreddits": "sissypersonals"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "TechSavant82 has extensive knowledge in electronics and gaming technology, primarily gained through a formal education in Electrical Engineering and over a decade of experience working in the tech industry. They have a deep understanding of gaming console architecture and frequently contribute to technical discussions in various tech-related subreddits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BookwormCrafter",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old librarian living in Portland, Oregon. I'm passionate about books, DIY crafts, and exploring new technologies like laser cutting. I love sharing book recommendations and engaging in discussions about literature and creative projects. When not working, I spend my time crafting, planning my upcoming wedding, and learning about online security. I'm happily engaged and usually online in the evenings after work.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Technology"
+    ],
+    "top_subreddits": "ChineseLaserCutters",
+    "recent_subreddits": "slowthai, opsec, weddingplanning"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Library Science, I have a strong background in literature and information management. I've also picked up skills in crafting and technology through self-teaching and online courses. My interest in cybersecurity and privacy is driven by personal curiosity and the desire to protect personal information.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

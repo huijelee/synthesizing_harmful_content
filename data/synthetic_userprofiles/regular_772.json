@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "McFlurryMaster1987",
+    "account_age": "18 months",
+    "bio": "I'm a 36-year-old fast-food shift manager from Lakeland, Florida. I love my job even though it can be grueling, as you can tell by my recent 130-hour work period! I\u2019m a huge Van Halen fan and can never miss out on the latest Omicron variant news. In my free time, I enjoy playing Pok\u00e9mon GO and competing in the Battle League. I\u2019m in a committed relationship and spend most of my evenings online after my shifts, usually from 9 PM to midnight.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "OmicronNews, vanhalen",
+    "recent_subreddits": "lakeland, immigration, PokemonGOBattleLeague"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With over 15 years in the fast-food industry, I have an extensive understanding of the operational side of quick-service restaurants. I've also self-taught myself about the latest COVID-19 developments and have a knack for keeping up with entertainment news, especially concerning classic rock bands.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

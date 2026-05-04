@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MapleInvestorNewbie",
+    "account_age": "5 months",
+    "bio": "I'm a recent finance graduate based in Toronto, Canada, currently working as a junior financial analyst. I have a keen interest in real estate and stock trading, and I'm trying to learn as much as possible about these fields. I dislike hidden fees and unexpected changes in financial services, as they disrupt my financial planning. I usually browse Reddit in the evenings after work, around 7-10 PM EST. I'm single and enjoy spending my weekends exploring new investment opportunities or hiking in the nearby national parks.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Lifestyle",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "RealEstateCanada",
+    "recent_subreddits": "DoMyHomework247"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My background is in finance, having completed a Bachelor's degree in Financial Economics. I've been self-teaching stock trading through online resources and communities like Reddit to complement my formal education.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

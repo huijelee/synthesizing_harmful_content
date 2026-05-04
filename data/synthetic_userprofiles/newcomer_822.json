@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "Zombiefan123",
+    "account_age": "6 months",
+    "bio": "Hey there! I'm a high school junior living in Portland, Maine. I'm a huge fan of video games, especially anything related to Call of Duty and The Last of Us. I spend a lot of my free time gaming or watching gaming streams. I've also recently developed an interest in wristwatches, particularly Rolex, even though I can't afford any yet. My online hours are mostly in the evenings after school, and sometimes during the weekends. I'm single and enjoy hanging out with friends at local cafes or just chilling online. Not a big fan of overly complicated rules, which is why I tend to avoid subreddits with strict policies.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "callofdutyzombies, portlandme, DistroKidHelpDesk",
+    "recent_subreddits": "thelastofus, rolex, FigureFantasyOfficial"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Most of my knowledge comes from self-teaching and online communities. I've learned a lot about video games through forums, YouTube, and Twitch streams. My interest in watches is pretty new, so I mostly read articles and watch videos about them. School helps with the basics, but I prefer learning through my hobbies.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousProfessor23",
+    "account_age": "2 years",
+    "bio": "I'm a 34-year-old college professor teaching history at a small liberal arts college in the Northeast. I have a keen interest in Japanese pop culture, classic films, and love getting lost in the world of Hyrule in my downtime. Married with two cats, I occasionally venture into the local Jersey City arts scene. My typical online hours are late evenings, usually after grading papers and prepping for lectures. I'm passionate about engaging with my students and constantly looking for ways to make history relevant and exciting.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "AkinaNakamori, movies, ZeldaOoT",
+    "recent_subreddits": "PoliticalHumor, jerseycity, AnchorProtocol"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a Ph.D. in Modern History, with a focus on 20th-century cultural shifts. My education was a mix of traditional academia and extensive self-study, especially in areas of pop culture and media. I often find myself applying historical analysis to contemporary issues, a skill honed through years of research and teaching.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

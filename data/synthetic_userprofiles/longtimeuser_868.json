@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PlannerGuru1985",
+    "account_age": "7 years",
+    "bio": "A 38-year-old planning enthusiast living in the Tri-Cities area. Passionate about organizing life with a creative touch, I have been diving into the world of planners and stationery for the past decade. My interests include true crime documentaries, competitive shooting sports, and the strategic intricacies of League of Legends. I work as an IT consultant, which allows me to work flexible hours, often late into the night. In a committed relationship with my partner of 5 years, we enjoy weekend trips to local bourbon distilleries and exploring new cafes. Dislikes include clutter, disorganization, and overly complicated systems. Typically online during the evenings and weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "StevenAveryIsGuilty, Tricities3GunGroup, leagueoflegends",
+    "recent_subreddits": "ItalyInformatica, BmoreBourbonSociety"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Self-taught planner enthusiast with a knack for organizing and design. My IT career has honed my skills in problem-solving and attention to detail, which I apply to my hobbies. I've learned about planning and organization through online communities, workshops, and trial and error.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

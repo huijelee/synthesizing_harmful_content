@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FastingExpert99",
+    "account_age": "5 years",
+    "bio": "I'm a health enthusiast from Austin, Texas, with a passion for intermittent fasting and weight management strategies. My journey started after struggling with weight in my early 20s, but over the years, I've educated myself through a combination of self-teaching and community engagement. I work as a freelance nutrition consultant, helping others find sustainable paths to health. When I'm not working, you can find me gaming or indulging in some light-hearted humor on Reddit. I'm happily single and usually online during late evenings after my workout sessions.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Lifestyle",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "TracerMains",
+    "recent_subreddits": "100thieves, pawthereum, Muse"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Nutrition Science and have expanded my expertise through online courses and personal experimentation. My knowledge in fasting and nutrition is enriched by active participation in related subreddits and engaging with experts like Dr. Jason Fung.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

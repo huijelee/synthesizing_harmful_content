@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousMinnesotaRider",
+    "account_age": "6 months",
+    "bio": "I'm a 27-year-old tech enthusiast currently living in Minneapolis, MN. I work as a junior software developer and love spending my free time exploring the city on my bike, especially around the lakes. I'm single and enjoy diving into local politics, although I'm still getting the hang of all the details. My typical online hours are in the evenings after work and on weekends. I enjoy discussing movies and game development in my downtime.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "chickflixxx, GameDevelopment",
+    "recent_subreddits": "RideitNYC"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in computer science from a local university and have been working in tech for about a year. Most of my knowledge comes from both formal education and a lot of self-learning through online courses and forums. I'm also picking up bits and pieces about local politics through Reddit and local news.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

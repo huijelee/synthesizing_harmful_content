@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousTeen16",
+    "account_age": "6 months",
+    "bio": "Hey, I'm a 16-year-old high school student living in Long Island. I love sports, especially football and F1 racing, and I spend my free time writing lyrics and exploring philosophical questions. Not really a morning person, so I'm usually online in the evenings after school. I'm single and enjoy connecting with people who have similar interests. I tend to browse subreddits related to my interests, and I'm slowly discovering new communities here.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "NoGunsLife, gramps, longisland",
+    "recent_subreddits": "YangGang, OpenSuspect"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Currently in high school, I gain most of my knowledge from classes, online articles, and sometimes YouTube. I have a growing interest in philosophy, which I explore through reading and participating in discussions.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

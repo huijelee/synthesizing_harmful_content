@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FEnewbie123",
+    "account_age": "6 months",
+    "bio": "A passionate gamer who recently discovered Fire Emblem and has been diving deep into the series. I enjoy strategy games and have a soft spot for character-driven narratives. Based in the Midwest, I work as a software developer and usually browse Reddit in the evenings. Currently single and often found on weekends playing games or exploring new tech gadgets.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "superpowereds, Jetbrains, ATBandATGcommunity",
+    "recent_subreddits": "WearOS"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "As a newcomer to the Fire Emblem series, I've been learning through gameplay and community discussions. My background in computer science helps me engage with technology-related topics, and I've self-taught various programming languages over the years.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SkyPilot_Joe",
+    "account_age": "6 years",
+    "bio": "Aviation enthusiast and tech aficionado based in Brisbane, Australia. I work as a mechanical engineer with a focus on CNC machining. I'm passionate about flight simulation and spend my weekends exploring virtual skies with friends from around the globe. When I'm not flying or working, I enjoy tinkering with vintage Apple computers. I'm single and typically online in the evenings, especially on weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Educational"
+    ],
+    "top_subreddits": "CNC, uakron",
+    "recent_subreddits": "apple2"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Mechanical Engineering from the University of Queensland. My expertise in CNC machining stems from both formal education and hands-on experience at my job. Additionally, I am self-taught in flight simulation and vintage computer restoration, often learning through online communities and forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousListener85",
+    "account_age": "10 years",
+    "bio": "I'm a 38-year-old software engineer from Seattle with a passion for true crime podcasts and retro video games. By day, I work on developing energy-efficient software solutions, and by night, I'm either solving mysteries or slicing through enemies in Katana Zero. I'm in a long-term relationship and enjoy weekend hikes around the Pacific Northwest. You'll often find me online during late evenings, unwinding after a long day of coding.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "CrimeJunkiePodcast",
+    "recent_subreddits": "KatanaZero, PowerhouseEnergy"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise lies primarily in software engineering, having graduated with a degree in Computer Science from the University of Washington. Over the years, I've honed my skills in energy-efficient computing through both professional experience and self-study. Additionally, my interest in true crime has led me to become quite knowledgeable in criminal psychology and investigative techniques.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

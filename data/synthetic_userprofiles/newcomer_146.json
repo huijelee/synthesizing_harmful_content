@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "OntarianNewb123",
+    "account_age": "6 months",
+    "bio": "I'm a 35-year-old living in Ontario, Canada. I recently discovered Reddit and find it a great platform to discuss local issues and stay updated on community news. I'm particularly interested in healthcare topics and how they affect people in small towns like mine. I'm currently working as a freelance graphic designer, which allows me flexible hours. I live with my partner and our two cats. I usually browse Reddit in the evenings after dinner. I'm not a fan of unnecessary confrontation, and I prefer peaceful resolutions to issues.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Lifestyle",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Cgxef, BehindTheSpotlight",
+    "recent_subreddits": "EASportsUFC"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Fine Arts and have been working in graphic design for over 10 years. Most of my knowledge about current events and health policies comes from online research and community discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

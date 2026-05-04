@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavant1990",
+    "account_age": "11 years",
+    "bio": "A seasoned tech enthusiast in my early 30s, I'm based in Austin, Texas. I have a deep passion for PC building and retro gaming. During weekdays, I work as a software developer, which often bleeds into my weekends as I tinker with code and new tech. I'm single and enjoy the flexibility it gives me to dive into my hobbies. My typical online hours are late evenings after work, when I wind down by engaging with tech communities and catching up on the latest hardware trends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "PojavLauncher, SamandMax, Resist1777",
+    "recent_subreddits": "MenGetRapedToo, Chaotic"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science and have been building PCs since my college days. My expertise comes from both formal education and countless hours of self-directed learning and experimentation. I stay updated by watching tech reviews and following industry news.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

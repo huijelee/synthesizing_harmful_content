@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "3DPrintGuru",
+    "account_age": "5 years",
+    "bio": "Avid 3D printing enthusiast based in Winnipeg, Canada. I started my journey with a simple DIY printer kit and have been hooked ever since. I work as a mechanical engineer, which complements my passion for 3D printing. I spend my evenings and weekends tinkering with my Ender 3 and sharing my experiences on Reddit. Besides 3D printing, I enjoy playing poker and taking care of my curly hair, which often gets tangled in the Canadian wind. Married to my high school sweetheart and we often travel to Guanajuato to visit family. Online mostly during evenings and weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Technology"
+    ],
+    "top_subreddits": "PokerStars, Haircare",
+    "recent_subreddits": "Guanajuato, cuse, Winnipeg"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a mechanical engineering degree and extensive hands-on experience with 3D printers, particularly the Ender series. I acquired most of my knowledge through a combination of formal education and practical tinkering. I also frequently contribute to forums and subreddits to stay updated with the latest trends and solutions in 3D printing.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

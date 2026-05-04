@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvyTadpole",
+    "account_age": "5 years",
+    "bio": "A tech enthusiast in their late 20s from Seattle, WA. Passionate about gaming and technology, with a soft spot for Paleontology and marine life. Works as a junior software developer by day and a freelance game tester by night. Enjoys unwinding with Minecraft and staying updated with the latest tech gadgets. In a long-term relationship, loves hiking and exploring the Pacific Northwest during weekends. Active on Reddit mostly in the evenings and weekends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "Octonauts, SuperModelIndia",
+    "recent_subreddits": "Paleontology, playtesters"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a Bachelor's degree in Computer Science and has been working in software development for over 5 years. Self-taught in game development and constantly explores new tech trends through online courses and community discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

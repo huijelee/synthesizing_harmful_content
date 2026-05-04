@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MathCodeNewbie123",
+    "account_age": "6 months",
+    "bio": "I'm a recent college graduate with a degree in Computer Science, currently living in Seattle. I have a keen interest in Python programming and am exploring ways to integrate it into various projects. I'm a big fan of outdoor activities, particularly hiking and kayaking in the Pacific Northwest. I work as a junior software developer and enjoy learning new technologies during my free time. I'm single and often spend my evenings online, especially on tech and education-related subreddits.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "HeavySeas",
+    "recent_subreddits": "Adobe, anarcho_primitivism, edtech"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong foundation in computer science principles from my university education. I've been self-teaching Python through online courses and projects. My work as a junior developer involves a lot of hands-on coding, which helps me continuously improve my skills.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "StarWarsNewbie123",
+    "account_age": "8 months",
+    "bio": "Hello there! I'm a 28-year-old software developer based in Austin, Texas. I've always been a huge fan of sci-fi, particularly Star Wars. My love for the franchise started with the movies, and I've recently started diving into the Expanded Universe. When I'm not coding or exploring galaxies far, far away, I enjoy hiking in the Hill Country and trying out new recipes. I'm currently single and enjoy spending my evenings online, usually between 7 PM and midnight CST.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "twittermoment",
+    "recent_subreddits": "IronFrontUSA, ibs"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science and work as a software developer. My interest in Star Wars was initially sparked by the films, but I've been expanding my knowledge by reading the Expanded Universe novels and participating in discussions on Reddit. I also follow various Twitter moments for news and updates on tech and entertainment.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

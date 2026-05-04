@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieTrekker2023",
+    "account_age": "4 months",
+    "bio": "A tech enthusiast with a newfound interest in fitness equipment, particularly NordicTrack machines. I recently moved to Warsaw for work as a software developer and enjoy exploring aquaponics and niche music communities online. I usually browse Reddit in the evenings after work. Single and enjoying the expat life, I'm trying to balance my work and personal interests while connecting with others who share my hobbies.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "JohnMaus, WhatsTheRule, MoiraMains",
+    "recent_subreddits": "pajas_mentales, aquaponics, warsaw"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, having completed my degree online. I've worked in software development for the past three years and have a knack for troubleshooting tech issues. I am currently self-learning about aquaponics as a sustainable hobby and enjoy discovering new music genres.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

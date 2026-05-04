@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LoanSleuth84",
+    "account_age": "7 years",
+    "bio": "A 39-year-old financial analyst living in Staten Island, New York. Passionate about helping others navigate the complexities of student loans and personal finance. Enjoys watching Asmongold streams in the evenings, though often lurks rather than participates. Regularly follows YouTube content creators for entertainment. Married to a fellow finance enthusiast and they have one child. Typically online during late evenings after work and family time. Dislikes misinformation and poorly managed financial advice.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "Asmongold, statenisland, youtubers",
+    "recent_subreddits": "TwoXIndia, gloriavictis"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a master's degree in Business Administration with a focus on Finance from a reputable university. Over 15 years of experience in the financial sector, particularly in loan management and advisory services. Self-taught in the latest financial software and investment strategies through online courses and webinars.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "IndyBlueGamer",
+    "account_age": "6 months",
+    "bio": "A 23-year-old college student hailing from Bloomington, Indiana, majoring in Sports Management. Huge fan of college football, especially Indiana University games, and spends weekends either at the stadium or watching games with friends. Enjoys gaming in free time, particularly Call of Duty Zombies and Fire Pro Wrestling. Dislikes overly complex internet memes and prefers straightforward humor. Online late at night, often after 10 PM, due to a part-time job at a local sports bar. Single and enjoys the social scene of college life.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "IUFootball, firepro, David",
+    "recent_subreddits": "callofdutyzombies"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Primarily self-taught in gaming and sports statistics, with some formal education in sports management. Follows college sports religiously and keeps up-to-date with team stats and player profiles.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ScooterSavvyNewbie",
+    "account_age": "6 months",
+    "bio": "I'm a tech enthusiast from Portland who recently got into electric scooters. I love exploring new gadgets and figuring out how they work. Recently, I started commuting with a scooter and it's been a game-changer for my daily routine. I usually browse Reddit in the evenings after work. I'm a software developer by day and spend weekends kayaking. Currently single, and always looking for new adventures.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "TransportFever, MCPE, Kayaking",
+    "recent_subreddits": "DailyQuestion, TheSquad2"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise lies in software development, which I learned through a computer science degree and years of working in tech startups. My interest in electric scooters is fairly recent, and I'm learning as I go by participating in forums and watching online tutorials.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

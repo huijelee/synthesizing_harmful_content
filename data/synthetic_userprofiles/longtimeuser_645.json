@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PokeBreederBrendan",
+    "account_age": "7 years",
+    "bio": "Brendan is a 34-year-old software engineer based in Turin, Italy. With a deep-seated passion for Pok\u00e9mon and a knack for coding, he often spends his evenings trading Pok\u00e9mon from his extensive collection. When he's not immersed in the world of Pok\u00e9mon, Brendan enjoys listening to true crime podcasts and exploring Italian history. A self-proclaimed tech enthusiast, he also dabbles in WiFi network setups and troubleshooting. Brendan is single and enjoys spending his free time in online communities. His typical online hours are from 7 PM to midnight local time, after work and personal pursuits.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "TrueCrimePodcasts, cuckquean, ItaliaRossa",
+    "recent_subreddits": "wifi, MastersOfTheUniverse"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Brendan holds a computer science degree, which he obtained from a local university in Italy. His expertise in Pok\u00e9mon breeding stems from years of dedicated gameplay and active participation in niche Pok\u00e9mon communities. His technical skills are further bolstered by his professional experience as a software engineer, where he specializes in backend systems and network security.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

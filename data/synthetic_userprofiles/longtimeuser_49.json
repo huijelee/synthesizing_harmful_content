@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SubaruSavant",
+    "account_age": "5 years",
+    "bio": "A 34-year-old car enthusiast and tech hobbyist based in Seattle, Washington. Passionate about DIY projects, especially those involving flight simulation setups and car modifications. Works as a software engineer for a startup focused on bioinformatics, blending technology with life sciences. Enjoys watching anime like Naruto Shippuden in the evenings and often engages with the online community late at night, typically between 10 PM and 1 AM PST. In a long-term relationship and enjoys attending car meets on weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "HotasDIY, Onlyfansvenz",
+    "recent_subreddits": "MightyNo9, bioinformatics, narutoshippuden"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses a strong foundation in software development and data analysis, gained through a computer science degree from a reputable university and several years of work experience in tech startups. Also self-taught in automotive mechanics and flight simulation setups through online forums and YouTube tutorials.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DigitalNomadDave",
+    "account_age": "18 months",
+    "bio": "Dave is a 28-year-old digital marketing consultant based in New Jersey. He has a keen interest in true crime, particularly unsolved mysteries like the Suzanne Morphew case. Outside of work, Dave is a passionate advocate for medical marijuana and enjoys watching bad movies for a good laugh. Recently, he's taken up collecting sports cards as a hobby and is learning to play the ukulele. Despite being single after a recent breakup, he remains optimistic about the future. Dave usually browses Reddit in the evenings after work, between 7 PM and 11 PM EST.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "SuzanneMorphew, NJMedicalMarijuana, badMovies",
+    "recent_subreddits": "sportscards, ukulele"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Dave has a Bachelor's degree in Marketing and has spent the last five years working freelance in digital marketing. His expertise comes from a combination of formal education and on-the-job experience, with additional self-learning through online courses. He is particularly knowledgeable about SEO and social media strategies.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

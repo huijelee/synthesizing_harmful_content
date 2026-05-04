@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CricketGuru42",
+    "account_age": "7 years",
+    "bio": "An avid cricket enthusiast based in Mumbai, India. By profession, I am a software developer, but my true passion lies in following and analyzing cricket. I have a knack for dissecting player techniques and discussing match strategies. I enjoy engaging in spirited debates about cricketing legends and upcoming talent. Typically online during the evenings IST, I balance my time between work, family, and Reddit. I'm married with two children, and we enjoy watching cricket matches together.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "Battlefront2015",
+    "recent_subreddits": "DimensionalShifting"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I grew up watching cricket with my father, which sparked my lifelong passion for the sport. Over the years, I have developed a deep understanding of cricket through extensive reading, watching countless matches, and engaging in online discussions. My knowledge spans various formats of the game and includes player statistics, historical records, and match analysis.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

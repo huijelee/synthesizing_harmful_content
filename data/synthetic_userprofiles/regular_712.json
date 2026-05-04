@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "QuestingTripper42",
+    "account_age": "18 months",
+    "bio": "I'm a 26-year-old tech enthusiast living in Chino Hills, California. I recently got into virtual reality gaming after purchasing a Quest 2, and I've been exploring psychedelic experiences through VR. I'm a night owl, often online between midnight and 4 a.m., and I work as a freelance web developer during the day. I'm currently single and enjoy spending my free time gaming, exploring new technologies, and occasionally experimenting with psychedelics.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "lamictal, ChinoHills, gtaglitches",
+    "recent_subreddits": "MomPorn, ManyHats, Gunlance"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and have been working as a freelance web developer for the past three years. My interest in technology extends to VR and gaming, where I am mostly self-taught. I often learn through online courses and community forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

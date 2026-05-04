@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "OttawaExplorer99",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old healthcare worker based in Ottawa, Canada. I work at a local clinic where I manage patient intake and assist with administrative duties. I'm passionate about history, especially archaeology, and I spend my free time reading up on the latest discoveries or watching documentaries. I'm also an avid gamer, with a particular fondness for 'League of Legends', where Heimerdinger is my champion of choice. In terms of lifestyle, I try to stay informed about socio-political issues, particularly those concerning societal structures and governance. I usually browse Reddit during my breaks at work and late evenings. Currently, I'm in a committed relationship with my partner of two years.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Educational",
+      "Entertainment"
+    ],
+    "top_subreddits": "HeimerdingerMains",
+    "recent_subreddits": "Archaeology, AmericanFascism2020, girlsgonewired"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Health Sciences, which I pursued to complement my job in the healthcare sector. My interest in archaeology and history is self-taught, fueled by extensive reading and online courses. I've also kept myself informed on current socio-political issues through documentaries, online articles, and community discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

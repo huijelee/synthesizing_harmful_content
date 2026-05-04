@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ArtisticCoder_1985",
+    "account_age": "7 years",
+    "bio": "A graphic designer by day and an amateur poker player by night, I hail from Austin, Texas. I have a passion for digital art and storytelling, which draws me to subreddits like Photoshop and Sandman. While I enjoy learning new skills in coding, my patience for lengthy tutorials is limited. I\u2019m usually active in the evenings, juggling my time between work, online classes, and a budding interest in poker. Single and thriving, I often spend weekends exploring local art galleries or participating in online creative communities.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Educational"
+    ],
+    "top_subreddits": "TotalDramafanon, Sandman",
+    "recent_subreddits": "learnjava, PokerStars"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Graphic Design and have over a decade of experience working in the creative industry. My interest in coding is relatively new, sparked by the need to automate some of my work tasks, leading me to explore Java programming through various online platforms.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

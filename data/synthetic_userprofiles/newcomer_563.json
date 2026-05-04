@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FrenchKayakNewbie",
+    "account_age": "6 months",
+    "bio": "Avid gamer and outdoor enthusiast from Lyon, France. Recently discovered the joys of kayaking and love to explore new games. Currently balancing a job in IT support with my passion for gaming and outdoor adventures. I'm usually online in the evenings after work, around 7 PM to 11 PM local time. I'm single and enjoy spending my weekends either paddling down a river or diving into virtual worlds. Not a fan of overly competitive environments but love a good challenge.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "Kayaking",
+    "recent_subreddits": "CrazyIdeas, ProjectDiablo2"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a background in IT support, I'm quite familiar with troubleshooting technical issues, which I often apply to gaming glitches and bugs. My knowledge is mostly self-taught, driven by curiosity and the need to solve problems efficiently. I also pick up new skills from online tutorials and community forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

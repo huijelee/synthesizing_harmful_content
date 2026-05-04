@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechScribe1984",
+    "account_age": "8 years",
+    "bio": "I'm a 39-year-old IT consultant hailing from Portland, Oregon. I'm passionate about tech, especially building custom PCs and exploring emulation software. When I'm not working on tech projects, I enjoy designing theme parks in PlanetCoaster. I usually browse Reddit in the evenings after work, around 7-10 PM PST. I'm a single parent, so my weekends are reserved for family time. I dislike misinformation and always strive for accurate and helpful advice on forums.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "wicked_edge, emulation, vexillology",
+    "recent_subreddits": "PlanetCoaster, Voxiom"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and over 15 years of experience in IT consulting, I have a deep understanding of computer hardware and software. My expertise has been honed through years of building PCs, troubleshooting software issues, and exploring digital emulation. I am mostly self-taught beyond my formal education, always keeping up with the latest tech trends through online resources and communities.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

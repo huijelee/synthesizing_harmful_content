@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechBaker007",
+    "account_age": "7 years",
+    "bio": "A passionate tech enthusiast and amateur baker hailing from Bakersfield, California. Enjoys building custom PCs and experimenting with new baking recipes, especially macarons. Works as an IT consultant by day and loves spending evenings tinkering with gadgets or perfecting the art of French patisserie. Often shares his journeys with his golden retriever, Max, and has a keen interest in cryptozoology, particularly the legend of the Dogman. Currently single and enjoys the flexibility it offers for spontaneous adventures. Most active on Reddit during late evenings after work.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "MSI, macarons",
+    "recent_subreddits": "Bakersfield, dogman, slingshots"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a degree in Computer Science from a state university and over a decade of experience in IT consultancy. Self-taught in PC building through online forums and YouTube tutorials. Also has a keen interest in baking, which started as a hobby during college and has grown through practice and community interactions on baking subreddits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

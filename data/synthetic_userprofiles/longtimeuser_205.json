@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ZilNietzsche90",
+    "account_age": "7 years",
+    "bio": "I'm a cryptocurrency enthusiast and a philosophy buff living in Berlin, Germany. By day, I work as a software developer focusing on blockchain technology. I love exploring the philosophical works of Nietzsche, and I often indulge in felting as a calming hobby. I'm currently single and enjoy spending my evenings discussing crypto trends and existential philosophy online. I typically browse Reddit during my lunch breaks and late nights.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Discussion"
+    ],
+    "top_subreddits": "Nietzsche, Felting",
+    "recent_subreddits": "Fiddle, SwordAndShieldTrades"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science and have been working in the blockchain industry for over five years. My interest in philosophy is self-taught, stemming from years of reading and online courses. I stay updated with the latest crypto developments through online forums and professional networks.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

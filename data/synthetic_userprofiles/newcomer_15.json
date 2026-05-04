@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbie101",
+    "account_age": "4 months",
+    "bio": "I'm a 27-year-old living in Bengaluru, India, currently working as a junior software developer. I've always had a passion for technology, but I'm relatively new to the professional scene and still learning the ropes. In my free time, I enjoy exploring quantum physics concepts and watching British sci-fi series like Torchwood. I usually browse Reddit in the evenings after work, around 7-10 PM IST. I'm single and enjoy spending my weekends attending tech meetups or watching documentaries.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Discussion",
+      "Educational"
+    ],
+    "top_subreddits": "DesiMeta",
+    "recent_subreddits": "Torchwood, quantum, DaveBixby"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in computer science and have been self-teaching various programming languages through online courses and tutorials. My job as a junior developer has exposed me to real-world coding challenges, but I'm still building confidence in troubleshooting and hardware issues.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

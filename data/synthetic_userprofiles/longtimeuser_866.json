@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DesertGrowGuru",
+    "account_age": "7 years",
+    "bio": "A passionate horticulturist and hobbyist grower based in Las Vegas. I have a deep interest in sustainable indoor gardening and often experiment with different lighting and nutrient setups. I graduated from UNLV with a degree in Environmental Science and work as a freelance consultant for urban gardening projects. My online hours vary, but I\u2019m usually active in the evenings. I\u2019m currently single and enjoy sharing my knowledge with fellow growers. In my free time, I also explore citrus cultivation and participate in local gardening clubs.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Discussion"
+    ],
+    "top_subreddits": "UNLV",
+    "recent_subreddits": "Citrus"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have extensive knowledge in indoor gardening, particularly in LED lighting systems and hydroponics. This expertise is a result of both formal education in environmental science and years of self-directed learning through experimentation and community engagement.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

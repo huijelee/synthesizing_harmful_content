@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechiePiExplorer",
+    "account_age": "7 years",
+    "bio": "Based in Seattle, I'm a tech enthusiast who loves tinkering with Raspberry Pis and exploring new technology. By day, I'm a software developer working remotely, and by night, I dive into various DIY electronics projects. I enjoy sharing my knowledge and learning from others in the community. I'm single and usually online in the evenings, especially on weekends. My dislikes include overly complex setups for simple solutions and unnecessary hardware waste.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "Polkaswap, Corridor",
+    "recent_subreddits": "impcat, Hyundai"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I've been working in software development for over a decade, with a strong focus on backend systems and cloud infrastructure. My interest in tech grew from a young age, and I've been self-teaching through online courses and community forums. My expertise extends to home automation and networking, which keeps me engaged in subreddits like TPLinkOmada.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

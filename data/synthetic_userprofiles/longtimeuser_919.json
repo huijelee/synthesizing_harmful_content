@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "KDramAddict42",
+    "account_age": "10 years",
+    "bio": "Born and raised in Seattle, I'm a software engineer by day and a Korean drama aficionado by night. I love diving into the world of K-dramas and sharing my recommendations with fellow fans. When I'm not coding or watching dramas, I enjoy hiking around the Pacific Northwest and experimenting with new Dr Pepper flavors. I'm usually online during the evenings, especially after 7 PM PST. I'm happily single and enjoy the flexibility it offers to deeply explore my hobbies like faceting gemstones.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "Tenkinoko, DrPepper, ProgrammingBuddies",
+    "recent_subreddits": "missoula, faceting, AerospaceEngineering"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science and have been working in the tech industry for over a decade. My passion for K-dramas started as a way to unwind from the stresses of coding. Over the years, I\u2019ve developed an extensive knowledge of K-drama storylines and tropes, mainly through binge-watching and participating in online communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

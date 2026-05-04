@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CedarForestRunner",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old outdoor enthusiast living in the Comox Valley, where the mountains meet the sea. During the day, I'm a software developer for a small tech company, working mostly remotely. I love hiking, camping, and exploring the lush forests around Vancouver Island. In my downtime, I enjoy gaming, especially survival games like 'The Forest' and 'Brawl Stars', where I can strategize and unwind. I'm single, and my evenings are often spent either gaming or getting lost in a good book. I'm usually online late at night, from around 10 PM to 2 AM, often browsing subreddits related to nature, technology, and local community events.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Lifestyle"
+    ],
+    "top_subreddits": "comoxvalley",
+    "recent_subreddits": "Brawlstars"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, having graduated with a degree in Software Engineering. My interest in nature and survival games stems from my childhood experiences growing up in a rural area, where I learned a lot about the outdoors from my family. I enjoy combining my tech skills with my love for nature by working on projects that involve environmental data analysis.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

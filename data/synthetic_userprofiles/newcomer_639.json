@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SucculentSeeker93",
+    "account_age": "7 months",
+    "bio": "I'm a 30-year-old plant enthusiast from Portland, Oregon, diving into the world of Reddit. By day, I work as a software developer for a small startup, and by night, I'm either tending to my growing collection of succulents or learning about new investment strategies. I'm single, which gives me plenty of time to explore my hobbies. I typically browse Reddit during lunch breaks and late evenings. I have a passion for learning and I'm always looking to expand my knowledge, whether it's through online courses or by engaging with the Reddit community.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Technology"
+    ],
+    "top_subreddits": "dailydabbers, SSAThelp",
+    "recent_subreddits": "medicalschoolanki, mining, DEGIRO"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science and have been working in the tech industry for over 8 years. My interest in plants and gardening is a recent development, sparked by a desire to improve my home environment. I am self-taught in stock trading and investments, using platforms like DEGIRO to manage my portfolio.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

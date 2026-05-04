@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EconomicsEnthusiast21",
+    "account_age": "18 months",
+    "bio": "I\u2019m a 28-year-old data analyst from Austin, Texas. I have a keen interest in macroeconomics and international relations, which I follow closely through various news sources and online forums. My job involves using data to forecast trends, which feeds into my passion for making predictions about political and economic developments. In my free time, I enjoy gardening and I'm a big fan of Lemony Snicket's works. I'm currently single and typically browse Reddit in the evenings after work.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Educational",
+      "Entertainment"
+    ],
+    "top_subreddits": "AskRedditespanol, LemonySnicket, Rainbow6TTS",
+    "recent_subreddits": "u_CasualScreeching"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Economics and have worked in data analysis for the past 5 years. My interest in international politics and economics is largely self-taught through online courses and extensive reading.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

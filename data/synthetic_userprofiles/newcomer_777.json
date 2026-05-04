@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FootyFanatic2023",
+    "account_age": "6 months",
+    "bio": "An avid sports enthusiast from Manchester, UK, who recently discovered the world of Reddit. I spend most of my time diving into the latest FIFA updates and strategies, while occasionally indulging in Warhammer 40k lore and discussions. My evenings are often spent exploring new fine dining experiences around the city. I work as a junior graphic designer, and I'm single. You can usually find me online late in the evenings after work.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "itspetersfault, WorldEaters40k, NR200",
+    "recent_subreddits": "finedining"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise mainly lies in sports and casual gaming, particularly with FIFA. I've been playing FIFA since I was a kid, and most of my knowledge comes from years of playing and engaging with the community. I've also recently taken an interest in Warhammer 40k, learning through forums and watching online tutorials.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

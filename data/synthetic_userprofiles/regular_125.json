@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "VillageBuilder42",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old graphic designer from Lisbon, Portugal, with a passion for video games and online communities. I love creating intricate designs, both in my professional work and in games like Animal Crossing, where I enjoy building detailed villages. Besides gaming, I'm a foodie who can't resist a good plate of Portuguese pasta and I'm always experimenting with new recipes. In my free time, I indulge in some light anime and manga, with 'TsukiMichi' being a recent favorite. I'm usually online in the evenings, after work, and on weekends. Currently, I'm in a long-term relationship with my partner who shares my love for gaming and cooking.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "PastaPortuguesa, porn_gifs, TsukiMichi",
+    "recent_subreddits": "ZombieGunshipSurvival, rbny"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Graphic Design from a Lisbon university and have worked in various design firms for over five years. My gaming knowledge is largely self-taught, gained through years of playing and engaging in online communities. I've also picked up a lot of culinary tips from cooking subreddits and YouTube channels.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

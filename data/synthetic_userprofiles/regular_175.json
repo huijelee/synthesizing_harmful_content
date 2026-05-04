@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TimeyWimey42",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old software developer living in Manchester, UK. I've been a Doctor Who fan since I was a kid, and I love discussing episodes and theories on Reddit. When I'm not working or watching sci-fi, I enjoy motorcycle racing and investing in the stock market, which is why I frequent subs like '1000ccplus' and 'EducatedInvesting'. My typical online hours are in the evening after work, usually between 7 PM and 11 PM GMT. I'm currently single and enjoy the freedom to explore different hobbies and interests.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "1000ccplus, EducatedInvesting, TheAFCN",
+    "recent_subreddits": "sambo, scarlxrd"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science and have been working in software development for over 5 years. My knowledge of Doctor Who comes from years of watching the series, reading related media, and engaging with fan communities online. I also self-taught myself investment strategies through online courses and forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

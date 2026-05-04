@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieTrekker",
+    "account_age": "8 years",
+    "bio": "TechieTrekker is a seasoned tech enthusiast from Portland, Oregon, who has been building and troubleshooting computers since their early teens. With a degree in Computer Science and a career in IT support, they spend their evenings and weekends helping others solve tech-related issues on various forums. An avid bird watcher, they often spend weekends hiking and capturing wildlife photography. In a committed relationship, they also enjoy indie podcasts and exploring open-source software. Typically active on Reddit during late evenings and weekends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "BirdHunting",
+    "recent_subreddits": "leftpodcasts, hyperlightdrifter, fossdroid"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a strong foundation in IT support and a degree in Computer Science, TechieTrekker has honed their expertise through both formal education and hands-on experience in troubleshooting hardware and software issues. They are particularly skilled in network configurations and custom PC builds.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

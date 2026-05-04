@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FreshRedditor2023",
+    "account_age": "2 months",
+    "bio": "I'm a tech-savvy individual from Hamburg, Germany, working as a junior software developer. I have a keen interest in online gaming and learning new programming languages. Outside of work, I enjoy watching nostalgic TV shows like Cobra Kai and have recently taken an interest in mathematical problem-solving. I usually browse Reddit in the evenings after work or during weekends. I'm currently single and enjoy spending time with my friends and family.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Educational",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Mbrp, cobrakai",
+    "recent_subreddits": "mathteachers"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I'm primarily self-taught in programming, having taken various online courses and tutorials. My interest in coding started during my teenage years with basic HTML and has since expanded to include Java, Python, and other languages. My job as a junior software developer has further honed my skills, especially in debugging and problem-solving.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

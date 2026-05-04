@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FinanceExplorer123",
+    "account_age": "24 months",
+    "bio": "I'm a 26-year-old accounting major currently living in Portland, Oregon. I recently switched my major to Accounting and am enthusiastic about entering the field. My hobbies include playing Pok\u00e9mon GO, exploring different types of psychotherapy, and working on automotive projects, particularly with my Jetta GLI. I spend most of my online hours in the evenings, usually between 7 PM and midnight. I'm currently working part-time at a local caf\u00e9 while finishing my degree. In a relationship for the past three years.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Education"
+    ],
+    "top_subreddits": "mdmatherapy, TheSilphArena, JettaGLI",
+    "recent_subreddits": "SubaruAscent, Stormworks"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge in accounting is primarily from my academic pursuits, with additional insights from online courses and community college workshops. I\u2019m actively seeking practical experience through internships and volunteering opportunities to enhance my understanding.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewYorkRookie42",
+    "account_age": "8 months",
+    "bio": "A 25-year-old lifelong Knicks fan from Albany, NY. Recently started exploring Reddit to connect with fellow sports enthusiasts and to dive deeper into basketball discussions. Works as a graphic designer and enjoys watching movies and animated series in spare time. Single, and usually online during evenings and weekends. Loves Disney movies and has a growing interest in animated storytelling.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Discussion",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Vivy",
+    "recent_subreddits": "starwarsrebels"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Grew up playing basketball and followed the NBA, especially the Knicks, since childhood. Self-taught in graphic design, which complements their interest in visually engaging content. Recently started exploring animated storytelling through watching series like 'Vivy' and 'Star Wars Rebels'.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

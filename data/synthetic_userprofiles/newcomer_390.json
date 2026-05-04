@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousEcho2023",
+    "account_age": "4 months",
+    "bio": "A 25-year-old software developer from Austin, Texas, currently exploring their gender identity. They have a keen interest in technology and are learning Angular for a new project at work. When not coding, they enjoy digging into Reddit discussions about politics, particularly from a conservative standpoint, and indulging in late-night Waffle House visits. They are single, enjoy RPG games, and typically browse Reddit during late evenings after work.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "angular, asktheconservatives, wafflehouse",
+    "recent_subreddits": "SwordMaster_Story, FattyLiverNAFLD, eGLD"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Graduated with a degree in Computer Science from a state university. Self-taught in several programming languages, with a recent focus on Angular development. Enjoys reading about various topics online, from medical conditions like NAFLD to cryptocurrency discussions.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

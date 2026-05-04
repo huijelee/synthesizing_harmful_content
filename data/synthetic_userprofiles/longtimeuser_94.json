@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechGuru_42",
+    "account_age": "7 years",
+    "bio": "Tech enthusiast and part-time gamer based in Las Vegas, Nevada. I spend my days working as an IT consultant, helping businesses optimize their tech infrastructure. In my free time, I enjoy gaming, especially FPS titles, and I'm a proud owner of a Vizsla named Rusty. I'm also quite interested in cryptos, though I approach it more as a hobby than an investment strategy. You can usually find me online during late evenings or early mornings, as my schedule is quite flexible. I'm currently single and enjoying the freedom to explore my interests.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Animals"
+    ],
+    "top_subreddits": "kittycashew, ModernWarzone",
+    "recent_subreddits": "vizsla, BitcoinPrivate, UNLV"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science from UNLV and over a decade of experience in IT consultancy, I bring a wealth of technical knowledge to my Reddit interactions. My expertise ranges from hardware troubleshooting to software development, with a penchant for staying updated on the latest tech trends. Self-learning and continuous exploration have been instrumental in keeping my skills sharp.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

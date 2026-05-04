@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BiotechBanter123",
+    "account_age": "8 months",
+    "bio": "Hello! I'm Alex, a 28-year-old biotechnology enthusiast living in Whittier, CA. I work as a lab technician at a local research facility. In my spare time, I enjoy taking care of my bearded dragon, Spike, and sending out handmade cards to friends and family. I'm an early riser, usually online between 6 AM and 9 AM PST before heading to work. I\u2019m currently single and enjoy spending my weekends exploring local hiking trails or diving into the latest K-pop releases.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Animals",
+      "Lifestyle"
+    ],
+    "top_subreddits": "BeardedDragons, RandomActsofCards, biotech",
+    "recent_subreddits": "Whittier, SuperStarGFriend, notip"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Biotechnology. My knowledge is mostly academic, but I've been expanding it through hands-on experience in the lab where I conduct various experiments related to genetic engineering and microbiology.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

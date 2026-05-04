@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "VRnoob_2023",
+    "account_age": "6 months",
+    "bio": "I'm a 24-year-old engineering student from Leuven, Belgium. I'm currently balancing my studies at KU Leuven with a part-time job at a local electronics shop. My interest in technology and gaming has recently led me to explore the world of VR, even though my technical knowledge is still developing. I enjoy model rocketry as a hobby and am trying to find more time for it. My typical online hours are in the late evenings after school and work. I'm currently single and enjoying the freedom it offers to dive into my interests.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "foreveralonebots, KULeuven, modelrocketry",
+    "recent_subreddits": "MafiaTheGame, reddeadredemption, neuralnetworks"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge is primarily based on my engineering studies and self-taught exploration of gaming technology. I often rely on online forums and communities to fill in gaps in my understanding, especially when it comes to practical applications like VR.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

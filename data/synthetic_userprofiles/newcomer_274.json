@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechExplorer2023",
+    "account_age": "8 months",
+    "bio": "TechExplorer2023 is a passionate tech enthusiast based in Austin, Texas. They work as a junior software developer at a local startup, where they focus on mobile app development. In their free time, they enjoy exploring new gadgets and technologies, particularly those related to gaming and streaming. Although they primarily follow technology trends, they have recently developed an interest in neurofeedback as a potential tool for enhancing focus and productivity. They are single and typically online during the evenings and weekends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Educational"
+    ],
+    "top_subreddits": "google",
+    "recent_subreddits": "Neurofeedback, bracconieri, PojavLauncher"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "TechExplorer2023 has a solid foundation in computer science, having graduated with a degree in the field a year ago. Their knowledge extends to mobile app development, with a keen interest in streaming technologies. They are largely self-taught when it comes to the latest gadgets and often stay updated by reading tech blogs and participating in relevant subreddit discussions.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

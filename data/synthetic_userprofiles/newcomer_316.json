@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousAkaliNewbie",
+    "account_age": "6 months",
+    "bio": "I'm a 24-year-old software developer from Austin, Texas. I recently got into League of Legends and have been experimenting with different champions\u2014currently obsessed with Akali. Outside of gaming, I'm passionate about vegan cooking and indie films. I usually browse Reddit in the evenings after work. I'm single and share an apartment with my cat, Mochi.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "Enough_Sanders_Spam, Shadman, StocksAndTrading",
+    "recent_subreddits": "Vegan_Food, TrueFilm"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a computer science degree and work as a frontend developer. I picked up League of Legends during college and have been learning through online guides and watching streamers. My interests in veganism and film are mostly self-taught through YouTube and community discussions.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

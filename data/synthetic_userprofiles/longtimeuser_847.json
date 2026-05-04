@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CodeAndConfess",
+    "account_age": "8 years",
+    "bio": "A 34-year-old software developer based in Austin, Texas. Passionate about Flutter development and enjoys contributing to open-source projects. When not coding, I indulge in reading LGBTQ+ literature and exploring the local food scene with my partner of 5 years. I usually browse Reddit in the evenings after work and on weekends. Love for natural body scents often leads to engaging discussions on niche subreddits.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Lifestyle",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "FlutterDev",
+    "recent_subreddits": "u_venus_in_converse"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses a Bachelor's degree in Computer Science and has over a decade of experience in mobile app development. Primarily self-taught in Flutter through online courses and community forums. Actively participates in tech meetups and workshops.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

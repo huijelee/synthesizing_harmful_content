@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieCoder24",
+    "account_age": "7 months",
+    "bio": "I'm a 23-year-old tech enthusiast based in the UK, currently balancing my time between learning game development and working part-time in retail. I'm new to the Reddit community and still exploring different subreddits to find my niche. I love discussing technology, especially game development and coding in Unity, and I'm a huge fan of indie games. When I'm not online, I enjoy outdoor adventures and am trying to learn Danish as a hobby. I'm single and usually online during the evenings and late nights.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "UnityHelp, RamblinWreck, Danish",
+    "recent_subreddits": "DWAC_DWACW, spiritisland, ejuice"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I am self-taught in game development, primarily using online tutorials and community forums. My interest in coding began with a high school computer science class, and I've been exploring Unity through online courses and experimentation since then.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

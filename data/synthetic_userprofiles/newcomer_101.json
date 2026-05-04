@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieNewbie42",
+    "account_age": "6 months",
+    "bio": "I'm a tech enthusiast who recently got into gaming and Reddit. I live in Austin, Texas, and work as a junior IT support specialist. I enjoy exploring new tech and gaming trends, though I often find myself overwhelmed by the sheer amount of information out there. I love animals, particularly dogs, and I spend a lot of my free time playing video games or watching tech reviews on YouTube. I'm single and usually online in the evenings after work, around 7-11 PM CST.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Animals"
+    ],
+    "top_subreddits": "tripawds, PlayOn",
+    "recent_subreddits": "newsentences, heroes3, CozyGrove"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge in tech is primarily self-taught, fueled by a curiosity to understand how things work. I have a basic understanding of computer hardware and software acquired from various online courses and tutorials. My gaming knowledge is still growing as I'm new to the scene.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

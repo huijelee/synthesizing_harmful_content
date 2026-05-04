@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TreasureSeeker88",
+    "account_age": "18 months",
+    "bio": "Based in the scenic town of Moab, Utah, I'm a 35-year-old geologist who spends my weekdays traversing rocky terrains and my weekends diving into the world of Reddit. My passion for unearthing the secrets of the earth is matched only by my love for television series that explore hidden treasures and mysterious locations. I\u2019m skeptical of overly dramatized 'reality' TV shows, especially when they involve scripted treasure hunts. In my free time, I enjoy hiking, participating in online discussions about geology and treasure hunting, and engaging in tabletop RPGs like Pathfinder. I'm currently single and often online in the evenings after a day in the field.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "Biohackers, corpus",
+    "recent_subreddits": "Pathfinder"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a Master's degree in Geology from the University of Utah and have been working as a field geologist for over a decade. My expertise lies in mineralogy and tectonics, and I've been involved in several excavation projects throughout the southwestern United States. My knowledge is further enriched by self-taught courses and a keen interest in the historical context of geological formations.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

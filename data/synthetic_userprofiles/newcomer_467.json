@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SkywardSword_2023",
+    "account_age": "6 months",
+    "bio": "I'm a 22-year-old university student based in Seattle, currently majoring in computer science. I've recently gotten into Genshin Impact and enjoy theory-crafting and discussing strategies with other players online. When I'm not studying or gaming, I love reading webtoons and exploring new cafes around the city. I'm single and usually online in the evenings, especially after classes and on weekends. I dislike overly competitive gaming environments and prefer a casual, friendly community.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "DistantSky",
+    "recent_subreddits": "CultoftheFranklin"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong background in computer science, which I am pursuing as my major. My interest in gaming and online communities started as a hobby, and I've become quite knowledgeable about Genshin Impact through dedicated gameplay and active participation in related subreddits. I also enjoy learning about game mechanics and meta strategies.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

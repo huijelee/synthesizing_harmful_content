@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "VRNewbie2023",
+    "account_age": "6 months",
+    "bio": "I'm a 14-year-old tech enthusiast from California, eagerly exploring the world of virtual reality. I recently got my hands on an Oculus Quest 2 and can't wait to dive into VR gaming. I enjoy learning about new tech and often browse subreddits like askscience and technepal. I usually spend my evenings online after school, and on weekends, I'm often glued to my VR headset. I'm single and love discussing the latest VR games with my online friends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "askscience",
+    "recent_subreddits": "technepal, BarbellMedicine"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a budding interest in technology, mainly fueled by self-learning and exploring online forums. My understanding of VR is growing as I engage with communities on Reddit and watch tech reviews on YouTube.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

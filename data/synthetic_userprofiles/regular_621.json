@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LanguageLearnerJane",
+    "account_age": "18 months",
+    "bio": "Jane is a 27-year-old language enthusiast based in Austin, Texas. She works as a freelance graphic designer, which allows her flexible hours to dive into her hobbies. Jane is passionate about languages and spends a lot of her free time on platforms like Duolingo. She's in a relationship and often travels with her partner to experience new cultures and cuisines. Her online activities are mostly during the late evenings as she balances her work and personal life throughout the day.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "crusollo, Hayward, NeebsGaming",
+    "recent_subreddits": "benhoward, Aupairs"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Jane has a Bachelor's degree in Modern Languages and has picked up various languages through self-teaching and online courses. Her expertise lies in Romance languages, but she's dabbled in others out of curiosity. Her design work often intersects with her language skills, allowing her to work on multilingual projects.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CryptoKicks27",
+    "account_age": "18 months",
+    "bio": "Living in Toronto, I'm a 29-year-old software developer working remotely for a fintech company. I'm an avid parkour enthusiast and love exploring the city through urban running. When I'm not coding or jumping off obstacles, you can find me hanging out with my partner and our two cats. I'm passionate about digital currencies and often engage in discussions about their future. I usually browse Reddit in the late evenings after work and on weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Technology"
+    ],
+    "top_subreddits": "Parkour, DallasGayBros",
+    "recent_subreddits": "DocMartens, ReverendInsanity, TheBuckinghamShow"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "A self-taught cryptocurrency enthusiast, I've spent the last 5 years diving deep into blockchain technology. My work in fintech has provided me with practical insights into financial technologies, while my passion for parkour and urban exploration has fostered a unique perspective on digital and physical spaces.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

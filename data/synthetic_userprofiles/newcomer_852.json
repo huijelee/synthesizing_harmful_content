@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PC_Builder_Newbie",
+    "account_age": "4 months",
+    "bio": "Hello! I'm Alex, a college student from the Midwest with a growing passion for building custom PCs. I recently discovered the intricate world of PC components and am excited to learn more. My interests also include sketching anime characters and participating in online scavenger hunts. I usually browse Reddit during late evenings after classes and work part-time as a barista. I'm currently single and enjoy spending my weekends catching up on anime and gaming.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "AnimeSketch, SearchParty, adhd_college",
+    "recent_subreddits": "Trxc"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I'm a self-taught PC enthusiast. I started by watching YouTube tutorials and joining forums to gather information about building PCs. My interest intensified as I began to participate in discussions on subreddits like buildapc, and I am slowly building my knowledge base through trial and error.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

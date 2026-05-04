@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SushiSavant85",
+    "account_age": "15 years",
+    "bio": "An avid sushi enthusiast and home cook residing in Lethbridge, Alberta. I've been exploring the culinary world through self-teaching and online resources for over a decade. My interests include experimenting with Japanese cuisine, following the latest in pro wrestling, and diving into fantasy worlds like Dragons Dogma. I work as a freelance graphic designer, which allows me to have a flexible schedule, typically online during late evenings and weekends. I'm currently in a long-term relationship, and we both enjoy hosting sushi nights for friends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "HEB, WhiteLotusHBO",
+    "recent_subreddits": "DragonsDogma, prowrestling"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a deep knowledge of Japanese cuisine, particularly sushi and sashimi, stemming from years of self-teaching through cookbooks and online tutorials. My expertise is also supplemented by frequent visits to Japanese specialty stores and engaging with communities on subreddits like Lethbridge and cooking threads.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

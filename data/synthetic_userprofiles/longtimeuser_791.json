@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ConsoleQuestor1985",
+    "account_age": "5 years",
+    "bio": "Avid gamer from Calgary, Canada, who balances a love for gaming with a career in software development. Having recently embraced parenting, I often find myself delving into Lego sets with my little one during weekends. I'm a night owl, usually online after 9 PM local time. Been married for 10 years and enjoy sharing gaming tips and tech insights with fellow enthusiasts.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "forestapp",
+    "recent_subreddits": "LegoLegacy, UCalgary"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in computer science from the University of Calgary, I've spent over a decade in software development. My passion for technology and gaming has driven me to stay updated with the latest trends in these areas, often engaging in self-learning through online courses and tech blogs.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

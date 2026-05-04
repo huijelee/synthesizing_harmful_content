@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BikeNerd_512",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old software developer based in Austin, Texas. Biking is my primary mode of transport and my favorite hobby. I spend weekends exploring trails around the city and tinkering with my bike. When I'm not biking, I hit the gym for strength training or dive into new technologies and games. I work remotely, so my online hours are flexible, usually evenings and late nights. I'm single and enjoy the freedom to pursue my interests. I'm a tech enthusiast and love discussing the latest gadgets and software.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Lifestyle"
+    ],
+    "top_subreddits": "strength_training, Seltos, DMAcademy",
+    "recent_subreddits": "PelotonGear, houkai3rd"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science from the University of Texas and work as a full-stack developer. My passion for biking started in college, where I joined a cycling club. I learned about bike mechanics through online courses and community workshops. My interest in technology keeps me updated on the latest trends and software developments.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

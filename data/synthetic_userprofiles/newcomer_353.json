@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CartiNewbie2023",
+    "account_age": "6 months",
+    "bio": "A 22-year-old music enthusiast based in Montreal, Canada, who recently discovered the vibrant world of Reddit. Passionate about music, especially hip-hop and rap, with a growing interest in experimental sounds. Works part-time as a barista, allowing for flexible hours to dive into music forums and engage with fellow fans. In a relationship and enjoys exploring new music venues on weekends. Typically online during late evenings after work.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "WiiHacks, u_exsmok, Nbome",
+    "recent_subreddits": "battlewagon, duckduckgo, BreastplayMTL"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Developed a keen interest in music through self-learning and attending local gigs. Recently started exploring technology forums to enhance knowledge about gaming consoles and digital privacy tools. Enjoys learning through community interactions and online tutorials.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

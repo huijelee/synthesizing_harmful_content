@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MaltaExplorer2023",
+    "account_age": "4 months",
+    "bio": "I'm a 27-year-old software developer from Malta, recently diving into the world of Reddit to explore my interests in fantasy literature and parenting. I'm particularly fascinated by the intricate politics and character dynamics in 'The Wheel of Time' series. In my downtime, I enjoy exploring new places on the island and spending time with my toddler. I usually browse Reddit during late evenings after my daughter has gone to bed. I'm currently single and working remotely for a tech startup.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "malta",
+    "recent_subreddits": "Nanit"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science and have been an avid reader of fantasy novels since my teenage years. My knowledge of 'The Wheel of Time' series comes mostly from self-study and discussions with fellow fans online.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

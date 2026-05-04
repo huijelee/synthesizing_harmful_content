@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ClimbingTechie19",
+    "account_age": "18 months",
+    "bio": "I'm a 19-year-old male living in Southern California, working as an HVAC service technician with my dad. I have a keen interest in climbing and spend a lot of my free time exploring local climbing spots. I also struggle with hyperacusis, which has led me to engage actively in communities that offer support and advice. When I'm not climbing or working, you'll find me tinkering with computers or tending to my indoor garden. I'm currently single and usually hop online during the evenings after work.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "hyperacusis, socalclimbing",
+    "recent_subreddits": "computerhelp, IndoorGarden"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a practical knowledge of HVAC systems and a budding interest in computer technology, mostly self-taught through online resources and forums. My knowledge of climbing is a mix of personal experience and tips shared by fellow climbers on Reddit.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

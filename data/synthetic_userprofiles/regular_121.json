@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HyperionFlicker",
+    "account_age": "18 months",
+    "bio": "29-year-old tech enthusiast and gamer based in Denver, Colorado. I work as a software developer during the day and spend most evenings gaming or exploring new music. Avid fan of competitive FPS games, particularly VALORANT. When not gaming, I enjoy off-roading in my Jeep Liberty and diving into Bj\u00f6rk's eclectic discography. Currently single, I prefer spending my time online in the late evenings after work. I occasionally binge-watch shows like '12 Monkeys' and 'Dare Me'.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "JeepLiberty, bjork",
+    "recent_subreddits": "DareMeTV, GangbangChicks, 12Monkeys"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and have been coding since high school. My expertise lies in software development and gaming, with a specific interest in how hardware settings affect gameplay performance. I enjoy experimenting with different tech setups and often share insights on forums.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CyberSecNewbie24",
+    "account_age": "18 months",
+    "bio": "I'm a cybersecurity enthusiast from Toronto, currently preparing for my CISSP exam. I work as an IT support technician and aspire to become a security consultant. I enjoy reading about technology and love setting up virtual labs to tinker with different software. In my free time, I browse Reddit to learn and occasionally venture into Toronto's food scene. I'm single and usually online in the evenings after work.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Technology",
+      "Lifestyle"
+    ],
+    "top_subreddits": "TorontoRenting",
+    "recent_subreddits": "sadcringe"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in IT support, with a focus on network security. I've been self-teaching through online courses and hands-on practice in virtual labs. My goal is to specialize in cybersecurity, and I'm currently studying for the CISSP certification.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

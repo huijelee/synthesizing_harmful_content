@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "UrbanRailRookie",
+    "account_age": "6 months",
+    "bio": "A new resident of Hoboken, recently moved from upstate New York. I'm interested in urban life, particularly public transportation, and spend my free time exploring the local music scene and collecting vinyl records. I'm an electronics enthusiast and enjoy tinkering with audio equipment. Typically online during the evenings and weekends. Currently working as a junior technician at a local electronics repair shop. In a relationship with a fellow music lover.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "getreddit",
+    "recent_subreddits": "VinylMePlease, callofdutyzombies, PowerElectronics"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a foundational understanding of electronics, primarily self-taught through online resources and practical experience at work. Passionate about music and audio technology, accumulated knowledge through participation in online forums and community discussions.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

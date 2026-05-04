@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ChopChopChef",
+    "account_age": "24 months",
+    "bio": "I'm a 29-year-old culinary enthusiast based in Portland, Oregon. My day job involves working as a sous chef at a local farm-to-table restaurant. When I'm not in the kitchen, I love woodworking, practicing mindfulness through vipassana meditation, and tinkering with my Shapeoko CNC machine. Despite my busy schedule, I make time for my garden, where I grow herbs and vegetables. I'm single and enjoy connecting with like-minded individuals online. My typical online hours are in the late evenings after my shift ends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Educational"
+    ],
+    "top_subreddits": "shapeoko, vipassana, gardening",
+    "recent_subreddits": "DevilmanCrybaby, BalisongClones"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a formal education in culinary arts, which I pursued after a few years of self-teaching and working in various kitchens. My interest in woodworking and CNC machining grew from my need to create custom kitchen tools. I've also taken several online courses in sustainable agriculture, which has deepened my understanding of gardening.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

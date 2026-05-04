@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieNomad84",
+    "account_age": "5 years",
+    "bio": "A digital nomad originally from Brisbane, Australia, who has been exploring the world while working remotely as a software developer. Passionate about technology, gaming, and social justice. Enjoys attending music festivals like Welcome to Rockville and is a huge NBA fan. Usually online during late evenings, wherever they might be. Openly gay and currently in a long-distance relationship.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "GayBrisbane, leftpodcasts, welcometorockville",
+    "recent_subreddits": "NBARep, FriendshipAdvice"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a degree in Computer Science and has over a decade of experience in software development, specializing in game development and graphics optimization. Learned through a mix of formal education, self-study, and hands-on experience in the industry.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HairQuest2021",
+    "account_age": "18 months",
+    "bio": "I'm a 34-year-old software engineer based in Austin, Texas with a keen interest in hair restoration and fitness. By day, I work at a tech startup, and by night, I'm usually analyzing my diet or diving into video game lore. Married with a love for Japanese cuisine, I often spend my weekends exploring new restaurants. I typically browse Reddit during the evenings after work and occasionally during lunch breaks.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Technology"
+    ],
+    "top_subreddits": "Kirkland, CalorieTracker",
+    "recent_subreddits": "srne, assassinscreed, JapaneseFood"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a background in computer science from the University of Texas, I have a strong analytical mindset. My interest in hair transplants started after a friend shared his successful journey. Since then, I've researched extensively through forums and medical articles. My knowledge of calorie tracking comes from years of self-teaching and using various apps to manage my own fitness goals.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

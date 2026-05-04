@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SoundEngineerMike87",
+    "account_age": "8 years",
+    "bio": "Mike is a 36-year-old audio engineer from Austin, Texas, with a penchant for electronic music production. He spends his days working at a local recording studio and his evenings perfecting beats on FL Studio. Mike has been in a committed relationship for over 5 years and often travels with his partner to music festivals around the country. He battles with occasional self-esteem issues, which has led him to explore communities focusing on mental health. Mike dislikes dishonesty and is very vocal about adhering to rules, both online and offline. Typically, you'll find him online during late evenings after wrapping up studio sessions.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "EatingDisorders, FreeLoLBoosting, FLStudioBeginners",
+    "recent_subreddits": "YoureWrongAbout, PubTips, esports"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Mike has a rich background in audio engineering, having graduated from a reputable music institute. His expertise is further honed through years of hands-on experience in the industry. He is self-taught in various music production software, particularly FL Studio, where he regularly engages with online communities to both learn and mentor.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

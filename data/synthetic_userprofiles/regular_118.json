@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GearGuru99",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old automotive enthusiast based in Mumbai, India. I work as a mechanical engineer during the day and delve into the world of cars and technology in my free time. I have a keen interest in engine mechanics and love participating in discussions about car models and safety features. My weekends are often spent visiting car expos or participating in local car meets. I'm single and enjoy the flexibility it gives me to travel and explore car culture around India. My typical online hours are in the evenings, post-work, and weekends when I'm not out driving.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "projektmelody, BnanenFone, cysticacne",
+    "recent_subreddits": "funk"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Mechanical Engineering from a reputed Indian university. My passion for cars started as a teen when I helped my dad fix our family car. Over the years, I've deepened my knowledge through online courses and hands-on experience. I'm particularly interested in the intersection of automotive technology and sustainability.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

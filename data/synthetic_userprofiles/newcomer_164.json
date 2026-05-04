@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BoilermakerNewbie2023",
+    "account_age": "8 months",
+    "bio": "I'm a recent high school graduate from Indiana, excited to start my journey at Purdue University this spring. I'm a huge fan of TV shows like 'House' and love playing shoot 'em up games in my free time. When I'm not binge-watching or gaming, you can find me listening to Florence and the Machine. I'm currently single and living in a dorm on campus. I usually browse Reddit during the evenings after classes.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "House, shmups, FlorenceAndTheMachine",
+    "recent_subreddits": "teenmom, Rightytighty"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong interest in entertainment media and video games, largely self-taught through personal exploration and online communities. My familiarity with Purdue University is growing as I participate in events like Boiler Cold Rush.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

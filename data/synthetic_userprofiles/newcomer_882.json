@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "InvestingNewbie123",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old software developer from Austin, Texas, who recently got interested in personal finance and investing. Outside of work, I enjoy playing 'For Honor' and collecting vintage Atari 2600 games. I tend to browse Reddit during evenings and weekends. I'm single and currently focused on building my career and financial portfolio. I dislike negativity and people who don't respect community guidelines.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "forhonor, PickupLinesGoneBad, Atari2600",
+    "recent_subreddits": "BBIG"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge in investing is mostly self-taught through online courses and reading books. I have a tech background, which helps me understand some of the tech-focused investments that ARK offers.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MetsFan2023",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old sports enthusiast who recently moved to New York. I've always been a baseball fan, especially of the Mets, and I'm trying to get more involved in the local sports community. I work as a junior analyst at a tech firm, which keeps me busy during the day, but I love to unwind by catching games or discussing sports stats online in the evenings. I'm currently single and enjoy the flexibility to explore the city and participate in various fan meetups. My typical online hours are late evenings and weekends.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "ucla",
+    "recent_subreddits": "skycoin, WayV_For_Life, smiledirectclub"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge of baseball comes from years of being a fan and playing in amateur leagues. I follow sports analytics closely, often reading articles and watching breakdowns by experts to deepen my understanding. Although I studied computer science in college, my passion for sports has always driven me to learn more about player stats and team dynamics.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

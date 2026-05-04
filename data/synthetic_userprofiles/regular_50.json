@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PixelPokeTrainer",
+    "account_age": "18 months",
+    "bio": "Avid gamer and tech enthusiast from Toronto, Canada. I have a penchant for retro games and spend my free time tinkering with video game mods or learning new programming languages. I dislike toxic gaming communities and always strive for fair play. Typically online in the evenings after work, as I am a software developer by day. Currently single and enjoying the freedom to dive deep into my hobbies.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "pockettanks, explainlikeIAmA, Minecraft_Tamirel",
+    "recent_subreddits": "NeedForMadness, HeadphoneAdvice"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in computer science from the University of Toronto, I\u2019ve always been drawn to technology and gaming. My knowledge in these areas has been further enriched by self-teaching through online courses and active participation in gaming and tech forums.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

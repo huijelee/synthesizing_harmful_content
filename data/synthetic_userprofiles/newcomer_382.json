@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BeaverTechie2023",
+    "account_age": "6 months",
+    "bio": "I'm a freshman at Oregon State University majoring in Electrical and Computer Engineering. Originally from a small town in Washington, I moved to Corvallis to pursue my passion for technology and innovation. I enjoy tinkering with electronics, playing video games, and exploring investment opportunities. Most active on Reddit in the evenings after classes or during the weekends. Currently single and focused on studies and personal projects.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "M1Finance, svihs, uphold",
+    "recent_subreddits": "MSUcats"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "As a first-year ECE student, I've developed a foundational understanding of electrical engineering principles through coursework and hands-on lab work. I'm also teaching myself programming through online resources and have a growing interest in financial technology.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

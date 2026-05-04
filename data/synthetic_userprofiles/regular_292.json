@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "InquisitiveBoiler23",
+    "account_age": "18 months",
+    "bio": "I'm a graduate student at Purdue University, originally from the Dominican Republic. I have a keen interest in history and am currently pursuing a degree in Philosophy with a focus on the History of Ideas. When I'm not buried in books, I enjoy exploring the latest trends in K-pop, especially SHINee, and trading items in Guild Wars 2. I usually browse Reddit in the evenings after classes and spend weekends catching up on discussions around my favorite academic topics. Being relatively new to the area, I'm still adjusting to the local culture and weather. Currently single, I love engaging with like-minded individuals online. My part-time work as a teaching assistant keeps me busy, but I always find time for my hobbies.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "dominican_dub, HistoryofIdeas, ECR_UK",
+    "recent_subreddits": "SHINee, GW2Exchange, agentcarter"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Having a strong academic background in philosophy, I specialize in the History of Ideas, which I have studied extensively through my coursework and personal research. My interests also extend to understanding cultural trends, which is why I stay updated with global pop culture, particularly K-pop. My knowledge of gaming economies comes from years of active participation in online gaming communities.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

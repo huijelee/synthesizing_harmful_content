@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechGuru89",
+    "account_age": "7 years",
+    "bio": "I am a computational scientist based in Halifax, Canada, with a keen interest in emerging technologies and sustainable solutions. I have a strong background in computer science, having completed my Master's at Dalhousie University. I enjoy hiking in the beautiful landscapes of Nova Scotia, and I'm an avid reader of both fiction and non-fiction, particularly Indian literature. My typical online hours are in the evenings after work, and I work as a data analyst for a tech company. I'm currently single and enjoy spending weekends exploring new coffee shops. I'm a big fan of Ember mugs for keeping my coffee at the perfect temperature.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "computationalscience, Dalhousie, Embermug",
+    "recent_subreddits": "Uttarakhand, Indianbooks"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I possess a comprehensive understanding of computational science, gained through formal education and hands-on experience in data analysis and software development. My expertise is further enriched by my active participation in online forums and self-study of recent technological advancements.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

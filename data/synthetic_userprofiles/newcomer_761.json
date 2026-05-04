@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "Funkopopnovice123",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old graphic designer from Austin, Texas, with a newfound love for collecting Funko Pops. My wife and I started this hobby together after stumbling upon a rare pop at a local convention. I'm usually online during late evenings, after work. I enjoy gaming, particularly Fortnite, and I\u2019m an avid fan of Magic: The Gathering. I'm currently married and enjoy spending my weekends at local comic book stores or gaming with friends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "funhaus, opencv, ElvesMTG",
+    "recent_subreddits": "fortnitehelp, Rokmains"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in visual arts with a degree in Graphic Design. My interest in technology and collectibles is largely self-taught, fueled by online communities and forums. I have recently been learning about computer vision using libraries like OpenCV, primarily to enhance my graphic design projects.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

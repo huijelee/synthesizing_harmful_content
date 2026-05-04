@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SnowBlazerNewbie",
+    "account_age": "6 months",
+    "bio": "Originally from sunny California, I've recently moved to Ohio to start my freshman year at Kent State University, pursuing a degree in Environmental Science. I'm a curious soul, always looking to explore new ideas and hobbies, which is why I love the endless rabbit holes on Reddit. My interests range from gaming\u2014particularly playing as Jayce in League of Legends\u2014to collecting vinyl records. I also dabble in network security as a hobby. On weekends, I enjoy exploring the local scene in Sonoma County. I usually browse Reddit in the evenings after classes and on weekends. I\u2019m single and enjoy my independence and the freedom to explore new interests.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "KubzScouts, sonomacounty, KentStateUniversity",
+    "recent_subreddits": "jaycemains, VaporVinyl, pfBlockerNG"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a budding interest in environmental science, which I\u2019m studying at university. My knowledge is mostly academic, supplemented by online courses and a lot of self-study. I\u2019ve also recently become interested in network security, which led me to explore tools like pfBlockerNG.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

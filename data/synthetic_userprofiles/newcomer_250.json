@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "medjourney_newbie",
+    "account_age": "6 months",
+    "bio": "I'm a medical student currently in my second year, trying to navigate the challenging waters of med school exams. Originally from the Midwest, I moved to the East Coast for school. I'm passionate about learning new things, especially anything related to human biology and pharmacology. When I'm not studying, you can find me binging TV shows or catching up on the latest tech trends. I'm single and usually online in the evenings after classes or on weekends. I also occasionally work as a part-time tutor to help with expenses.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "hubspot, chiba",
+    "recent_subreddits": "WarriorTV"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a solid grounding in the sciences thanks to my ongoing medical education. I spend a lot of time using study aids like Anki and AMBOSS to deepen my understanding. I also enjoy exploring new technologies and apps that can help optimize my study routine.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

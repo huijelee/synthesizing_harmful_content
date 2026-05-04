@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MidwestGamer123",
+    "account_age": "5 months",
+    "bio": "I'm a 29-year-old gamer and teacher's assistant based in Missouri. During the day, I work with special education students, helping them navigate their learning challenges. In the evenings, you can find me indulging in my passion for gaming, especially Fortnite. I'm also a huge fan of visiting Salem, MA for its rich history and unique vibe. I'm currently single and love spending my weekends exploring new places or catching up on shows like Gossip Girl. My typical online hours are late evenings after work and weekends.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "FortniteCreative, SalemMA, specialeducation",
+    "recent_subreddits": "MissouriMedical"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Education and have spent several years working with students who require specialized learning plans. My interest in gaming stems from my teenage years, and I've become quite skilled at it through continuous play and watching online tutorials. My fascination with Salem, MA, and its history comes from a mix of personal interest and documentaries.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

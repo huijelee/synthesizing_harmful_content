@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "YEG_Explorer",
+    "account_age": "18 months",
+    "bio": "An Edmonton local who loves sharing knowledge about the city and its surroundings. I'm a freelance writer focusing on lifestyle and wellness topics. I'm passionate about intuitive eating, which I discovered through personal health challenges. In my free time, I binge-watch 'Sister Wives' and explore nootropic options. I typically browse Reddit in the evenings, often after dinner. I'm single and living with my two cats. I enjoy hiking, cooking, and learning about sustainable living.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Discussion",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "intuitiveeating",
+    "recent_subreddits": "afinil, SisterWivesFans"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in journalism, which has honed my research and writing skills. My interest in intuitive eating stemmed from health issues that led me to self-study nutrition and wellness. My engagement in online discussions about 'Sister Wives' has expanded my understanding of different family dynamics.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

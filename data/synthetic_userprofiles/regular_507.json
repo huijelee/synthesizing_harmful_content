@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BoardGameBuff",
+    "account_age": "18 months",
+    "bio": "Avid gamer and outdoor enthusiast from Colorado. I spend my weekends exploring the mountains and my evenings mastering strategy games online. I'm currently working as a software developer for a tech startup. Happily single and enjoy connecting with like-minded individuals through various subreddits. My typical online hours are late evenings, usually from 8 PM to midnight.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "deadbydaylight, MeepoBoards",
+    "recent_subreddits": "railroading"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Gained extensive knowledge in game mechanics and strategy through years of playing and participating in online forums. Self-taught programming skills, with a focus on game development and user interface design.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

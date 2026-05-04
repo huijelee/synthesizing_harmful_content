@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MumbaiExplorer2023",
+    "account_age": "8 months",
+    "bio": "A curious soul navigating the world of Reddit. Originally from Mumbai, I work as a software developer in a small tech startup. I have a keen interest in blockchain technology and spend my free time watching Russian football matches. I love animals, especially dogs, and am passionate about advocating for their well-being. When I'm not online, I enjoy exploring the bustling streets of Mumbai. Currently single, I often find myself online during late evenings, after a long day at work.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "mumbai",
+    "recent_subreddits": "btc, RussianFootball"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science, I have immersed myself in the tech world, especially intrigued by the potential of blockchain. My knowledge is mainly self-taught through online courses and active participation in tech forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

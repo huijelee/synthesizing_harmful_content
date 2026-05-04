@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "techyCupEnthusiast",
+    "account_age": "18 months",
+    "bio": "28-year-old IT professional from Seattle. Passionate about technology, open-source projects, and sustainable living. Enjoys spending weekends hiking and engaging in DIY projects. Currently in a long-term relationship and enjoys quiet evenings at home with their partner. Typically online during late evenings, especially after work hours and sometimes during lunch breaks.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Lifestyle",
+      "Educational"
+    ],
+    "top_subreddits": "menstrualcups",
+    "recent_subreddits": "braswap"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a Bachelor's degree in Computer Science and has been working in IT support for the past 5 years. Gained practical knowledge through various online courses and personal projects. Regularly contributes to technology forums and enjoys helping others solve tech-related issues.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

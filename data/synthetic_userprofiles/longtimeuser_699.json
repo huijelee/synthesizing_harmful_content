@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EuroSoapboxVeteran",
+    "account_age": "10 years",
+    "bio": "A 35-year-old political analyst based in Brussels. Passionate about discussing socio-political issues, particularly with a focus on European affairs. Enjoys engaging in meaningful debates and often frequents subreddits that cater to political discourse and policy discussions. Outside of Reddit, works for a policy think tank, analyzing economic impacts of legislative changes. Avid fan of Harry Potter, which explains the occasional dive into Drarry fanfiction. Usually online during late evenings and weekends, post 6 PM CET. Single and enjoys spending weekends exploring European historical sites.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Educational",
+      "Lifestyle"
+    ],
+    "top_subreddits": "StupidpolEurope",
+    "recent_subreddits": "fcpx, drarry"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a Master's degree in Political Science from the University of Amsterdam. Gained extensive expertise through years of working in policy analysis, focusing on European Union legislation. Self-taught in video editing using Final Cut Pro X, which is a creative outlet outside of professional life.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "strict"
+  }
+}

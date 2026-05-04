@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PensionPlanGuru",
+    "account_age": "18 months",
+    "bio": "I'm a 34-year-old financial advisor based in Bristol, UK. I have a keen interest in personal finance, especially in areas like pensions and real estate. I enjoy educating others about financial planning and often spend my evenings browsing Reddit after work. My weekends are usually filled with hiking and photography. I'm currently single and enjoy the freedom to travel whenever I can.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Mm2subreddit, YourHonorTV, SouthCarolinagonewild",
+    "recent_subreddits": "Kalispell, photoshop, EdgewaterRogersPark"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Finance and have been working in the financial sector for over a decade. My expertise lies in personal finance planning and investment strategies, cultivated through both formal education and continuous self-study. I frequently attend seminars and workshops to stay updated on the latest financial trends.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

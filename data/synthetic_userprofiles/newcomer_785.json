@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DreamWalker21",
+    "account_age": "7 months",
+    "bio": "I'm an 18-year-old freshman at a university in the Midwest, currently majoring in psychology. I'm a passionate gamer and love playing mobile role-playing games like Crush Them All and Idle Heroes in my free time. Besides gaming, I've been dealing with maladaptive daydreaming for years, which has pushed me to explore online communities for support and advice. I usually browse Reddit in the evenings, often after dinner, as a way to unwind. I'm single and enjoy spending time with friends in my dorm, though I value my alone time a lot.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "CrushThemAll, MochiSwap",
+    "recent_subreddits": "IdleHeroes"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Mostly self-taught with a keen interest in psychology and human behavior due to personal experiences and some introductory college courses. My gaming knowledge comes from years of playing and engaging with gaming communities.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CodeCrafter11",
+    "account_age": "24 months",
+    "bio": "Hello! I'm a software developer based in Toronto, Canada. I have a passion for learning new programming languages and exploring the latest tech trends. In my free time, I love working on DIY projects and trading cryptocurrencies. I'm currently working as a full-stack developer at a mid-sized tech company. I'm in a committed relationship and usually online in the evenings and weekends when I'm not busy coding or researching. I enjoy a good challenge and frequently participate in coding competitions.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "sticknpokes, HodlToken",
+    "recent_subreddits": "GAMSAT, JimBrowningOfficial"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and have been working in software development for over five years. My expertise lies in web development, particularly using React, PHP, and Node.js. I am largely self-taught when it comes to blockchain and cryptocurrency, which I explore as a hobby.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

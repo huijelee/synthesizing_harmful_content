@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechGuru_87",
+    "account_age": "24 months",
+    "bio": "I'm a 36-year-old tech enthusiast living in Morgantown, West Virginia. I work as a systems analyst for a mid-sized tech company. When I'm not troubleshooting tech issues or diving into the latest PC games, I'm hitting the gym and exploring bodybuilding tips. I usually browse Reddit during my lunch breaks and in the evenings. Currently single and focused on personal growth and career development. I dislike misinformation and overly complex tech jargon that confuses newcomers.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "FunBodybuilding",
+    "recent_subreddits": "WVU"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science from West Virginia University and over a decade of experience in IT support and systems analysis. My expertise is largely self-taught, supplemented by online courses and forums. I stay updated with the latest tech trends through community discussions and continuous learning.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

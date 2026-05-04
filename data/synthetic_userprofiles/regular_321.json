@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CraftingCactus22",
+    "account_age": "18 months",
+    "bio": "I'm a 27-year-old software engineer based in New Jersey. I graduated from Rowan University, and I'm an avid gamer with a particular passion for playing and modding Minecraft. I love sharing tips and tricks with the community and often help newcomers get started. When I'm not gaming, I enjoy shooting at the range and discussing the nuances of firearm policies. I usually browse Reddit in the evenings and on weekends. Currently, I'm single and enjoy the flexibility it brings to my gaming schedule.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "RowanUniversity",
+    "recent_subreddits": "2ALiberals"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science from Rowan University. My knowledge in gaming and technology largely stems from my academic background, coupled with self-teaching and continuous learning through online platforms and communities. I also have a fair amount of knowledge about firearm policies and rights, which I actively discuss in relevant subreddits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

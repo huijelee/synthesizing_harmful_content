@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousGamer2023",
+    "account_age": "6 months",
+    "bio": "CuriousGamer2023 is a 28-year-old marketing professional from Bangalore, India, who recently discovered the world of Reddit. An avid gamer and music enthusiast, they spend their free time exploring narrative-driven video games and listening to classic rock. They have a keen interest in political discussions and enjoy engaging in debates online. Typically active during late evenings after work, they are currently single and often seek advice on various life issues from the Reddit community.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "James, PoliticalOpinions",
+    "recent_subreddits": "LegalAdviceIndia, HueyLewisAndTheNews, cripplingalcoholism"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "CuriousGamer2023 holds a degree in Business Administration with a focus on Marketing. They have a strong foundation in digital marketing strategies, which they apply in their current job. Their gaming knowledge is primarily self-taught through years of playing and reading gaming forums. They also have a casual interest in politics, informed by both formal education and regular media consumption.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

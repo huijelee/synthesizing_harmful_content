@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieCoderMom",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old single mom living in Spartanburg, trying to balance my time between raising my toddler and learning Unity3D. I work part-time at a local coffee shop, and in my spare moments, I delve into game development as a new hobby. I love watching animated series like Glitch Techs with my son. I'm still figuring out what I want in terms of future relationships and family. I usually browse Reddit in the evenings when my son is asleep. Currently, I'm navigating the complexities of dating while being a single parent.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "Unity3D",
+    "recent_subreddits": "Spartanburg, GlitchTechs"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a basic understanding of Unity3D, which I started learning online through free tutorials and community forums. My interest in game development was sparked by my love for video games and animation. I also frequently explore parenting and lifestyle topics to better manage my life as a single mom.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

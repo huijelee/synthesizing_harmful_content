@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "KayakNewbie42",
+    "account_age": "6 months",
+    "bio": "I'm a 29-year-old outdoor enthusiast based in Portland, Oregon. I recently got into kayaking and have been exploring the beautiful waterways around the Pacific Northwest. By day, I work as a graphic designer for a local agency, but my weekends are reserved for paddling adventures. In my downtime, I enjoy watching sitcoms like Modern Family, diving into manga, and exploring whimsical stories like Alice in Wonderland. I'm currently single and love meeting new people through shared hobbies. I usually browse Reddit in the evenings after work or during weekend mornings while planning my next outing.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Modern_Family, mangarockapp, u_CaitlinOfGemini",
+    "recent_subreddits": "aliceinwonderland"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge of kayaking is mostly self-taught through hands-on experiences and watching YouTube tutorials. I also participate in local kayaking meetups to learn from more experienced paddlers. Professionally, my design skills were honed through a combination of formal education and years of agency work.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

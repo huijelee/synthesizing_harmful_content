@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieGamer102",
+    "account_age": "6 months",
+    "bio": "Avid gamer who recently discovered the vast world of Reddit. Originally from Tampa Bay, Florida, I spend my free time exploring new gaming strategies and diving into role-playing games. Currently working as a barista at a local coffee shop while taking classes in graphic design. I'm single and often online during late evenings and weekends, especially active in discussions about fantasy and sci-fi genres. I have a keen interest in martial arts, particularly Eskrima.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "Eskrima, openrct2",
+    "recent_subreddits": "scifi, GameReaper, tampabay"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Self-taught gamer with a passion for strategy and role-playing games. Recently started learning about martial arts, specifically Eskrima, through online forums and YouTube tutorials. Currently exploring graphic design through online courses.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

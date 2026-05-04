@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbie123",
+    "account_age": "5 months",
+    "bio": "22-year-old computer science student from Austin, Texas. Passionate about technology and currently exploring potential career paths in the tech industry. Enjoys building custom PCs and is an avid fan of the Diary of a Wimpy Kid series. Dislikes overly complex systems and prefers straightforward, practical solutions. Typical online hours are late evenings, especially around 9 PM to midnight. Currently single and focusing on studies and internships.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Animals"
+    ],
+    "top_subreddits": "Phanteks, DiaryofaWimpyKidMemes",
+    "recent_subreddits": "sugargliders, offtheair"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Currently pursuing a bachelor's degree in computer science. Gained initial interest in technology by building custom PCs and exploring different operating systems. Further learning through coursework and real-world projects during internships.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

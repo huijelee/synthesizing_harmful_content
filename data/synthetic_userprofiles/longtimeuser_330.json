@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HockeyDestroyer85",
+    "account_age": "6 years",
+    "bio": "Living in the scenic town of Lake Arrowhead, I'm a 38-year-old IT consultant who spends my downtime watching NHL games and exploring subreddits about art and design. My passion for technology and art often overlaps as I enjoy creating digital art pieces inspired by nature and sports. I work from home, which allows me flexible hours, usually active online during late evenings. I'm happily married, and my partner shares my interest in the arts, which often leads us to local galleries and exhibitions.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "nhl, DestructionAS, lakearrowhead",
+    "recent_subreddits": "EricEmanuel"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and over a decade of experience in IT consulting, I have a strong foundation in technology and project management. My expertise is continually expanded through self-teaching and participating in tech webinars and forums. Additionally, my love for hockey and digital art has led me to develop a good understanding of sports analytics and graphic design.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

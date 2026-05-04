@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ValhallaViking90",
+    "account_age": "18 months",
+    "bio": "I'm a 33-year-old gamer from Seattle, Washington, who works as a software developer. I'm passionate about open-world RPGs like Assassin's Creed and love discussing game strategies and sharing tips with the community. When I'm not gaming, I enjoy binge-watching anime, especially series like Kill La Kill, and listening to podcasts while brewing coffee on my Keurig. I'm currently single and typically online during the evenings and weekends.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "KillLaKill",
+    "recent_subreddits": "RossBolenPodcast, keurig"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Computer Science and have been working in the tech industry for over a decade. My gaming knowledge stems from years of playing and engaging with gaming communities online. I'm self-taught in game mechanics and enjoy exploring game design and development forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

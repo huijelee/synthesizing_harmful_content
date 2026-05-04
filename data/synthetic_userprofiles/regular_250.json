@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "WitcherWanderer23",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old gamer from Austin, Texas, who loves diving into sprawling RPGs like The Witcher series. By day, I'm a software developer, which means I often have a keen interest in tech-related subreddits. Gaming is my escape from the hustle and bustle of coding life, and I enjoy spending my evenings exploring virtual worlds. I'm currently single and enjoy hanging out with my gamer friends on weekends. Although I'm mainly a night owl, I occasionally pop online during lunch breaks for a quick Reddit scroll.",
+    "top_subreddit_categories": [
+      "Gaming",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "Microvast",
+    "recent_subreddits": "HateCookieRun, GamingLeaksAndRumours"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Computer Science from the University of Texas and have been working as a software developer for the past five years. My expertise lies in software architecture and game design, primarily self-taught through trial and error and countless hours of tinkering with open-source projects. My passion for gaming also keeps me informed about the latest developments in the gaming industry.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

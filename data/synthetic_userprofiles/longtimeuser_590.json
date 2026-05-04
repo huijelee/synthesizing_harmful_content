@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieTales98",
+    "account_age": "6 years",
+    "bio": "Hailing from the tech hub of Austin, Texas, I'm a 25-year-old software developer with a passion for building custom PCs. My journey into the world of technology began in high school, where I started tinkering with hardware and software. Outside work, I enjoy competitive gaming and creating video content using Kdenlive, often sharing my projects on Reddit. I'm currently single and typically online during late evenings, perfect for unwinding after work.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Educational",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "OnePlus8Pro, kdenlive",
+    "recent_subreddits": "Biloxi, apexcirclejerk, SANP"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I've self-taught most of my technical skills through online resources, countless YouTube tutorials, and hands-on experience. My educational background includes a degree in Computer Science, which solidified my foundation in software development.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

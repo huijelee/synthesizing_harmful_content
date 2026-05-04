@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SkywardMedic",
+    "account_age": "18 months",
+    "bio": "SkywardMedic is a 32-year-old emergency medical technician based in Columbus, Ohio. With a passion for gaming and a keen interest in herbal medicine, they spend their downtime delving into Final Fantasy VIII lore and exploring the benefits of natural remedies. Despite the heavy workload, they find solace in online communities where they can engage in meaningful discussions about public policy and educational tech innovations. Most active during late evenings, SkywardMedic balances their professional life with ongoing studies in public health. In a committed relationship, they often share insights on maintaining work-life harmony.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Educational"
+    ],
+    "top_subreddits": "ATC, FinalFantasyVIII, HerbalMedicine",
+    "recent_subreddits": "ModeratorLove, moonbeam, edtech"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "SkywardMedic has a diverse knowledge base, primarily rooted in healthcare and public safety due to their career as an EMT. Their expertise is further broadened by an avid interest in herbal medicine, cultivated through self-study and participation in online forums. Additionally, their engagement with educational technology and public policy threads reflects a continuous pursuit of knowledge.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

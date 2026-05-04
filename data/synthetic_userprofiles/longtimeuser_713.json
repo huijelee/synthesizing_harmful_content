@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSpideyFan89",
+    "account_age": "6 years",
+    "bio": "I'm a tech enthusiast and long-time Spider-Man fan living in Seattle. By day, I work as a network engineer, and by night, I'm either gaming or catching up on the latest MCU releases. I love discussing superhero movies and tech innovations. Not a fan of overly negative debates and prefer constructive discussions. My online hours usually align with late evenings, Pacific Time, after work. Currently single and enjoying the freedom to explore my hobbies.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "hetzner, LowBallerJoeGiveaways, WeMo",
+    "recent_subreddits": "Gayraceplayy, dynastywarriors, PapaJohns"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in computer science and have worked in the IT industry for over a decade. My expertise in networking and cloud computing comes from both formal education and extensive hands-on experience. Additionally, my love for Spider-Man and the MCU is fueled by years of comic book reading and movie watching.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

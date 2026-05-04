@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HockeyPoirotSleuth",
+    "account_age": "5 years",
+    "bio": "Avid hockey enthusiast and armchair detective based in Toronto. I spend my days working as a software developer and my nights unraveling mysteries with Poirot. I have a passion for collecting seeds and experimenting with urban gardening, which I document on weekends. I'm currently in a relationship with a fellow mystery aficionado and enjoy late-night discussions on philosophy and existentialism. Typically online during evenings and weekends.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "EA_NHL, poirot",
+    "recent_subreddits": "seedsaving"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a background in computer science, I have acquired extensive knowledge in software development through both formal education and years of professional experience. My passion for detective stories has also led me to develop keen analytical skills, further honed by countless hours of sleuthing on online forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

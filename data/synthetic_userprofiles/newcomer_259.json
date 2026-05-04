@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "StockNewbie87",
+    "account_age": "5 months",
+    "bio": "I'm a budding investor based in Seattle, exploring the world of penny stocks and options trading. My interest in finance started during the pandemic when I had more time to explore online courses and forums. I work as a junior analyst for a local startup and spend my evenings and weekends diving into financial markets. I enjoy hiking and visiting tech expos whenever I get the chance. I'm single and often online late at night, usually between 10 PM and 1 AM PST.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Tecware",
+    "recent_subreddits": "Barcelona"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I've taken a few online courses in finance and investment, primarily through platforms like Coursera and Udemy. Most of my learning comes from reading articles and participating in discussions on subreddits. I'm still learning the ropes and often look for guidance from more experienced users.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SakeAndTaxes",
+    "account_age": "18 months",
+    "bio": "SakeAndTaxes is a 28-year-old finance professional living in Toronto, Canada. With a background in accounting, they have an affinity for numbers and a passion for helping people navigate their taxes. When they're not crunching numbers, they enjoy indulging in sake tasting and sharing their discoveries on Reddit. They have a dry sense of humor and often browse r/funny for a good laugh. They are single and live with a Newfoundland dog named Bear, who sometimes stars in their posts on r/newfoundland. SakeAndTaxes typically spends evenings and weekends online, especially during tax season when they offer free advice to friends and family.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Humor",
+      "Animals"
+    ],
+    "top_subreddits": "Sake, funny",
+    "recent_subreddits": "newfoundland"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "SakeAndTaxes holds a Bachelor's degree in Accounting from the University of Toronto and has been working as a certified public accountant for the past five years. Their expertise in tax-related matters is largely drawn from professional experience, complemented by self-study and participation in webinars and workshops.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

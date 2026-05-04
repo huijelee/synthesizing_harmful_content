@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousBookFinder",
+    "account_age": "6 months",
+    "bio": "Avid reader and tech enthusiast based in Portland, Oregon. Recently got into exploring the world of Android TV and Nintendo Switch. Works as a freelance graphic designer during the day, and spends evenings diving into the intricacies of digital worlds like 'Stellaris'. Single and enjoys spending weekends hiking in the nearby trails. Often online late at night, usually between 10 PM and 1 AM local time. Not a fan of overly complex web development tasks, but enjoys learning through 'WebdevTutorials'.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "AndroidTV, Switch",
+    "recent_subreddits": "Maya, Stellaris, WebdevTutorials"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Gained a solid understanding of Android TV and Switch through online forums and personal experimentation. Self-taught in graphic design using platforms like Skillshare and YouTube. Recently started learning web development basics through online tutorials.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

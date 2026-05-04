@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LeedsLibertarian",
+    "account_age": "9 years",
+    "bio": "A dedicated football enthusiast and lifelong Leeds United supporter based in Leeds. Enjoys engaging in strategic discussions and keeping up with the latest leaks in Fortnite gaming. Works as a software developer with a keen interest in cognitive science, which blends perfectly with weekend hikes and caring for a diverse orchid collection. Prefers to spend online time in the evenings after work. Married with two kids who share a budding interest in football.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "FortniteLeaks",
+    "recent_subreddits": "cognitivescience, orchids, KansasLibertarians"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Possesses a strong foundation in software development acquired through a Computer Science degree and over a decade of professional experience. Well-versed in cognitive science through personal interest, extensive reading, and participation in online courses. Deeply knowledgeable about football tactics, particularly Leeds United, through years of dedicated fandom.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

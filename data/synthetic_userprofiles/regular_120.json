@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FrostyVinylHunter",
+    "account_age": "18 months",
+    "bio": "I'm a 26-year-old living in Edmonton, Alberta. I'm a huge fan of collecting vinyl records and enjoy discussing my finds on Reddit. I work as a software developer during the day, and I usually hop on Reddit in the evenings to unwind. I'm single and enjoy spending my weekends exploring new music and playing online games like AQ3D. I'm not a fan of overly structured communities but appreciate a good set of guidelines to keep things civil.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "alberta, vinyl, TypicalColors2",
+    "recent_subreddits": "ImTheMainCharacter, DaddyDom"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science from the University of Alberta. My love for music led me to start a vinyl collection, and I often share my latest finds and discuss audio equipment on Reddit. I also play games like AQ3D and Typical Colors 2, mostly learning through trial and error and community tips.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MetaHumorist1985",
+    "account_age": "7 years",
+    "bio": "Originally from the Pacific Northwest, I'm a software developer with a penchant for humor and storytelling. I spend my days coding and my nights exploring virtual worlds like 'The Sims 4' and 'Horizon'. I'm single, enjoy indie music, and often contribute to discussions around gaming and tech. My online hours are typically in the late evening, after work and a run through my local park. I dislike overly serious debates and love a good pun.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Humor",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "horizon, thesims4, mash",
+    "recent_subreddits": "Carbon2185, WarOnDrugsBand"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and have been working in the tech industry for over a decade. My knowledge spans software development, gaming technology, and digital storytelling. I also have a side interest in music, particularly bands like War On Drugs, which keeps me engaged in creative communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

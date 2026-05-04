@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SkyblockVeteran42",
+    "account_age": "5 years",
+    "bio": "Avid gamer and tech enthusiast based in Sydney, Australia. James, 32, has been immersed in the world of gaming since the early 2000s. With a background in computer science, he works as a software engineer for a tech startup. When not coding or gaming, he enjoys watching sci-fi shows and exploring new cuisines. Typically online during late evenings and weekends. In a long-term relationship and has a pet cat named Luna.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "ForAllMankindTV, Sindh",
+    "recent_subreddits": "rocketpool, DoubleShotatLove, ties"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "James has a solid foundation in computer science, having earned a degree from the University of Sydney. His expertise extends to various programming languages and game development, thanks to both formal education and countless hours of self-teaching through online tutorials and forums. He is also knowledgeable about blockchain technology, which he started exploring over the last year.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

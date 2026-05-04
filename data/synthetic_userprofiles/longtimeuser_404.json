@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DroneSeeker42",
+    "account_age": "6 years",
+    "bio": "I'm a 35-year-old software developer based in Palm Coast, Florida. I grew up in the Midwest and moved here for the beautiful weather and outdoor activities. I have a deep fascination with technology, especially drones and game development. I enjoy exploring local wildlife preserves with my drones, capturing the natural beauty from above. Outside of my tech interests, I'm a passionate fan of Blink-182 and often find myself experimenting with Discord bots in my spare time. I'm married with two lovely kids and a dog named Pixel. I'm usually online during evenings after work and on weekends. I dislike negativity and trolls but love engaging in meaningful discussions.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "ChristianApologetics, HumankindTheGame",
+    "recent_subreddits": "Blink182, Discord_Bots"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science and over a decade of experience in software development. My drone expertise comes from years of personal interest and experimentation, along with keeping up to date with the latest tech trends and gadgets. My gaming knowledge is partly professional, thanks to my involvement in indie game development projects, and partly recreational.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

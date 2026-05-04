@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TexLatino20",
+    "account_age": "18 months",
+    "bio": "I'm a 20-year-old Latino guy living in Texas. I'm currently studying automotive engineering at a local college and work part-time at an auto repair shop. I love working on cars and listening to true crime podcasts during my free time. I'm single and usually online in the evenings after classes and work. I enjoy discussing new tech in blockchain and watching TV dramas.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "aragonproject, LittleFiresEverywhere",
+    "recent_subreddits": "autorepair, TrueCrimePodcasts"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a good mix of formal education in automotive engineering and self-taught skills in cryptocurrency and investment, primarily through online resources and forums.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

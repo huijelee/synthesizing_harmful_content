@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SmokinShadowCayman",
+    "account_age": "18 months",
+    "bio": "A 29-year-old automotive enthusiast and BBQ aficionado from Austin, Texas. I work as a software developer during the day and spend my weekends either tinkering with my Porsche Cayman or perfecting my brisket recipe on my electric smoker. I'm currently single and enjoy my downtime listening to comedy podcasts, especially 2 Bears, 1 Cave. I'm usually online during the late evenings after work and early mornings during the weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "ElectricSmoker, DarkShadows, Porsche_Cayman",
+    "recent_subreddits": "2bears1cavepodcast"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science with a bachelor's degree from the University of Texas. My knowledge of cars and smoking meats comes from years of hands-on experience and a lot of self-teaching through forums and YouTube tutorials.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

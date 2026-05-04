@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DiamondDeckDude",
+    "account_age": "24 months",
+    "bio": "I'm a 28-year-old baseball enthusiast from San Diego, California. I work as a software engineer by day and spend my evenings and weekends diving deep into mobile baseball games like MLB 9 Innings. I love strategizing and optimizing my game plan, especially when it comes to building the perfect team deck. I'm also interested in aviation and spend time exploring the PlaneCrazyCommunity subreddit. When I'm not gaming or working, I enjoy reading light novels like 'Spice and Wolf' and catching up on the latest in comedy. I'm single and usually online during late evenings, Pacific Time, after work and during weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Humor"
+    ],
+    "top_subreddits": "PlaneCrazyCommunity",
+    "recent_subreddits": "naltrexone, comedy, SpiceandWolf"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a computer science degree from UCSD and have been working in software development for the past six years. My love for baseball and gaming led me to explore MLB 9 Innings extensively, and I've self-taught myself the intricacies of the game mechanics through community discussions and trial-and-error.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

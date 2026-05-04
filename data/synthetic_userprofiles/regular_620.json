@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LesterFromGTA_420",
+    "account_age": "18 months",
+    "bio": "I'm a 29-year-old movie enthusiast from Minneapolis, Minnesota. I spend most of my time exploring the local food scene and diving into new video games. Currently, I'm between jobs and relying on unemployment benefits while I search for new opportunities. I enjoy late-night Reddit sessions, often between 10 PM and 2 AM. My relationship status is single, and I love making new friends online who share my interests in movies, gaming, and food.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "FoodNYC",
+    "recent_subreddits": "Neverwinter, BlackhawkRescue, TwinCities"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a deep knowledge of movies, especially comedies, thanks to countless nights watching films. My expertise in video games comes from years of playing and engaging with gaming communities. My food knowledge is self-taught, driven by my passion for trying new restaurants and sharing my experiences.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

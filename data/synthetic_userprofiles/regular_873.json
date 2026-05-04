@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SmartSwitchSeeker",
+    "account_age": "18 months",
+    "bio": "I'm a 29-year-old tech enthusiast living in the Pacific Northwest. By day, I work as a software developer specializing in IoT solutions. In my free time, I enjoy exploring the intersection of technology and everyday life, particularly through smart home automation. When I'm not tinkering with gadgets, I love playing strategy games and occasionally dabbling in psychedelics for creative exploration. I'm currently in a long-term relationship and spend my evenings online, usually between 8 PM and midnight.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "equestriaatwar",
+    "recent_subreddits": "psychadelics"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise lies in software development with a particular focus on IoT and smart home technologies. I've gained my knowledge through a combination of a computer science degree and hands-on experience in the field. I enjoy keeping up with the latest tech trends and frequently test new devices and software to integrate into my home setup.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

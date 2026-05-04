@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechGuru1985",
+    "account_age": "7 years",
+    "bio": "Based in Lisbon, Portugal, I'm a software engineer with a passion for gaming and technology. I spend most of my evenings exploring the latest tech trends and engaging in discussions about video games, especially the PS5. When I'm not online, I enjoy attending local football matches and exploring new cafes. I'm in a committed relationship and often share my gaming experiences with my partner. My typical online hours are in the evenings, between 7 PM and midnight, local time.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "IST, PortugalLaFora",
+    "recent_subreddits": "lcfc"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science from the University of Lisbon and have been working in the tech industry for over a decade. My knowledge spans software development, gaming technology, and consumer electronics. I have always been a self-learner, constantly updating my skills through online courses and tech forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

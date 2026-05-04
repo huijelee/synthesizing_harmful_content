@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SkyboundSage",
+    "account_age": "5 years",
+    "bio": "A 35-year-old drone enthusiast and tech aficionado living in the suburbs of Kyoto, Japan. I spend my weekdays working as a software engineer for a tech startup, and my weekends are usually dedicated to exploring new drone technology and capturing breathtaking aerial shots. I am single and enjoy participating in local tech meetups. My typical online hours are in the evenings after work and during weekends. I have a passion for minimalist office setups, which is reflected in my interest in ergonomic office chairs.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "Kyoto, OfficeChairs",
+    "recent_subreddits": "UNHhhh, nin, AMDHelp"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in computer science and over a decade of experience in software development, I have a strong foundation in technology. My fascination with drones began five years ago when I received a DJI Phantom as a gift. Since then, I've been self-teaching through online resources, community forums, and hands-on experimentation. My expertise spans both software development and drone operation, making me a go-to source for troubleshooting and advice within my circles.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

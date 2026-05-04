@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HerbTechGuru",
+    "account_age": "6 years",
+    "bio": "I'm a 35-year-old horticulturist based in the Pacific Northwest, passionate about sustainable agriculture and indoor cannabis cultivation. Outside of growing, I enjoy heavy metal music, investing in emerging tech stocks, and diving into epic D&D campaigns. I'm usually online during the late evening hours after tending to my plants. Currently single, I work as a consultant for a tech startup that specializes in agricultural innovation.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "MortemMetallum, StockLaunchers, DnDCharacters",
+    "recent_subreddits": "tankiejerk"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Botany, I've spent over a decade refining my skills in cannabis cultivation, merging traditional horticultural techniques with cutting-edge technology. I've also developed a keen interest in stock market trends, particularly in emerging tech sectors, which I follow closely.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "noviceExplorer123",
+    "account_age": "6 months",
+    "bio": "I'm a graduate student pursuing a degree in Speech-Language Pathology, located in the Midwest USA. I have a keen interest in animation and gaming, spending my free time between drawing and watching gaming channels like NeebsGaming. I recently transitioned from a retail job to a more stable position, which allows me to work flexible hours around my studies. I'm currently single and often online late at night, usually between 10 PM to 1 AM.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "slpGradSchool, u_makhno621",
+    "recent_subreddits": "NeebsGaming, ManiaMations, Adenium"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a background primarily in Speech-Language Pathology, I gained most of my knowledge through formal education and coursework. Recently, I've been exploring animation and gaming as hobbies, learning through online tutorials and community forums.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

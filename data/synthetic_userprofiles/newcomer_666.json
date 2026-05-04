@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieNewbie42",
+    "account_age": "7 months",
+    "bio": "I'm a 28-year-old software engineer living in Austin, Texas. I have a keen interest in technology and spend a lot of my free time tinkering with computers and gaming. I recently got into the MCU and love discussing fan theories. I work from home, so I'm online at various times throughout the day, usually between 10 AM and 8 PM CST. I'm single and enjoy spending weekends exploring local coffee shops and tech stores.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "MCUTheories, computer",
+    "recent_subreddits": "erectiledysfunction, AlienwareTechsupport"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science from the University of Texas at Austin. My job as a software engineer has given me practical knowledge in programming and problem-solving. I've self-taught myself a lot about computer hardware and enjoy building custom PCs.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

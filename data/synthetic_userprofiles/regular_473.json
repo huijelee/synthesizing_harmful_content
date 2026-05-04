@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CodeCrafter_91",
+    "account_age": "18 months",
+    "bio": "I'm a game developer based in Ottawa, Canada, working primarily with Unity3D. I have a passion for creating immersive gaming experiences and am constantly exploring new technologies in the field. In my free time, I enjoy reading about cryptocurrency developments and keeping up with the latest tech gadgets. I'm usually online in the evenings and weekends. Currently, I'm single and enjoy the flexibility it provides to focus on my career and hobbies.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "TabS7",
+    "recent_subreddits": "Sovryn, airtrafficcontrol, CoronavirusOttawa"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science from Carleton University and have been working in the gaming industry for the past 3 years. I learned Unity3D through a combination of online courses and hands-on projects. Recently, I've been delving into blockchain technology and its applications in gaming.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

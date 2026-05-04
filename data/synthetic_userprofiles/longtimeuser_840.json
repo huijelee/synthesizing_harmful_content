@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PsychedelicPuckster",
+    "account_age": "8 years",
+    "bio": "I'm a 35-year-old software engineer living in Austin, Texas. I've been fascinated with psychedelics for over a decade, both from a recreational and a philosophical perspective. In my free time, I play inline hockey and I'm an avid gamer, particularly enjoying titles like Resident Evil 4. I love discussing game strategies and sharing tips with fellow enthusiasts. While I'm single, I enjoy socializing with a close-knit group of friends who share similar interests. I typically browse Reddit in the evenings after work or during weekends. My job allows me flexibility, so I often find time to engage in various online communities.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "InlineHockey",
+    "recent_subreddits": "residentevil4, kac"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise in psychedelics comes from years of self-directed learning, engaging in community discussions, and reading scientific literature. I also have a background in computer science, which I apply to my work as a software engineer. My gaming knowledge is mostly self-taught through extensive gameplay and community interaction.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BalticObserver99",
+    "account_age": "7 years",
+    "bio": "I am a 35-year-old history enthusiast living in Vilnius, Lithuania. Originally from Latvia, I have roots in both Estonia and Lithuania due to my mixed heritage. I work as a software developer for a fintech company, and I'm passionate about regional politics, especially the history and current affairs of the Baltic States. I usually browse Reddit during evenings and weekends. I'm single and enjoy hiking and visiting historical sites in my free time.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Technology",
+      "Educational"
+    ],
+    "top_subreddits": "ExodusWallet",
+    "recent_subreddits": "TheTrumpZone, u_babybellabesos"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a master's degree in European History from the University of Latvia. My deep interest in Baltic politics is fueled by both personal heritage and academic pursuits. Additionally, my work in fintech has given me a strong grasp of technology and cybersecurity, which I often discuss on Reddit.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

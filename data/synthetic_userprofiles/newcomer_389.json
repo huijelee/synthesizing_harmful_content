@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ManhwaNewbie2023",
+    "account_age": "6 months",
+    "bio": "Avid reader and tech enthusiast based in Toronto, Canada. Recently got into reading manhwa and exploring new hobbies online. I work as a junior software developer at a startup, which keeps me busy during the weekdays. In my free time, I enjoy catching up on manhwa, learning about personal finance, and exploring decentralized technologies. I'm single and often spend my evenings and weekends exploring new subreddits and expanding my interests. My online hours are typically in the evenings from 7 PM to midnight and sporadically during weekends.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "RichPeoplePF, ethdev",
+    "recent_subreddits": "Superligaen, Schulich"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge is primarily in software development, particularly in Ethereum development, which I learned through a combination of self-teaching and coursework during my computer science degree. Additionally, I have a growing interest in personal finance, especially related to high-net-worth strategies, which I explore through subreddits like 'RichPeoplePF'.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

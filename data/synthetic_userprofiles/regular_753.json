@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MacroMaven2021",
+    "account_age": "18 months",
+    "bio": "I'm a 32-year-old nutrition enthusiast from Portland, Oregon. I've been on a journey to better health and fitness for the past couple of years, and Reddit has been an invaluable resource. I work as a freelance graphic designer, which gives me the flexibility to experiment with meal planning and workouts. I love cooking, especially trying out new macro-friendly recipes. My online hours vary, but I'm usually active in the evenings. I'm currently single and enjoy spending my weekends hiking and exploring new trails.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "IIFYM, thekinks",
+    "recent_subreddits": "EndFPTP"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in graphic design, but my passion for nutrition and fitness has led me to self-educate extensively through online courses, books, and reliable online communities like Reddit. I've gained practical knowledge by tracking my own macros and experimenting with different dietary approaches.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

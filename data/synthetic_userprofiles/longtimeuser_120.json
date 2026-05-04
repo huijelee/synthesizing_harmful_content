@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "RetroVibes99",
+    "account_age": "8 years",
+    "bio": "A 30-something college admissions advisor living in the Pacific Northwest. Passionate about retro video games, particularly THUGPRO (Tony Hawk's Underground Pro) and nostalgic TV shows like Samurai Champloo and Veronica Mars. I spend my weekdays helping high schoolers craft the perfect college application and my evenings unwinding with a good game or an old episode of my favorite shows. Not a fan of bad neighbors or people who don't appreciate the 'good old days.' I usually browse Reddit late at night, after work hours. Currently single, and loving the freedom to dive deep into my hobbies.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "lewronggeneration, BadNeighbors, THUGPRO",
+    "recent_subreddits": "SamuraiChamploo, veronicamars"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a background in college admissions, I have a wealth of knowledge about the application process, essay writing, and what top colleges are looking for. My expertise comes from years of working in high school counseling and participating in college admissions workshops across the country. I also have a self-taught proficiency in retro video games, gained from countless hours spent playing and modding classic titles.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

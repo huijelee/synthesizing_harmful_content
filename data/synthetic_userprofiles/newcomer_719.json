@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewHunter2023",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old outdoor enthusiast from Jo Daviess County, IL. Recently picked up hunting and absolutely love the thrill and challenge it offers. I'm also into sports like boxing and MMA, which I follow closely. During the weekdays, I work as a digital marketing specialist, focusing on email campaigns and SEO. I spend my weekends either on hunting trips or playing Titanfall 2. I'm single and enjoy spending time with friends, exploring new places, and learning new skills. Typically online during the evenings after work and early mornings on weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "Spicymoustache, poirot, Titanfall_2_",
+    "recent_subreddits": "RedCombatSports, Emailmarketing, unRAID"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in digital marketing through a combination of formal education and self-taught courses online. Recently, I've been diving into hunting, learning primarily through online forums, YouTube tutorials, and local hunting clubs.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

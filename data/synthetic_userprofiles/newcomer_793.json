@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SpaceCadetNewbie",
+    "account_age": "5 months",
+    "bio": "I'm a 24-year-old living in Seattle, Washington, working as a junior software developer. I've recently started exploring Reddit to dive deeper into my interests in sci-fi shows like Star Trek as well as video game development, particularly using tools like Pygame. I play the saxophone in my spare time and enjoy collecting vintage plaid clothing. My online hours are mostly evenings and weekends since I work a 9-to-5 job. I\u2019m currently single and enjoy meeting new people online through shared interests.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "animeballsdeep, Hollow_Knight_R34, pygame",
+    "recent_subreddits": "saxophone, GirlsInPlaid"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science from a local university and have been programming since high school. My interest in sci-fi started with watching Star Trek reruns with my parents. Recently, I've been teaching myself game development using resources from various online communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

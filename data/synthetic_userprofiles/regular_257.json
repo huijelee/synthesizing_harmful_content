@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BayAreaBabe89",
+    "account_age": "24 months",
+    "bio": "I'm a 34-year-old self-proclaimed foodie and tech enthusiast living in the heart of San Francisco. I work as a software developer by day and love exploring the city's vibrant culinary scene by night. Though I'm single, I have a tight-knit group of friends who share my interests in coding, gaming, and weekend brunches. I often spend my evenings playing The Sims or watching mystery shows like Pretty Little Liars. I'm a late bloomer in many aspects of life, including my exploration of my own sexuality, which I often discuss on forums like latebloomerlesbians. My typical online hours are post-work, around 7 PM to midnight.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "latebloomerlesbians",
+    "recent_subreddits": "PrettyLittleLiars, thesimscc, bmpcc"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science from UC Berkeley, I've spent the last decade honing my skills in software development. My passion for technology extends to photography, where I frequently discuss techniques and tools on forums like bmpcc. I also have a deep interest in culinary arts, often experimenting with recipes and sharing my experiences online.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

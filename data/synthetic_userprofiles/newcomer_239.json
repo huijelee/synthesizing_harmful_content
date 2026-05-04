@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousNewbie42",
+    "account_age": "3 months",
+    "bio": "28-year-old aspiring writer living in Portland, Oregon. Recently started exploring Reddit to connect with people sharing similar life transitions and challenges. Interested in music, particularly the Ghost band, and always on the lookout for productivity tools like HeyEmail. Enjoys gaming, with a current focus on mods like Fallout: The Frontier. Works part-time at a local bookstore, and is in a committed relationship. Usually online in the evenings after work, around 7-10 PM PST.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Ghostbc, HeyEmail",
+    "recent_subreddits": "scooters, FalloutTheFrontier"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a bachelor's degree in English Literature, with a strong passion for storytelling and narrative design. Gained knowledge in music and gaming through personal interest and active participation in related communities. Has basic familiarity with productivity tools due to a brief stint in a tech startup.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

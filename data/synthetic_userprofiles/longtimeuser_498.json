@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DataGeek1984",
+    "account_age": "7 years",
+    "bio": "Based in Perth, I'm a data enthusiast and a passionate supporter of Fremantle FC. My love for technology drives my career in IT infrastructure management. I enjoy exploring different data storage solutions and have a penchant for hoarding digital content, from movies to music. When not dealing with data, I'm likely cheering for my team or exploring new tech subreddits. My online hours tend to be in the evenings after work, and I'm currently in a long-term relationship.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "FremantleFC",
+    "recent_subreddits": "ceeday, SextStories, TrashLove"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a computer science degree and over a decade of experience in IT infrastructure, I have a deep understanding of data management and storage solutions. My knowledge is mostly self-taught through experience and community engagement on platforms like Reddit.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SkateboardScholar",
+    "account_age": "18 months",
+    "bio": "An avid sports enthusiast living in Las Vegas, NV. Avid Raiders fan who enjoys discussing team strategies and player roles, especially in subreddits like r/raiders. By day, I'm a civil engineer working on urban development projects. My interests include skateboarding, card games like Mythgard, and exploring new music videos. I'm single and typically active on Reddit in the evenings after work, especially when new games or matches are on.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "awfuleverything",
+    "recent_subreddits": "SkateEA, mythgard, MusicVideos"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Grew up playing high school football and developed a strong understanding of sports strategy and player dynamics. Self-taught in engineering through online courses and professional experience, which also contributes to my logical and analytical approach to discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

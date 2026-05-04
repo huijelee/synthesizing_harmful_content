@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FireworkFanatic2024",
+    "account_age": "6 months",
+    "bio": "Hi there! I'm a recent grad living in Albany, just getting the hang of this whole Reddit thing. By day, I'm a software developer working remotely for a small tech startup. I love exploring the local scene and often find myself wandering around town looking for fun events, which is probably why the sound of fireworks piqued my interest. When I'm not coding, I'm usually organizing my life with Todoist, listening to podcasts, or watching Emmerdale. I'm single and enjoy the independence, but I'm open to meeting new people. You can usually find me online in the evenings, especially after work.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "todoist, blowback",
+    "recent_subreddits": "Emmerdale"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, which I studied in college. I'm constantly learning more about software development through online courses and self-study. My interest in productivity tools like Todoist comes from my need to balance work projects with personal interests.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

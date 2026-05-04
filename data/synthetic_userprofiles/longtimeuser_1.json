@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "VHS_Collector_Extraordinaire",
+    "account_age": "15 years",
+    "bio": "Based in Cape Town, I'm a 38-year-old IT consultant with a penchant for all things retro, especially VHS tapes. My collection of rare Seymour VHS tapes is my pride and joy, and I often share my finds on Reddit. I enjoy hiking in the beautiful landscapes around Cape Town, though lockdowns have made that more challenging. I'm in a long-term relationship, and we often binge-watch classic films together. My dislikes include crowded places and unnecessary restrictions. I typically browse Reddit in the evenings after work, usually between 7 PM and 11 PM.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "TheSeymourVHSReddit",
+    "recent_subreddits": "googletranslate, actuallesbians, 2b2t_Uncensored"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Computer Science from the University of Cape Town and have spent over a decade working in IT consultancy. My interest in VHS tapes began as a hobby during university, and over the years, I've become well-versed in the history and preservation of analog media.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

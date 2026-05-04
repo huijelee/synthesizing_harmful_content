@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "RetroGamer_dev",
+    "account_age": "6 years",
+    "bio": "Avid game developer based in the Netherlands who enjoys creating indie games in my spare time. I'm a big fan of classic games, especially anything related to Resident Evil. I work as a software engineer during the day and develop games at night. I'm also a fitness enthusiast, using apps like Sweatcoin to motivate my daily runs. I keep a close-knit group of friends and prefer spending weekends gaming or hiking. I'm single, and my usual online hours are late evenings after work.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "GameDevelopment, sweatcoin",
+    "recent_subreddits": "pickle, ResidentEvil2Remake"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science and have been programming since high school. My passion for game development grew from modding games in my teenage years. Over time, I've honed my skills through online courses and collaborations on various indie projects.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

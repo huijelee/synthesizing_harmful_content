@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieQuokka",
+    "account_age": "18 months",
+    "bio": "TechieQuokka is a 28-year-old software engineer based in Austin, Texas. With a passion for emerging technologies and innovative solutions, they spend most of their day coding and exploring new software trends. In their free time, they enjoy streaming Big Brother episodes and participating in online discussions about the show. They prefer to unwind by painting digital graffiti in VR and are an avid fan of e-cigarettes. TechieQuokka is single and tends to be online during late evenings, often sharing insights and engaging in lively debates on Reddit.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "QuantumScape, iqos, kingspray",
+    "recent_subreddits": "WredditSchool, vozforums"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "TechieQuokka holds a degree in Computer Science from the University of Texas. Their expertise in software development is enhanced by years of self-teaching through online courses and participation in tech forums. They are also well-versed in VR technologies and e-cigarette advancements, often sharing knowledge gained from both professional and personal experiences.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ChaiAndCinemas",
+    "account_age": "5 years",
+    "bio": "I'm a 29-year-old movie buff based in Mumbai, India. By day, I work as a digital marketing specialist for a startup, and in my free time, I love diving into the world of Bollywood and exploring the benefits of essential oils. I'm currently single, and I usually browse Reddit late at night, around 10 PM to 1 AM IST, when I have some downtime. I'm not a fan of overly negative spaces, so I seek out communities that offer constructive dialogue or entertainment.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "bollywood, essentialoils",
+    "recent_subreddits": "ugly, AskTrumpSupporters, waxing"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in mass communication, which has fueled my passion for media and entertainment. My expertise lies in digital marketing strategies, acquired through both formal education and self-study. I have a keen interest in natural wellness, particularly essential oils, which I explore as a hobby.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

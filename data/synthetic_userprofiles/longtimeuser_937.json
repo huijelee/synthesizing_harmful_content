@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechWaffleMaster",
+    "account_age": "7 years",
+    "bio": "Living in Austin, TX, I'm a 34-year-old software engineer with a passion for decentralized finance and a mild obsession with physics. I spend my days coding and my evenings exploring new game strategies. Not a fan of overly simplistic explanations, I enjoy diving deep into topics. Typically online during late evenings. Married with no kids, I enjoy a quiet life with my partner and our two cats.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Educational",
+      "Entertainment"
+    ],
+    "top_subreddits": "pancakeswap, AskPhysics",
+    "recent_subreddits": "CastleClash"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a degree in Computer Science from the University of Texas. Developed a keen interest in blockchain and cryptocurrency, leading to self-taught expertise in decentralized finance. Additionally, a long-time physics enthusiast with a penchant for online courses and lectures.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

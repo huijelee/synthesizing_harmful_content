@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BrewGuru_23",
+    "account_age": "18 months",
+    "bio": "A passionate homebrewer from Denver, Colorado, who has been perfecting the art of beer-making for just over a year and a half. When not experimenting with new recipes, I work as a graphic designer. I'm usually online during the evenings after work, especially on weekends when I can dedicate more time to brewing. In a committed relationship with a fellow craft beer enthusiast, we often explore local breweries together. I enjoy learning about new techniques and sharing my brewing successes and failures with the community. Not a fan of overly commercialized beer, I prefer unique flavors and small-batch brews.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Discussion"
+    ],
+    "top_subreddits": "MomForAMinute, Rosario, Fanatec",
+    "recent_subreddits": "banreddit"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Self-taught homebrewer who started out by reading books and online forums, followed by hands-on experimentation. Regularly watches brewing videos and attends local workshops to enhance skills. As a graphic designer, I occasionally design labels for my own brews and for friends.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

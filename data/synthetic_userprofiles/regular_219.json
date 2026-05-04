@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ScentsAndSpaceships",
+    "account_age": "18 months",
+    "bio": "I'm a 27-year-old fragrance enthusiast and aspiring indie game developer based in Seattle. My love for unique scents started as a hobby but quickly turned into a passion. When I'm not exploring new fragrances, I dive deep into RPGs, especially the quirky and unconventional ones like 'Lisa: The Painful'. I find solace in the mysteries of the universe and enjoy reading about UFO sightings and theories. I'm currently working as a software developer for a small tech startup, and though the hours can be long, I enjoy the flexibility it offers. I'm single and enjoy spending my evenings discovering new indie games or chatting with fellow enthusiasts online. I usually browse Reddit late at night or during lunch breaks.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "lisathepainfulrpg, UFOs",
+    "recent_subreddits": "LCCofficial, MakeMeHappy"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science and have been coding since my teenage years. I learned a lot about programming through self-teaching and online courses. My interest in fragrances is more of a personal passion, cultivated by countless hours spent researching online and interacting with the fragrance community.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

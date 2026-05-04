@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewMomOnTheBlock",
+    "account_age": "10 months",
+    "bio": "I'm a 29-year-old mom living in the beautiful Pacific Northwest. I recently got into Reddit as a way to connect with other parents and share the humorous and sometimes challenging moments of parenting. I'm a part-time graphic designer and enjoy hiking and exploring local trails with my family during my free time. My husband and I have a lively 3-year-old son who keeps us on our toes. I usually browse Reddit in the evenings after my little one is asleep. I'm interested in parenting communities, but also keep an eye on health updates, especially related to COVID-19 in our region.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Humor",
+      "Discussion"
+    ],
+    "top_subreddits": "bridgerbowl, CoronavirusOregon",
+    "recent_subreddits": "findareddit, baldmarinscatfetish, DemonolatryPractices"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in graphic design and work part-time in the field, which keeps me up to date with creative trends. My parenting knowledge is mostly hands-on, learned through experience and advice shared in communities like breakingmom. I've also been closely following COVID-19 updates, especially those affecting my area in Oregon.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

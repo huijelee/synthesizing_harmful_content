@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbie42",
+    "account_age": "6 months",
+    "bio": "I'm a tech enthusiast from Seattle, Washington, who recently got into building custom PCs. I spend my free time gaming and exploring new technology trends. I work as a junior software developer at a local startup. Typically online during evenings and weekends as I balance work and my passion for tech. I'm single, and my love for gaming often means late-night gaming sessions with friends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "GamePhysics, eluktronics, mastersofmadness",
+    "recent_subreddits": "catfishing"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a foundational understanding of technology and gaming, mostly acquired through self-teaching and online tutorials. As a junior developer, I am constantly learning and integrating new skills into my daily work. My interest in custom PCs stems from my gaming hobby.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

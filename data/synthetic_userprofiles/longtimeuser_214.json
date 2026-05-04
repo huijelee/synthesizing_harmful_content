@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "KarsConnoisseur1985",
+    "account_age": "10 years",
+    "bio": "Avid fan of anime and manga with a particular obsession for JoJo's Bizarre Adventure. I live in Halifax, Nova Scotia, and work as a software developer during the day. Always eager to engage in discussions about metaphysical concepts and philosophical ideas, especially those propagated by thinkers like Sam Harris. Usually online during evenings and weekends. Single and enjoying the freedom to dive deep into my hobbies.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Discussion",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "samharris, PointPay_Official",
+    "recent_subreddits": "thekinks, Michigents, halifax"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Deeply knowledgeable in anime lore, particularly JoJo's Bizarre Adventure series and its extended universe. This interest was mostly self-taught through years of consuming manga, anime, and participating in online forums and discussions. Also has a keen interest in philosophy, often listening to podcasts by Sam Harris.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MythicalBinge",
+    "account_age": "24 months",
+    "bio": "A 28-year-old living in the vibrant city of New Orleans. Passionate about Greek mythology and often finds solace in the stories of gods and heroes. Works as a freelance graphic designer, allowing for a flexible schedule that often leads to late-night Reddit sessions. Enjoys binge-watching Netflix series, especially those relating to history and mythology. Single and enjoys the freedom that comes with it, although occasionally gets a bit lonely. Dislikes overly strict routines and prefers a more spontaneous lifestyle.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Discussion",
+      "Educational"
+    ],
+    "top_subreddits": "GreekMythology",
+    "recent_subreddits": "NetflixVPN, Msstate"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "An avid reader of Greek mythology from a young age, sparked by a high school literature class. Has continued this passion through self-study and online courses. Also has a keen interest in streaming services and how they adapt content for different regions, keeping up with VPN discussions and developments.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

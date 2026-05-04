@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousCoconut123",
+    "account_age": "5 months",
+    "bio": "I'm a 28-year-old graphic designer from Panama City, Panama. I love exploring new technologies and am a huge fan of e-bikes, which is why I spend a lot of time on subreddits like juicedbikes. I recently got into gaming and enjoy playing Deltarune and Royale High on Roblox. I\u2019m also a lefty, which sometimes leads to hilarious mishaps that I share on LeftHandProblems. In my free time, I enjoy making memes and watching nostalgic shows like VeggieTales. I usually browse Reddit in the evenings after work and am currently single.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "LeftHandProblems, juicedbikes, PacerTheGame",
+    "recent_subreddits": "Deltarune, RoyaleHigh_Roblox, VeggieTalesMemes"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Graphic Design from a local university and have been working in the field for about 6 years. My interest in technology and e-bikes comes from a mix of self-teaching and personal experience. Gaming is a new hobby, and I\u2019m learning through community discussions and trial and error.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

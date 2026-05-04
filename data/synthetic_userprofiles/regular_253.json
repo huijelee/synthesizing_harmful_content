@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PokeTradeGuru91",
+    "account_age": "18 months",
+    "bio": "Based in Toronto, Canada, I'm a 32-year-old mechanical engineer with a passion for Pokemon and motorsports. I spend my weekends either trading Pokemon or attending local car races. Married with no kids, my wife and I own a Golden Retriever named Max. I usually log into Reddit during evenings after work or on weekends. I'm also interested in sustainable living and exploring past life theories.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Animals",
+      "Lifestyle"
+    ],
+    "top_subreddits": "GrandPrixRacing, Dogowners, McMasterEngineering",
+    "recent_subreddits": "recycling, pastlives, MageErrant"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Mechanical Engineering from McMaster University. My expertise in Pokemon games comes from years of playing since the early Game Boy editions. I am self-taught in recycling and sustainability practices, often sharing insights on these topics.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

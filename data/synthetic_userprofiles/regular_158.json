@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "GamerNarcSurvivor",
+    "account_age": "18 months",
+    "bio": "I'm a 27-year-old from Texas, juggling a job in IT support while pursuing a part-time degree in psychology. My interests include gaming, particularly building custom PCs, and exploring the impact of narcissistic family dynamics, a subject close to my heart due to personal experiences. I usually browse Reddit in the evenings after work or during weekends. I'm single and enjoy spending my free time either gaming or hanging out with my close-knit group of friends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Technology"
+    ],
+    "top_subreddits": "SHSU",
+    "recent_subreddits": "Hellpoint, GamingPCBuildHelp"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in IT, having worked in tech support for about five years. My knowledge is largely self-taught through online courses and hands-on experience. Additionally, my personal experiences have driven me to learn more about psychology, specifically family dynamics and narcissism.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

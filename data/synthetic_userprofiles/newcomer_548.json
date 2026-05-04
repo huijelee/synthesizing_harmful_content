@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbie87",
+    "account_age": "6 months",
+    "bio": "A recent graduate from the University of Illinois with a degree in Computer Science, currently based in Chicago. Passionate about gaming and virtual reality, and working as a junior software developer at a mid-sized tech firm. Enjoys exploring new technologies, and learning about product management and customer success strategies. Typically online during evenings and weekends. In a relationship.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "FACEITcom, PeopleBeingJerks, oculus",
+    "recent_subreddits": "stacks, yagami_yato"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Has a solid foundation in computer science principles gained through a bachelor's degree. Actively learning about VR development and game design independently through online courses and forums. Gaining practical experience in software development at work, focusing on troubleshooting and debugging.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

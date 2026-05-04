@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CompTF2Newbie",
+    "account_age": "6 months",
+    "bio": "I'm a 24-year-old university student from Sydney, Australia, studying computer science. I've always been a fan of video games, especially team-based shooters like Team Fortress 2. I stumbled upon Reddit while looking for advice on upgrading my Subaru Crosstrek and quickly got hooked on various communities. When I'm not studying or gaming, I enjoy reading Polish literature and exploring new business ideas. My typical online hours are in the evening, after classes and assignments. I'm currently single, focusing on my studies and hobbies.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Discussion"
+    ],
+    "top_subreddits": "Crosstrek, ksiazki, plano",
+    "recent_subreddits": "aircanada, Business_Ideas, tiffanydover"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong background in computer science, being in the final year of my undergraduate degree. My knowledge comes from both formal education and self-teaching through online courses and tutorials. I'm also an avid reader of business and technology books, which fuels my interest in starting my own venture someday.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "Medieval_Medley",
+    "account_age": "18 months",
+    "bio": "I'm a 29-year-old graphic designer based in Portland, Oregon. I have a huge passion for tabletop role-playing games, especially The Witcher TRPG, and I often spend my weekends immersed in fantasy worlds with friends. I also enjoy exploring new shower thoughts, particularly about dogs. When I'm not working or gaming, I like to engage in various puzzles, with safecracking being a recent interest. I'm in a long-term relationship with my partner of five years, and we share an apartment with our two rescue dogs. I usually browse Reddit in the evenings after work, around 7-10 PM PST.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Animals"
+    ],
+    "top_subreddits": "WitcherTRPG",
+    "recent_subreddits": "DogShowerThoughts, safecracking"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Graphic Design from a local university. My interest in fantasy games and stories led me to self-teach The Witcher TRPG's rules and lore, which I now consider myself somewhat of an expert on. I am also self-taught in safecracking, a hobby I picked up from watching documentaries and online tutorials.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

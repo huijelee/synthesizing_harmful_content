@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNerd_LV",
+    "account_age": "18 months",
+    "bio": "I'm a technology enthusiast from Latvia, currently working as a junior IT support specialist. I have a keen interest in building custom PCs and exploring new software tools, especially open-source ones. In my free time, I enjoy listening to Hobo Johnson while tweaking LibreOffice to suit my needs or studying for my PMP certification. I'm single and spend most of my evenings and weekends online, diving into Reddit threads and tech blogs.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "HoboJohnson",
+    "recent_subreddits": "libreoffice, pmp"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have an associate degree in Information Technology and have been passionate about computers since my teenage years. Most of my knowledge comes from a mix of formal education and self-teaching through online courses and forums. I actively participate in tech-related subreddits to stay updated with the latest trends and troubleshooting techniques.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

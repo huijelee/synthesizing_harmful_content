@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MedSciAdventurer",
+    "account_age": "18 months",
+    "bio": "I'm a physician assistant based in Salt Lake City, Utah, with a passion for science fiction and video games. I spend my downtime exploring short sci-fi stories and reliving the nostalgia of MegaMan Legends. Although my career keeps me busy, I always make time for some gaming escapades. I dislike misinformation, especially in medical discussions, and strive to provide accurate insights. I usually browse Reddit during late evenings after work. I'm single and enjoy connecting with like-minded individuals, whether for professional advice or casual chats.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "shortscifistories, MegaManLegends",
+    "recent_subreddits": "SurviveTheIsle, utah_nsfw_connect"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a Master's degree in Physician Assistant Studies and have been practicing for over five years. My expertise is further enriched by continuous learning through CMEs and staying updated with the latest medical blogs and resources like UpToDate. I also have a strong foundation in science fiction literature and gaming, which I explore as hobbies.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieMama123",
+    "account_age": "5 months",
+    "bio": "I'm a 34-year-old mom of two from Portland, Oregon, navigating the world of Reddit to find solace and community. My main interests include TV shows, particularly dramas and thrillers, and I'm always up for a good spoiler to ease my anxiety. Between juggling my part-time job as an administrative assistant and family life, I carve out time in the evenings to unwind online. I also enjoy reading up on health topics due to a personal connection, as my older child was diagnosed with leukemia last year. I'm happily married and love spending weekends exploring the outdoors with my family.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "leukemia, sinfest, Instagram",
+    "recent_subreddits": "whatshouldiwatch"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I'm a self-taught TV series enthusiast and rely heavily on online forums and discussion boards to deepen my understanding. I have no formal background in media or entertainment, but I've always been passionate about storytelling and narrative structure.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

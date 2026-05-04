@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewWaveExplorer",
+    "account_age": "5 months",
+    "bio": "I'm a 28-year-old graphic designer from Queensland, Australia. I recently discovered Reddit and have been exploring various communities, learning and sharing experiences. I'm passionate about cooking, especially Southern cuisine, thanks to my grandmother's influence. In my downtime, I enjoy playing 'Lord of the Rings: Rise to War' and tinkering with PC builds. My work hours are flexible, but I usually browse Reddit in the evenings. Currently single, I like to spend weekends trying out new recipes or catching up with friends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "DixieFood, LotrRiseToWar, lianli",
+    "recent_subreddits": "Centrelink, alohapos"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Graphic Design from a local university. I've always been a visual person, and my passion for design comes through both formal education and years of self-teaching through online tutorials and forums. Recently, I've been expanding my knowledge in PC building and exploring different software related to gaming.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TextbookVoyager123",
+    "account_age": "6 months",
+    "bio": "A high school student from the UK, currently in Year 11, preparing for GCSEs. Interested in optimizing study habits and finding effective resources for academic success. Enjoys a mix of educational content and entertainment, particularly American Horror Story. Recently started exploring the keto lifestyle, especially desserts. Typically online during evenings and weekends. Single and focused on academics and personal development.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "ketodessert",
+    "recent_subreddits": "AmericanHorrorStory, future_fight"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Currently a GCSE student with a focus on achieving high grades in science and humanities. Primarily self-taught through online resources and revision guides. Recently started exploring more comprehensive study materials due to home isolation.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

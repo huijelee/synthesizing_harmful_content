@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CycleSavvy84",
+    "account_age": "6 years",
+    "bio": "Living in the heart of Oxford, I've been an avid cyclist for over a decade. When not on two wheels, I'm working as a software developer specializing in embedded systems. I'm an Oxford University alum with a passion for sustainable technology and green commuting. I enjoy discussing tech trends, especially in the open-source domain. I usually browse Reddit in the evenings or during my lunch breaks. Currently single, I'm always on the lookout for fellow tech enthusiasts or cycling buddies.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Lifestyle"
+    ],
+    "top_subreddits": "IRBR3, microsoftsucks, PrintedCircuitBoard",
+    "recent_subreddits": "ShadowBan"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a background in computer engineering from Oxford University, my expertise lies in embedded systems and PCB design. I have honed my skills through both formal education and practical experience, working for a tech startup in the city. Additionally, I'm self-taught in cycling mechanics, having rebuilt bikes from scratch.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

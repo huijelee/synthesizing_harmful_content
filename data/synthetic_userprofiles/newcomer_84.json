@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "OCD_NewbieWriter",
+    "account_age": "6 months",
+    "bio": "I'm a 26-year-old aspiring writer based in the UK, navigating the world of Reddit as a newbie. I have a keen interest in mental health awareness, particularly OCD, which I've been managing for several years. My current occupation involves freelance writing, and I'm constantly working on improving my craft. I'm single and enjoy spending my evenings exploring various Reddit communities, especially those related to tabletop RPGs and medical cannabis. My typical online hours are late evenings, as I find it the most peaceful time to connect with others and gather inspiration.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Roll20",
+    "recent_subreddits": "ukmedicalcannabis"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Although I don't have formal education in psychology, my personal experiences with OCD have driven me to learn extensively about the condition through online resources and support groups. My interest in tabletop RPGs like Roll20 has been largely self-taught through online forums and YouTube tutorials.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

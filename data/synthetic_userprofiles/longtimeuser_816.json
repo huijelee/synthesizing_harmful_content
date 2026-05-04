@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CraftBeerScholar",
+    "account_age": "8 years",
+    "bio": "I'm a 32-year-old craft beer enthusiast hailing from Ann Arbor, Michigan. I work as a freelance writer focusing on technology and lifestyle subjects. I spend my weekends exploring local breweries and indulging in my passion for historical research, particularly lost media. I\u2019m married to a fellow Redditor who shares my love for gaming, especially Red Dead Redemption on PC. My typical online hours are late evenings, usually after 9 PM, when I can unwind and catch up on my favorite subreddits.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "michiganbeer, Rosario, PCRedDead",
+    "recent_subreddits": "lostmedia"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Communications and have honed my writing skills through a decade of freelance work. My expertise spans craft beer brewing and digital technology, influenced by both formal education and extensive self-study. My interest in lost media started as a hobby but has become a secondary niche in my writing career.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

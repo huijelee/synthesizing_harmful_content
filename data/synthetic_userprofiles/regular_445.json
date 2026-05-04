@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EastSideSquirrel",
+    "account_age": "18 months",
+    "bio": "A 29-year-old graphic designer living in the Upper East Side of Manhattan. I'm a huge fan of the arts and culture here in NYC. I enjoy spending my weekends exploring local cafes and parks with my partner. I'm also a big fan of alternative music scenes, which is why I follow subreddits like scenekids and pond. My weekdays are mostly occupied with work, but I usually find time to browse Reddit in the evenings. I'm passionate about tech gadgets and recently got into GMRS radio as a hobby.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "pond, scenekids",
+    "recent_subreddits": "bose, gmrs"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in graphic design, and I've been working in the field for 7 years. Over the years, I've self-taught a lot about digital marketing and user experience design. I also have a burgeoning interest in sound engineering, which I explore through online courses and community discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

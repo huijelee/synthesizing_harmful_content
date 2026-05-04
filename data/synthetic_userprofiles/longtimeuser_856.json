@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "VexedVoyager",
+    "account_age": "5 years",
+    "bio": "A passionate Warhammer enthusiast based in Portland, Oregon. I've been a fan of tabletop games since my teenage years and have a keen interest in Slaanesh lore. When I'm not strategizing my next army move, you can find me exploring the latest truck simulation games or enjoying the beats of Tyler, the Creator. I work as a software developer for a tech startup, allowing me to balance my time between work and my hobbies. I'm currently single and enjoy spending weekends diving into new gaming communities or hiking the Pacific Northwest trails. My typical online hours are late evenings, usually winding down after a day of coding.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "trucksim, healthyrips, tylerthecreator",
+    "recent_subreddits": "koofrnet, capstone, BreakUps"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong foundation in Warhammer lore, particularly Slaanesh, developed over years of active participation in tabletop gaming and online forums. My expertise in technology stems from a Computer Science degree and hands-on experience working in the tech industry.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "strict"
+  }
+}

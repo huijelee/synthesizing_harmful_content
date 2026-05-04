@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PodCastPro_20XX",
+    "account_age": "6 years",
+    "bio": "I'm a 28-year-old audio enthusiast living in Denver, Colorado. I've been running my own podcast for over five years, where I handle everything from editing to marketing. I'm passionate about audio storytelling and hope to find a career in the same field. I enjoy watching Denver Broncos games and have a soft spot for comedy shows like Reno 911. In my spare time, I mod games like Witcher 3. I'm currently single and typically online in the evenings after work.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "WalgreensRx",
+    "recent_subreddits": "DenverBroncos, Reno911, witcher3mods"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Communications with a focus on Media Production. Most of my skills, such as audio editing and digital marketing, are self-taught through online courses and practical experience managing my podcast.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

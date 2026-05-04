@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ironmikey82",
+    "account_age": "18 months",
+    "bio": "I'm a 30-something gamer and food enthusiast living in the Pacific Northwest. When I'm not battling it out in my favorite mobile games like BattleNight, I love exploring Asian cuisine and experimenting with new recipes in my kitchen. I work as a software developer, which gives me a flexible schedule to indulge in my hobbies. I'm currently single and enjoy spending weekends hiking or attending local music festivals. You'll often find me online in the evenings after work and on weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "asianfood",
+    "recent_subreddits": "songsofsyx"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, which I studied in college. Over the years, I've developed a deep interest in mobile games, both through playing and modding. I'm also passionate about cooking, especially Asian dishes, a skill I've honed through self-teaching and online resources.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

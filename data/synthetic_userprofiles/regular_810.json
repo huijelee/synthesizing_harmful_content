@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "StarForgeSeeker",
+    "account_age": "18 months",
+    "bio": "A passionate gamer and tech enthusiast hailing from Orlando, Florida. I spend my days working as a software developer, primarily coding in Scala. In my free time, I'm often found exploring the vast worlds of Star Wars games or honing my skills in video editing with Kdenlive. Despite my love for tech, I have a contrasting dislike for overly complex game mods that break immersion. Typically online during late evenings, my downtime is usually spent gaming or browsing Reddit. Currently single, I'm focused on advancing my career and expanding my tech expertise.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "ManHands, scala",
+    "recent_subreddits": "UCFstudenthousing, bloodborne, kdenlive"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and several years of experience in software development, my expertise lies in programming languages like Scala and Python. I'm largely self-taught in the area of video editing, frequently using Kdenlive to produce content for personal projects.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

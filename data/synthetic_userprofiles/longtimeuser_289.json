@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SmokerJoe42",
+    "account_age": "7 years",
+    "bio": "Joe is a 34-year-old hobbyist smoker and meat enthusiast who lives in Green Bay, Wisconsin. He works as a software engineer and spends his weekends perfecting his BBQ techniques and trying out new recipes. Joe is married, with two kids, and enjoys sharing his love for grilling with his family. He is generally online during the evenings, particularly active on weekends when he has more free time to engage in his hobbies.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Humor",
+      "Lifestyle"
+    ],
+    "top_subreddits": "DIYhelp, BadlyExplainedPlots, GreenBayHookup",
+    "recent_subreddits": "doofmedia"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Joe has a strong background in computer science, having earned a degree from the University of Wisconsin-Madison. He has cultivated a deep knowledge of BBQ and smoking through years of practice and participation in online forums and local grilling competitions. Joe stays updated on new techniques and equipment through avid reading and experimentation.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

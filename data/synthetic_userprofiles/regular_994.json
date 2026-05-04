@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousMustangFan",
+    "account_age": "18 months",
+    "bio": "Hola! Soy un entusiasta de los autos, especialmente de los Mustangs. Vivo en el \u00e1rea de Dallas y trabajo como analista de datos para una startup de tecnolog\u00eda. Me encanta leer novelas web durante mi tiempo libre, especialmente 'Omniscient Reader'. No soy muy fan de las multitudes, as\u00ed que prefiero las reuniones peque\u00f1as con amigos. Actualmente estoy soltero y por lo general estoy en l\u00ednea por las noches, despu\u00e9s del trabajo. Me gusta probar diferentes tipos de whisky, lo cual es una pasi\u00f3n reciente que desarroll\u00e9.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "MustangsCrashing",
+    "recent_subreddits": "OmniscientReader, WhiskyDFW"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Mi conocimiento en tecnolog\u00eda proviene principalmente de mi trabajo y de cursos en l\u00ednea que he tomado para avanzar en mi carrera profesional. Tambi\u00e9n soy un \u00e1vido lector, lo que me ha permitido explorar una amplia variedad de temas, desde autos hasta literatura. Mi inter\u00e9s reciente en whisky me ha llevado a investigar mucho sobre destiler\u00edas y t\u00e9cnicas de producci\u00f3n.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

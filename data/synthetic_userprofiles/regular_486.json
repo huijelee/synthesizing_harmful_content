@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavant85",
+    "account_age": "18 months",
+    "bio": "I'm a 38-year-old tech enthusiast living in Austin, Texas. My passion for technology started early, and I've been working as a software engineer for over a decade. In my free time, I enjoy exploring new tech gadgets, watching obscure movies, and diving deep into internet rabbit holes. I'm a night owl, typically online from late evening until the early hours. I'm currently single and enjoy the independence that comes with it.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "isawthatyearsago, Find_My_Porn, benzodiazepines",
+    "recent_subreddits": "AZMenGW"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Computer Science and have worked in various tech companies focusing on software development and product management. I've always been a self-learner, frequently updating my skills through online courses and tech forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DeckDabbler123",
+    "account_age": "6 months",
+    "bio": "A 28-year-old tech support specialist from Rennes, France. Recently got into Magic: The Gathering and loves experimenting with different decks, although not always successfully. Enjoys watching Masterchef and collecting vintage military surplus in free time. Typically online during late evenings after work. Single and enjoys socializing with fellow gaming enthusiasts.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Masterchef, Rennes",
+    "recent_subreddits": "MilsurpCollectors, SCYTHE, workplace"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "New to Magic: The Gathering, primarily self-taught through online guides and watching YouTube tutorials. Has a basic understanding of the game mechanics but lacks in-depth knowledge of card synergies and meta strategies. Learning through trial and error in online matches.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

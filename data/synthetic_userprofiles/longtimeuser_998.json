@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "RoadKingRider72",
+    "account_age": "7 years",
+    "bio": "I'm a motorcycle enthusiast with a special love for my 2012 Road King. Originally from Denver, I now live in a small town in Oregon where the roads are perfect for riding. My day job is in data science, which I got into after teaching myself through online courses and forums. When I'm not riding or working, I enjoy whitewater rafting and catching volleyball games. I'm single and spend most of my evenings online, either on Reddit or watching motorcycle vlogs.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Lifestyle"
+    ],
+    "top_subreddits": "whitewater, volleyballtraining, datascience",
+    "recent_subreddits": "Raynauds, Indigenous, Kenya"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Extensive self-taught knowledge in data science and a deep understanding of motorcycle maintenance, particularly Harley-Davidsons. Regularly follows educational content on YouTube and reads articles related to these fields.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

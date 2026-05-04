@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CigarConnoisseur1984",
+    "account_age": "10 years",
+    "bio": "A 39-year-old tech enthusiast and cigar aficionado from Austin, Texas. I work as a software developer and spend my free time exploring new tech gadgets and enjoying a good cigar. I'm in a long-term relationship with my partner of 5 years. My typical online hours are in the evenings and weekends, usually after unwinding from a day at work. I'm passionate about hockey, and although I don't play anymore, I actively follow USA Hockey and enjoy discussing games and players.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Lidarr, gaysian",
+    "recent_subreddits": "webos, AndroidWear, USAHockey"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge in cigars comes from years of personal interest and exploration. I started smoking cigars in my late twenties and gradually built up my expertise by attending cigar tastings, reading industry publications, and engaging with fellow enthusiasts on Reddit. In terms of technology, I hold a degree in computer science and have over 15 years of experience working in the tech industry.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

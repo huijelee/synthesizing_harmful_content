@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FazbearLoreMaster",
+    "account_age": "6 years",
+    "bio": "I'm a 28-year-old horror enthusiast living in Portland, Oregon. By day, I work as a software developer, but by night, I'm diving deep into the lore of horror games, especially Five Nights at Freddy's. I enjoy analyzing storylines and connecting with other fans to discuss theories and rankings. My weekends are often spent at local gaming events or exploring the latest indie horror games. I've been in a steady relationship for about two years and enjoy late-night debates about game mechanics and story arcs with my partner. I usually browse Reddit in the late evenings or during my lunch breaks.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "lies",
+    "recent_subreddits": "deadisland, Pathfinder2e, WiiUHacks"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a bachelor's degree in Computer Science, which has fueled my interest in game development and narrative design. I started exploring horror games in college and have been a fan ever since. My expertise comes from years of both playing and reading about horror game mechanics, storylines, and fan theories.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

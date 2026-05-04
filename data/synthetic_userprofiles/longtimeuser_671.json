@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "AlgerianGamer90",
+    "account_age": "5 years",
+    "bio": "Born and raised in Algiers, I'm a 33-year-old software developer with a passion for gaming and neurophilosophy. I studied computer science at the University of Algiers and have been working in the tech industry for over a decade. When I'm not coding or gaming, you can find me exploring the philosophical aspects of neuroscience. I usually browse Reddit during the evenings, especially after work hours. I'm currently single and enjoy spending time with my cat, Whiskers.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Educational"
+    ],
+    "top_subreddits": "EBGAMES, neurophilosophy",
+    "recent_subreddits": "truecodmobile, Soda, Petscop"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in computer science and a career in software development, I have a strong foundation in technology. My interest in neurophilosophy stems from self-study and online courses, where I explore the intersection of mind, brain, and artificial intelligence.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

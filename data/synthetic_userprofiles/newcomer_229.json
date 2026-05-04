@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CryptoNewbie2023",
+    "account_age": "6 months",
+    "bio": "Hi, I'm Alex, a 26-year-old from Austin, Texas. I recently became fascinated with cryptocurrencies and have been exploring the world of Bitcoin. I work as a junior software developer and spend my free time gaming and learning about blockchain technology. I'm single and enjoy hiking on weekends. I typically browse Reddit in the evenings after work, around 7-10 PM CST.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Educational",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "LucianMains",
+    "recent_subreddits": "DerScheisser"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science from the University of Texas, which sparked my interest in technology and cryptocurrencies. I am self-teaching myself about crypto through online courses and forums like Reddit.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

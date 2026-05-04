@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CholesterolSkeptic",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old software engineer from Missoula, Montana, who has a keen interest in nutrition and health optimization. I spend my days coding and managing backend systems, but in my free time, I enjoy researching the latest in dietary science and trying out various diet plans. I am single, and my evenings are often spent on Reddit, exploring subreddits related to my interests or watching the latest episodes of Big Sky. I dislike misinformation and overly sensationalized content. Typically, I'm online during the evenings on weekdays and most of the weekend.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "StimulationAddiction, metalgearsolid, BigSkyTVShow",
+    "recent_subreddits": "MTFHRT_MonoTherapy, DodgeRam"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science, but my interest in nutrition started from a personal health scare two years ago. Since then, I've been self-teaching through books, online courses, and forums. I recently took a genetic test to better understand my body's unique needs, which has deepened my interest in personalized nutrition.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

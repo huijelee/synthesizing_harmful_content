@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "WanderingMD2021",
+    "account_age": "18 months",
+    "bio": "I'm a 29-year-old medical resident living in Baltimore, Maryland. I'm passionate about anime and science fiction, with a particular love for the 'Dune' series. I often find myself browsing Reddit during late-night shifts at the hospital or during my downtime. I'm currently single and enjoy exploring the city whenever I get the chance. Despite my hectic schedule, I try to stay active both online and offline. I dislike overly formal settings and prefer to keep things casual and relaxed.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "General Content"
+    ],
+    "top_subreddits": "MarylandGoneWild, GODUS",
+    "recent_subreddits": "WeebsnNobles, dune, JustKindaDoing"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in medicine, having completed my undergraduate degree in biology before moving on to medical school. My knowledge is primarily based on formal education and hands-on experience gained during my residency. I also have an interest in technology and gaming, which I've pursued through self-teaching and online communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

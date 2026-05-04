@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieHunter123",
+    "account_age": "5 months",
+    "bio": "I'm an avid gamer and budding blacksmith from the Midwest. I recently picked up an interest in historical reenactment and love spending my weekends practicing blacksmithing techniques. I'm currently working as a junior IT technician, which means I spend a lot of time in front of the computer both for work and leisure. My partner and I enjoy cozy movie nights, especially films from the Criterion Channel. I usually hop onto Reddit after work hours, around 7 PM, and often stay up late exploring new hobbies.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "nigehaji",
+    "recent_subreddits": "blacksmithing, TVigil, CriterionChannel"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in IT, having studied Information Systems at a community college. My interest in blacksmithing is relatively new, sparked by YouTube tutorials and local workshops. I'm also passionate about gaming, particularly action-adventure titles, which often leads me to explore related subreddits.",
+    "typical_text_length": "brief comments",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

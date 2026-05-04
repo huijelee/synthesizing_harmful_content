@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MedPrepGuru",
+    "account_age": "7 years",
+    "bio": "I'm a longtime Redditor based in Charlotte, NC. By day, I'm a research assistant in a local university's biochemistry department. I spend my free time preparing for the MCAT, experimenting with salsa recipes, and keeping up with the latest technology trends. I\u2019m a huge fan of Odd Future and enjoy discussing their music with other fans. Most of my Reddit activity happens in the evenings, especially after 8 PM, as that's when I unwind from work. Currently in a relationship and enjoy spending weekends exploring new places or trying out new tech gadgets.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "SalsaSnobs, OFWGKTA",
+    "recent_subreddits": "AMD_Technology_Bets, Charlotte, Truthoffmychest"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a bachelor's degree in Biochemistry and a minor in Psychology, I have a strong foundation in the sciences. My interest in technology has led me to self-teach programming and keep up with the latest advancements in hardware. My MCAT preparation has further deepened my understanding of complex biological and chemical concepts.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "AnimeExplorer2023",
+    "account_age": "6 months",
+    "bio": "I'm a 24-year-old software developer based in San Francisco, originally from Seattle. I have a keen interest in anime, particularly isekai and dark fantasy genres. When I'm not coding or watching anime, I enjoy exploring lost media and dabbling in astrophotography. I usually browse Reddit during the evenings after work and on weekends. Currently single, I enjoy connecting with communities that share my interests.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "MoviesAnywhere, discexchange",
+    "recent_subreddits": "lostmedia, brdev, AskAstrophotography"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I graduated with a degree in Computer Science from a west coast university. My knowledge of anime comes from years of watching, online discussions, and recommendations. I also actively follow updates on streaming platforms like Crunchyroll.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

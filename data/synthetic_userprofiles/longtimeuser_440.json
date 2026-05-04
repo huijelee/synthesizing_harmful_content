@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvyNomad",
+    "account_age": "7 years",
+    "bio": "I'm a 35-year-old network engineer and tech enthusiast based in Austin, Texas. Having spent over a decade in the IT field, I enjoy solving complex network issues and am always on the lookout for the latest tech gadgets. My interests range from motorcycles to exploring new hiking trails. I'm a night owl, often active on Reddit during late hours. Currently single, I relish the freedom of solo road trips on my KLR650. I dislike crowded places and unnecessary tech jargon. I work remotely, which allows me to balance work and my outdoor adventures.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "servers",
+    "recent_subreddits": "kingsnottrash, Whore_Club, klr650"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Computer Science and over 10 years of hands-on experience managing enterprise networks. My expertise includes setting up and troubleshooting mesh networks. I stay updated through online courses and tech forums.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

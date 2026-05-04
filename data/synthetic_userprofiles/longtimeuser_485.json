@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HookedOnGaming",
+    "account_age": "5 years",
+    "bio": "A passionate gamer based in Toronto, Canada, who has been exploring virtual worlds since childhood. With a focus on survival horror games, I enjoy analyzing game mechanics and providing constructive feedback to developers. Outside of gaming, I work as a software engineer, which gives me plenty of insight into the technical aspects of game design. I am single and spend most of my evenings and weekends playing games or participating in online discussions. I also have a keen interest in nasal health due to personal experiences with nasal polyps.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Lifestyle"
+    ],
+    "top_subreddits": "NasalPolyps, casualnintendo",
+    "recent_subreddits": "polybi, LightWorkers, RecRoom"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and a decade of experience in software development, my expertise lies in understanding complex systems. I've self-taught myself about game design through various online courses and extensive gameplay. My experience with nasal polyps has led me to research medical articles and participate in health forums for better understanding and management.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

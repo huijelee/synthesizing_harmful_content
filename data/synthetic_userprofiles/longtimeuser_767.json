@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "BluRayConnoisseur_88",
+    "account_age": "7 years",
+    "bio": "A self-proclaimed tech geek and audiovisual enthusiast, hailing from Melbourne, Australia. I spend my evenings tinkering with retro gaming setups and exploring the intricacies of CRT technology. I work as a systems analyst by day and delve into creative writing on Wattpad by night. Happily single, I enjoy the freedom to pursue my hobbies, and you'll often find me active on Reddit during late-night hours when the rest of the city sleeps.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "Wattpad, RobloxParkour, RLTradingAdvice",
+    "recent_subreddits": "RippleScam, unimelb, lasercutting"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a deep understanding of consumer electronics, especially vintage audio-visual equipment, acquired through years of self-teaching and community engagement. My expertise is also supported by a formal education in Computer Science, which I occasionally apply in my professional life.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

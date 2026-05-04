@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "StockNewbie123",
+    "account_age": "4 months",
+    "bio": "I'm a 27-year-old finance enthusiast from Denver, Colorado. I recently got into stock trading and have been learning the ropes through various subreddits. I work as a software developer during the day and dive into stock analysis and discussions in the evening. I'm currently single and enjoy skiing on weekends. You'll often find me online late at night, exploring potential stock picks and interacting with other novice traders. I dislike repetitive content and prefer posts with substantial information. I'm all about finding the next big stock move!",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Educational"
+    ],
+    "top_subreddits": "Reflecto, skiing",
+    "recent_subreddits": "Theultimatedrive, UWMCShareholders, Musicthemetime"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a computer science degree from a state university. My knowledge of stocks comes mainly from self-teaching via online resources and communities like Reddit. I actively read finance blogs and watch YouTube tutorials in an attempt to sharpen my trading skills.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

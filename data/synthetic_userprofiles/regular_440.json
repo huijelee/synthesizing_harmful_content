@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CampusConundrum_42",
+    "account_age": "18 months",
+    "bio": "I'm a sophomore at Rensselaer Polytechnic Institute, currently navigating the complexities of remote learning decisions. Originally from a small town in New York, I have a keen interest in technology and gaming, especially Fortnite and Knockout City. I'm also an avid reader and love tracking my reading progress on BookTrack. I usually browse Reddit late at night, after my part-time shifts at a local bookstore. Currently single, I balance my time between studies, work, and my gaming sessions.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "BookTrack",
+    "recent_subreddits": "FortniteBRuniversity, KnockoutCity, HPQSiliconInvestors"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a solid foundation in computer science and technology, which I am expanding through my studies at RPI. My knowledge is a mix of formal education and practical experience, particularly in gaming and online communities. I've also self-taught a lot about financial literacy due to my background.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "FreshmanGamer23",
+    "account_age": "6 months",
+    "bio": "I'm a freshman at Columbia University, majoring in computer science. I love playing Elder Scrolls Online on my PS4 during my downtime and enjoy exploring different game mods. I recently got into social media tweaks, especially for Snapchat. I'm originally from San Francisco and typically browse Reddit in the evenings after classes. I'm single and often spend my weekends gaming or hanging out with friends at local caf\u00e9s.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "ElderScrollsOnlinePS4",
+    "recent_subreddits": "SnapchatTweaks, Jaeger_bomb"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong passion for gaming and technology, having built my first custom PC in high school. I'm currently expanding my knowledge in computer science through my coursework at Columbia, and I frequently take online courses to learn more about game development and software tweaks.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

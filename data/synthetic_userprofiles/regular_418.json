@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvyGamer32",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old tech enthusiast and casual gamer from Minneapolis, Minnesota. I work as a software developer during the day, and in my free time, I enjoy exploring new tech gadgets and gaming on my Hisense TV. I'm in a committed relationship and often spend evenings with my partner unwinding with some Arrowverse shows or listening to 93x. I dislike social media interruptions during personal time, which might explain my active participation in discussions around relationship dynamics. I usually browse Reddit during my lunch breaks and late at night after work.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Hisense",
+    "recent_subreddits": "93x, Arrowverse"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a Bachelor's degree in Computer Science from the University of Minnesota. My tech knowledge is bolstered by years of self-teaching and staying updated with the latest in software development and consumer electronics. I also follow the entertainment industry closely, given my interest in TV shows and gaming.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

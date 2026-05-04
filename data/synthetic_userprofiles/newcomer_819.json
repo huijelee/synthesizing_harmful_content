@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MidwestSoberJourney",
+    "account_age": "6 months",
+    "bio": "A 34-year-old from Wisconsin trying to navigate the challenging path of sobriety while balancing work as a mechanical engineer. In my free time, I delve into philosophical readings, particularly the works of Krishnamurti, which offer me solace and perspective. I live alone in a small apartment and am currently single, focusing on my personal growth and well-being. My typical online hours are evenings after work, where I engage with communities that support personal development and sobriety.",
+    "top_subreddit_categories": [
+      "Lifestyle",
+      "Educational",
+      "Discussion"
+    ],
+    "top_subreddits": "quotes",
+    "recent_subreddits": "SonsOfTheForest, Krishnamurti"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong background in engineering, having graduated with a degree in Mechanical Engineering from the University of Wisconsin. My interest in philosophy and personal development stems from self-study and attending local discussion groups. Recently, I've been exploring topics related to sobriety, often diving into self-help books and online resources.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

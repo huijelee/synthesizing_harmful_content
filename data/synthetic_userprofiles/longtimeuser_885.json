@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "IowaTechie42",
+    "account_age": "8 years",
+    "bio": "I'm a 34-year-old IT consultant originally from Iowa, currently residing in Groningen, Netherlands. I have a degree in Computer Science and a deep passion for building custom PCs, which started during my college days. I love staying updated on tech trends and helping newcomers to the tech world. In my free time, I follow the Iowa Hawkeyes' games religiously and explore local culture and food here in the Netherlands. I'm usually online during the evenings, European time. I'm single and enjoying the expat life, making friends from all over the world.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "hawkeyes, Iloilo, Groningen",
+    "recent_subreddits": "orangeville"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have over a decade of experience in IT and tech consulting, primarily focusing on hardware and network solutions. My knowledge comes from formal education, hands-on experience in various IT roles, and a keen interest in self-learning through books and online courses. I frequently participate in tech discussions and enjoy sharing my knowledge with others.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

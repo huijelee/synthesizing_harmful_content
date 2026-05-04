@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "cosmicVoyager22",
+    "account_age": "9 months",
+    "bio": "I'm a 23-year-old aspiring astronomer based in a small town in the Midwest. My passion for space and technology led me to pursue a degree in astrophysics, currently in my final year at university. I spend my evenings stargazing whenever the weather permits and am fascinated by the potential of satellite internet to connect remote regions. I work part-time at a local bookstore, which allows me to indulge in my love for science fiction. As a single individual, I\u2019m exploring the nuances of adult life, often reflecting on existential thoughts. I usually browse Reddit in the late evenings after my shifts or on weekends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "Starlink",
+    "recent_subreddits": "Teacheer, JoJoITA"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge in astronomy and astrophysics stems from my academic studies, supplemented by countless hours of self-study through online courses and documentaries. I've developed a keen interest in satellite technologies and their societal impacts, especially since discovering Starlink.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

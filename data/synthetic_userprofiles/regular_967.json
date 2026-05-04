@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EduGamer42",
+    "account_age": "18 months",
+    "bio": "Edu is a 19-year-old university student from S\u00e3o Paulo, Brazil, currently pursuing a degree in computer science. He has a keen interest in video games and technology, often spending his weekends playing Among Us with friends or watching YouTube videos about the latest tech trends. Edu also follows pop culture, particularly fascinated by music figures like Kanye West and actors like Scarlett Johansson. When he's not studying or gaming, he enjoys participating in online discussions related to atheism and evolutionary science. Typically online in the evenings and late at night, Edu often balances his time between university assignments and his part-time job as a freelance web developer. He's currently single, focusing on his studies and career.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "EvoWorldio, Dear_Mr_Atheist, ScarlettJohansson",
+    "recent_subreddits": "Kanye, playAmongUs, eGolf"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Edu has a strong foundation in computer science, primarily gained through his university coursework and personal projects. He is self-taught in web development, using resources like online tutorials and developer forums. His interest in technology is complemented by a curiosity about pop culture and scientific discussions, which he explores through various subreddits.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

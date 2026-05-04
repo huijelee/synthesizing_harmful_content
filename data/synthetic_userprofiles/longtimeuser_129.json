@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "RedditRover1987",
+    "account_age": "10 years",
+    "bio": "A 36-year-old software developer based in Bangalore, India. Passionate about coding and gaming, with a special interest in strategy games and simulators. Enjoys watching reality TV shows like Bigg Boss and often finds parallels between game strategies and real-life situations. In a committed relationship and spends weekends exploring the local culinary scene with their partner. Typically online during late evenings and weekends, striking a balance between work and leisure.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "simrally, BALLET",
+    "recent_subreddits": "HorusHeresyLegions, HaloWars, GrillaGrills"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "A seasoned software developer with a Bachelor's degree in Computer Science. Gained expertise through years of working in tech startups and personal projects. Frequently updates knowledge base with online courses and community-driven projects.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

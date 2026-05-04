@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "DotaNewbie_123",
+    "account_age": "6 months",
+    "bio": "Hi! I'm Alex, a software engineering student based in Toronto, Canada. I've recently dived into the world of Dota 2 and am loving the complexity and strategy it offers, even though I find myself frequently overwhelmed by heroes like Invoker. Aside from gaming, I'm passionate about PC hardware and often help friends build custom setups. I'm usually online during the evenings after classes, and I like to unwind with a good game or two. I'm single and often hang out with my college buddies on weekends, exploring new cafes and tech stores.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Entertainment"
+    ],
+    "top_subreddits": "SyrianCirclejerkWar, DellG5SE",
+    "recent_subreddits": "Propnight, Steep"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Alex is a self-taught gamer who learned Dota 2 through online tutorials and streams. His background in software engineering also fuels his interest in tech-related topics, which he explores through YouTube videos and tech forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

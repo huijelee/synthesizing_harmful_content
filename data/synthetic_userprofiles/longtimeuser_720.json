@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PuckWizard87",
+    "account_age": "7 years",
+    "bio": "Avid fantasy hockey player and dedicated Redditor from Fort Erie, Canada. With a passion for statistics and strategy, I spend my free time managing multiple fantasy teams across different platforms. By day, I'm a data analyst for a tech startup, allowing me to work flexibly and often check Reddit during breaks. I love video games, particularly the Fallout series, and enjoy exploring the latest in cryptocurrency. I'm in a long-term relationship, and my partner and I share a love for travel, though I often battle a fear of flying. Typically online during late evenings, especially when games are on.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "OfficialFlokiInu, forterie, Fallout",
+    "recent_subreddits": "inkr, fearofflying"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science and a lifelong passion for hockey, I have honed my analytical skills through years of managing fantasy teams and working in data analytics. I frequently self-teach new skills related to my job and hobbies, staying updated with the latest trends in both tech and sports analytics.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

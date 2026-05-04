@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavvyExplorer",
+    "account_age": "18 months",
+    "bio": "Based in Seattle, I've always been fascinated by the latest tech gadgets and home automation systems. By day, I work as an IT support specialist for a mid-sized tech firm, and by night, I'm usually found tinkering with network setups or watching the latest sci-fi series. I'm passionate about helping others troubleshoot tech issues, though I find myself frustrated by poorly designed apps. I'm single and enjoy spending weekends exploring hiking trails around the Pacific Northwest. I typically browse Reddit in the evenings during the week and sporadically throughout the weekend.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Lifestyle",
+      "Educational"
+    ],
+    "top_subreddits": "FAFSA",
+    "recent_subreddits": "casa, HGTV, SupermanAndLois"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a bachelor's degree in Information Technology and have been working in IT support for over five years. My expertise is mostly self-taught through hands-on experience and staying updated with the latest tech trends. I have a strong understanding of network configurations and troubleshooting.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

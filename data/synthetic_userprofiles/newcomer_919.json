@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PenPrecisionNewbie",
+    "account_age": "8 months",
+    "bio": "I'm a university student from the UK, currently in my first year of A-levels. I'm passionate about science, and I'm particularly interested in biology and chemistry. Outside of academics, I love playing video games on Steam and I'm trying my luck with fantasy football. I have Type 1 Diabetes, which has led me to explore different ways of managing my condition through diet and technology. I'm usually online in the evenings, especially after school and during weekends. Currently single, but enjoying the social scene at school.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Technology",
+      "Lifestyle"
+    ],
+    "top_subreddits": "6thForm, Steam",
+    "recent_subreddits": "getluckyasa, Amarin"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong background in sciences, thanks to my A-level courses. I've also spent considerable time researching diabetes management techniques online and through community forums. My tech knowledge is mostly self-taught through gaming and online tutorials.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

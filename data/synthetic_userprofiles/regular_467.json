@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "VirtualNomad2021",
+    "account_age": "18 months",
+    "bio": "A 29-year-old digital marketing specialist living in Austin, Texas. Passionate about technology and its intersection with daily life, I spend my days working from home and my evenings exploring culinary adventures with my air fryer. In my downtime, I delve into the world of subliminals and enjoy reading fantasy novels. Recently single and embracing the freedom to explore new hobbies, I typically browse Reddit during late evenings after work commitments. Big fan of mystery novels and often contribute to discussions about speculative technology and remote work.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Technology"
+    ],
+    "top_subreddits": "InDeathUnchained, WFH",
+    "recent_subreddits": "AirFryers, Subliminals"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a degree in Marketing from the University of Texas and has been working in digital marketing for over 5 years. Gained expertise in remote work technologies and productivity tools, largely through self-teaching and practical experience during the pandemic.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TransitTechie42",
+    "account_age": "18 months",
+    "bio": "I'm a civil engineer specializing in transportation infrastructure, currently based in Seattle, WA. I have a keen interest in space exploration and virtual reality, often spending my weekends experimenting with VR setups or stargazing. I dislike poorly structured manuals and appreciate detailed guides. I work full-time for a consulting firm and am pursuing my PE certification. Typically, I'm online in the evenings after work, and weekends are my deep-dive time into hobbies. I'm happily single, enjoying the freedom to explore my passions.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "spaceengineers, vrbo",
+    "recent_subreddits": "Cinemarules, promotereddit, cymbaltasafetaper"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Civil Engineering and have been working in the transportation sector for over 4 years. My expertise is backed by both formal education and hands-on project management experience. I regularly update my knowledge through online courses, especially in the field of VR applications in civil engineering.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

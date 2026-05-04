@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "newbie_wrestle_cook",
+    "account_age": "6 months",
+    "bio": "I'm a 25-year-old marketing assistant living in Atlanta, GA. I've recently discovered Reddit and I'm loving it! In my free time, I enjoy cooking with my Le Creuset collection, catching up on the latest in Impact Wrestling, and experimenting with RGB lighting setups for my gaming PC. I usually browse Reddit in the evenings after work and on weekends. I'm currently single and enjoy socializing at local wrestling events and online communities.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "DFO",
+    "recent_subreddits": "LeCreuset, RGBP, ImpactWrestling"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Marketing from a local college, and I am very interested in digital content creation. I am self-taught in the world of professional wrestling fandom, having followed the sport since my teens. My culinary skills are a hobby, inspired by online cooking channels and foodie subreddits.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

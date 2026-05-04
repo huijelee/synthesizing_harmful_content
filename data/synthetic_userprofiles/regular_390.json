@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CakeCraftNovice",
+    "account_age": "18 months",
+    "bio": "I'm a 27-year-old baking enthusiast from Portland, Oregon. By day, I work as a graphic designer, but I spend my evenings experimenting in the kitchen. I love learning new techniques and trying out different recipes, especially when it comes to baking. While I enjoy my job, baking is my true passion. I'm single and live with my two cats, Muffin and Biscuit. I typically browse Reddit during my lunch breaks and late at night. Besides baking, I have a keen interest in naval history and enjoy a good laugh, which is why I frequent joke subreddits.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Humor",
+      "Technology"
+    ],
+    "top_subreddits": "suckless, DMDadJokes",
+    "recent_subreddits": "Warshipcraft"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have no formal culinary training, but I've spent countless hours watching baking shows and reading cookbooks. Most of my knowledge comes from hands-on experience and online communities where I've picked up tips and tricks from fellow baking aficionados. My interest in technology also allows me to explore innovative baking gadgets and techniques.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

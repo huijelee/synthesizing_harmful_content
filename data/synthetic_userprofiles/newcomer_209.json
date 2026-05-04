@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbie23",
+    "account_age": "4 months",
+    "bio": "I'm Alex, a tech enthusiast who recently stumbled into the vast world of Reddit. Originally from Ohio, I'm currently living in Dayton and working as a junior developer at a local startup. When I'm not coding, I enjoy exploring new video games, especially Super Smash Bros, and catching up on episodes of Riverdale. I'm single and usually online during the evenings, particularly after 7 PM, but I often peek at Reddit during lunch breaks too. I'm still learning the ropes around here, so I'm open to advice and tips from seasoned Redditors.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "CryptoCurrency, u_MrStealyogrillll, dayton",
+    "recent_subreddits": "askmilitary, riverdale, supersmashbros"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge is mostly self-taught. I developed an interest in technology and coding during high school, which led me to pursue online courses and tutorials. I try to keep up with the latest trends in cryptocurrency and tech advancements by frequently browsing subreddits like CryptoCurrency.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

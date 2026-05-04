@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechTinkerer_21",
+    "account_age": "7 months",
+    "bio": "I'm a tech enthusiast from San Diego, California with a particular interest in building and tinkering with PCs. I enjoy diving into complex setups like dual-GPU systems for different operating systems. When I'm not immersed in tech, I like to explore the outdoors, especially the trails around Baja California. I work as a junior IT support specialist and often find myself online in the evenings after 6 PM PST. I'm currently single and spend my weekends either gaming or hiking.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Tactics_Ogre, BajaCalifornia",
+    "recent_subreddits": "Spiritfarer, settlethisforme, IndiaTalksSex"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong foundation in computer hardware, largely self-taught through years of building my own rigs and helping friends with their setups. I keep up-to-date with the latest tech news and trends through online forums and tech blogs.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

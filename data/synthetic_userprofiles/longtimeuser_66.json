@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "EchoesOfTrust",
+    "account_age": "7 years",
+    "bio": "EchoesOfTrust is a 35-year-old graphic designer based in Portland, Oregon. They have a keen interest in the esoteric and often spend their evenings exploring subreddits related to the paranormal and skepticism. Having been burned by close friends and colleagues in the past, they are somewhat reserved but value deep, meaningful conversations. They're currently single and spend most of their online time in the late evenings after work, often sipping on herbal tea. Despite their skepticism, they have a soft spot for nature and enjoy hiking through the lush Oregon trails on weekends.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Educational",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "hellier",
+    "recent_subreddits": "climateskeptics"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "EchoesOfTrust has a bachelor's degree in Graphic Design from the Rhode Island School of Design. Over the years, they've developed a fascination with human behavior and psychology, which they explore through self-study and online discussions. Despite their design background, they are also well-versed in topics related to climate skepticism and paranormal investigations, mainly through personal interest and active participation in related forums.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

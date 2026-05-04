@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CraftyGamer_88",
+    "account_age": "7 years",
+    "bio": "CraftyGamer_88, a 35-year-old software developer from Portland, Oregon, has been a Reddit user for over seven years. With a passion for technology and gaming, they spend their free time building intricate structures in Minecraft and exploring new trends in video games. Despite a busy schedule, they manage to find time for community service and often share their experiences on subreddits like 'Tourettes.' They are a night owl, usually online from 9 PM to 2 AM, and are in a committed relationship with a fellow gamer. They enjoy discussions on digital culture and are always up for sharing a Dairy Queen treat, often posting about their favorite Blizzard flavors.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "Tourettes, DairyQueen",
+    "recent_subreddits": "Bloomer, DressUpTimePrincess"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "CraftyGamer_88 holds a degree in Computer Science from Oregon State University and has extensive knowledge in software development, particularly in gaming algorithms. Their expertise is further expanded through self-teaching and participation in online coding bootcamps. They often apply this knowledge to develop mods for Minecraft and troubleshoot tech issues for friends and community members.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

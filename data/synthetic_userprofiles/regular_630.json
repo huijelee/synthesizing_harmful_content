@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CosmicLurker42",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old software engineer living in Austin, Texas. I have a keen interest in tabletop RPGs, particularly 'Blades in the Dark,' and enjoy discussing strategies and game mechanics. Outside of work, I often indulge in astrophysics documentaries and have a soft spot for electronic music production using Logic Studio. I usually browse Reddit in the evenings after work and occasionally during lunch breaks. I'm currently single and enjoy the freedom to explore my hobbies extensively.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Educational",
+      "Entertainment"
+    ],
+    "top_subreddits": "bladesinthedark",
+    "recent_subreddits": "WrestlingGirlsLowBlow, astrophysics, Logic_Studio"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a bachelor's degree in Computer Science and have been working in software development for over 5 years. My interest in tabletop games has led me to participate in various online communities and develop a deep understanding of game mechanics and storytelling. Additionally, my curiosity in astrophysics is mostly self-taught through online courses and documentaries.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "PizzaChef92",
+    "account_age": "18 months",
+    "bio": "A passionate amateur chef from New York City, living the dream one pizza at a time. When I'm not experimenting with my Ooni Pro, you can find me tuning my GMC or diving deep into retro games like Secret of Mana. I'm a tech enthusiast with a soft spot for ham radios and wrestling matches. Usually online in the evenings after work, I work as a software developer and enjoy spending weekends with my partner exploring the city's food scene.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "WrestlingGenius",
+    "recent_subreddits": "gmc, secretofmana, HamRadio"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Self-taught culinary enthusiast with a knack for outdoor cooking and pizza making, honed through countless weekends of trial and error. Also well-versed in classic gaming systems and car maintenance, thanks to years of dedicated hobbyist pursuits.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousWanderer2023",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old travel nurse based in Austin, Texas. Recently joined Reddit to connect with like-minded individuals and keep up with news and drama from around the world. I enjoy exploring new places and have a keen interest in true crime, particularly following high-profile cases. My schedule varies, but I usually browse Reddit during late-night hours. Currently single, and in my free time, I love hiking and participating in local community events.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Discussion",
+      "Entertainment"
+    ],
+    "top_subreddits": "TravelNursing, BrianLaundrieTrial",
+    "recent_subreddits": "joshswainbattle, ModsAreKillingReddit"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My knowledge is mostly from my work as a travel nurse, which has given me a deep understanding of healthcare systems and patient care. I also have a strong interest in global news and drama, often keeping up with international events and social media trends.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

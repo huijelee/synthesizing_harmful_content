@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "nostalgic_typist",
+    "account_age": "5 years",
+    "bio": "A jack of many trades, 'nostalgic_typist' hails from the vibrant city of Vienna, Austria. Passionate about music and literature, they spend their time dabbling in both, often sharing their thoughts and creations on Reddit. They are a freelance copywriter by profession, using their skills to craft compelling narratives for various clients. In their spare time, they are an indie musician, finding solace in the melodies of the 90s. Not a fan of rigid structures, they prefer the spontaneous flow of creativity. Typically online during late evenings, they enjoy engaging with communities that share their interests. Currently single, they value their independence and the freedom it brings.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Educational"
+    ],
+    "top_subreddits": "UPSC",
+    "recent_subreddits": "copywriting, 90s, Adobe"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Literature and years of experience in freelance copywriting, they have honed their skills in crafting engaging content. Their love for the 90s music scene has been a driving force in their musical journey, allowing them to self-teach various instruments and production techniques.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewWaveExplorer",
+    "account_age": "7 months",
+    "bio": "I'm a high school student from Austin, Texas, navigating the world of online communities. I've got a passion for cycling and a budding interest in classic shoes, inspired by my dad's collection of Allen Edmonds. Music is my escape, though lately, rap has become too repetitive for my taste. My typical day revolves around school, cycling through the city trails, and diving deep into new hobbies I discover online. I'm single, focusing on my studies and personal growth. You'll often find me browsing Reddit in the late evenings, after homework and dinner.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "ADHDpremed, cowboybikes",
+    "recent_subreddits": "allenedmonds"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a general knowledge base typical of a high school junior. My understanding of ADHD largely comes from personal experience and discussions on ADHDpremed. My interest in cycling and shoes is mostly fueled by community posts and personal exploration. I'm continually learning about music genres and broadening my horizons beyond mainstream rap.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

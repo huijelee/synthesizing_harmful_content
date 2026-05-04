@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechNewbie123",
+    "account_age": "6 months",
+    "bio": "I'm a 25-year-old electrical engineering student from Karachi, Pakistan. My journey into electronics started in my first year of university, and I've been fascinated ever since. I love tinkering with DIY electronics projects and am currently diving into cryptocurrency and blockchain technology, which explains my frequent visits to EthereumMax. Besides tech, I have a sweet tooth and enjoy baking, often sharing my creations on MoonBud. My typical online hours are late at night, usually between 10 PM and 2 AM local time, as I juggle university assignments and part-time work as a barista. I'm currently single and enjoy spending my free time learning new skills or catching up on tech trends.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Educational"
+    ],
+    "top_subreddits": "MoonBud, cakedefi, Overseas_Pakistani",
+    "recent_subreddits": "EthereumMax, OneNote"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Currently in the third year of an electrical engineering program, I have a foundational understanding of electronics, which is constantly being expanded through coursework and personal projects. My understanding of blockchain and cryptocurrencies is mostly self-taught, fueled by online resources and discussions on forums like EthereumMax.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

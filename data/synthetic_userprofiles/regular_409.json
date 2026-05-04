@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LonelyHoodoo42",
+    "account_age": "18 months",
+    "bio": "Just a guy navigating through life in the Southern US. I'm into programming, especially game development, and spend my free time exploring the mysteries of conjure and hoodoo practices. I work part-time at Chick-fil-A, which gives me the flexibility to dive deep into my hobbies. Not a fan of huge crowds, but I enjoy meaningful one-on-one conversations. I'm single and content, focusing on self-growth. You can usually find me online during late evenings when the world quiets down.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Technology"
+    ],
+    "top_subreddits": "ChickFilAWorkers",
+    "recent_subreddits": "raylib, NextOrder, ConjureRootworkHoodoo"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a background in computer science, having completed some college courses. Most of my game development skills are self-taught through online resources and community forums. My interest in hoodoo and conjure is purely personal and stems from a deep-rooted cultural curiosity, nurtured by reading and connecting with online communities.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

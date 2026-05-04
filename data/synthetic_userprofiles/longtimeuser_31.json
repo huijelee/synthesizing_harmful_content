@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechGuru42",
+    "account_age": "8 years",
+    "bio": "I'm a software developer based in Seattle with a passion for technology and gaming. I love discussing the latest tech trends and helping others with their programming challenges. When I'm not coding, you can find me immersed in Warhammer 40k lore or editing video projects in Final Cut Pro. I usually browse Reddit during breaks throughout the day and late at night. I'm currently single and enjoy the flexibility my lifestyle affords me.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "finalcutpro, ADHD_Programmers",
+    "recent_subreddits": "40k"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a degree in Computer Science and have been working as a full-stack developer for over a decade. My expertise lies in developing web applications and optimizing software performance. Additionally, I am self-taught in video editing and have a deep interest in digital privacy and security.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

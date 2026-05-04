@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CryptoExplorer84",
+    "account_age": "18 months",
+    "bio": "A 39-year-old tech enthusiast residing in Greeley, Colorado. Passionate about cryptocurrencies and blockchain technology, often dabbling in online trading during free time. Works as a systems analyst in a local tech firm. Enjoys gaming, particularly games like 'Star Wars Jedi: Fallen Order', and regularly tunes into Reddit for tech updates and community discussions. Prefers quiet evenings with family and is a proud owner of a Labrador. Usually active on Reddit during late evenings.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Greeley, ipod",
+    "recent_subreddits": "PakistaniiConfessions, FallenOrder, labrats"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a degree in Computer Science and has over a decade of experience working in IT. Developed a keen interest in cryptocurrencies about two years ago after attending a local blockchain seminar. Continuously learning through online courses and community interactions.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

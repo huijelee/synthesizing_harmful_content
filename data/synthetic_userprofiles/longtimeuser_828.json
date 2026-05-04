@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "OmenMaster1995",
+    "account_age": "5 years",
+    "bio": "I'm a 28-year-old software engineer from Seattle, Washington who loves to unwind with a good game of VALORANT. My love for gaming started in my early teens, and I've been an avid player ever since. Apart from gaming, I have a keen interest in tech innovations and often explore new software tools. On weekends, you can find me hiking in the Cascades or exploring new eateries in the city. I'm currently in a relationship with my college sweetheart and we share a cozy apartment with our golden retriever, Max. I usually browse Reddit in the evenings after work or during my lunch breaks.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "AntiGachasCringe, PetPeeves, Bitburner",
+    "recent_subreddits": "recordthis, BlueStacks"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I hold a Bachelor\u2019s degree in Computer Science and have been working in software development for the past six years. My expertise lies in backend development, but I've recently started delving into game development as a hobby. I often turn to Reddit and other online communities for the latest trends and problem-solving techniques in my field.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

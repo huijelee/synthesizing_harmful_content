@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CraftyBrewFanatic",
+    "account_age": "18 months",
+    "bio": "I'm a craft beer enthusiast hailing from San Diego, California. I work as a software engineer by day and a homebrewer by night. My weekends are often spent exploring local breweries or catching up on the latest in the craft beer community. I have a keen interest in rare and limited-edition beers, particularly those with unique flavor profiles. I'm usually online in the evenings, around 7-11 PM PST, after a long day of coding. I'm in a long-term relationship with my partner who shares my passion for beer tasting and travel.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "rav4prime, legendarymarvel, NMS_UCA",
+    "recent_subreddits": "LumberTycoon"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a deep knowledge of craft beer, developed over years of personal interest and experience. I've attended various beer festivals and have been a member of several beer clubs. My technical expertise comes from my background in computer science, having earned a degree in the field and worked in tech for over 5 years.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

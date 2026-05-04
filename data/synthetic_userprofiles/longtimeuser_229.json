@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CapaCraftUK",
+    "account_age": "6 years",
+    "bio": "I'm a passionate airsoft enthusiast based in the UK, with a particular love for customizing Hi-Capa pistols. I spend my weekends either at the local airsoft field or tinkering in my workshop. Apart from airsoft, I enjoy heavy metal music and have a knack for coding, often contributing to open-source projects. I'm a software engineer by profession, which allows me the flexibility to browse Reddit during the late evenings and on lunch breaks. Currently, in a committed relationship, I often share my hobbies with my partner who is also into airsoft.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Technology"
+    ],
+    "top_subreddits": "HeavyMetalAndOrgies, codes",
+    "recent_subreddits": "handbalancing, sexystories, UCD"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong background in mechanical engineering, which I pursued during my university days. My expertise in airsoft customization stems from years of hands-on experience and countless hours spent on forums and YouTube tutorials. Additionally, my coding skills are self-taught, honed through various online resources and community projects.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSavant42",
+    "account_age": "24 months",
+    "bio": "An IT consultant based out of Manchester, UK, who has a deep passion for building custom PCs and gaming. Enjoys exploring the latest in technology and often shares insights and advice on PC builds. Outside of tech, I'm a huge fan of RPG games, particularly the Final Fantasy series, and spend weekends diving into classic titles. Typically online during late evenings after work. Currently in a relationship and often shares tech tips with a significant other who is also a tech enthusiast.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "skypensfw, PSOads",
+    "recent_subreddits": "NIU, FinalFantasyIX, tiktokporn"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a bachelor's degree in Computer Science and has been building PCs since teenage years. Extensive self-taught knowledge in overclocking and optimizing PC performance. Regularly reads tech blogs and forums to stay updated on the latest hardware trends.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

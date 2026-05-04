@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "MurderMysteryMaven",
+    "account_age": "12 years",
+    "bio": "A true crime enthusiast from the Pacific Northwest with a penchant for dark humor and late-night Reddit binges. I work as a freelance writer, often covering crime, mystery, and the odd historical deep dive. When I'm not glued to my laptop, I'm either at a local bookshop or hiking the trails of Washington State. I'm happily single, and my cats, Poe and Christie, keep me company. You'll find me most active on Reddit during evenings and weekends.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Entertainment",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Bolehland",
+    "recent_subreddits": "FollowersofCyberJudy, Zwolle, CompetitivePUBG"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I've been a true crime aficionado since my teens, sparked by a fascination with unsolved mysteries and the psychology of criminals. My knowledge is largely self-taught through extensive reading, documentaries, and listening to countless podcasts. Additionally, my background in journalism helps me critically analyze and engage with true crime content.",
+    "typical_text_length": "multiple paragraphs",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousMind_123",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old software developer based in Seattle, exploring the world of mental health management as I navigate my own journey. I have a keen interest in languages, particularly Mandarin, and I often spend my evenings practicing on language apps and engaging with the ChineseLanguage subreddit. When I'm not coding or learning languages, you might find me unwinding with some gaming, especially in the Max Payne series or Battlefield V. I'm single and enjoy the freedom to explore my hobbies. My typical online hours are late evenings, usually after 8 PM PST, when I can relax and catch up on my favorite subreddits.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "ChineseLanguage, maxpayne",
+    "recent_subreddits": "BattlefieldV, InternalFamilySystems, pvzheroescirclejerk"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My background in software development stems from a Computer Science degree and several years of work experience in tech companies. I've always been a self-learner, which led me to pick up Mandarin through online resources and community forums. My interest in mental health is more personal, driven by my own experiences with medications like Effexor and Wellbutrin.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

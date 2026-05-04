@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechSIPGuru",
+    "account_age": "24 months",
+    "bio": "Based in Seattle, this user is a dedicated IT professional specializing in telecom systems. With a strong passion for technology, they enjoy exploring the latest advancements in SIP phones and VoIP solutions. They often spend time on Reddit in the evenings, usually after 7 PM PST, when they're done with their day job at a mid-sized Managed Service Provider (MSP). When not working or online, they enjoy playing guitar, particularly songs by Alice in Chains, and occasionally dabble in creating digital art. Single and focused on career growth, they have little patience for inefficiencies, both in technology and in life.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "AliceInChains, furryjerk",
+    "recent_subreddits": "BlueProtocolOnline, PatMac, u_vividrainbows"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "This user has a background in computer science and has extensive experience working with various SIP systems through their job at an MSP. They have self-taught many of the nuances of different hardware models, often testing and troubleshooting devices to better understand their features and limitations.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

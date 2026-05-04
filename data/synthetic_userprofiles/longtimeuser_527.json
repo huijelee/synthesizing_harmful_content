@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "OrbitalDoctor",
+    "account_age": "8 years",
+    "bio": "A 35-year-old aerospace engineer by day, Reddit enthusiast by night. Passionate about space exploration and celestial phenomena. Resides in the bustling city of Norfolk, Virginia, enjoying the coastal views and vibrant tech community. Often online during late evenings due to a demanding job. Married to a fellow science geek, no kids yet, but two cats named Apollo and Luna. Dislikes misinformation, especially in scientific contexts, and has a keen interest in mentoring young engineers.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "KerbalAcademy",
+    "recent_subreddits": "HamptonRoadsHookups, PixelWorlds, TI_Calculators"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Holds a Master's degree in Aerospace Engineering from Virginia Tech and has worked at a major aerospace company for over a decade. Deeply interested in space technologies and enjoys learning about medicine and biology as hobbies. Often self-teaches through online courses and scientific journals.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

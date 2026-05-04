@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HuskyLabLover2023",
+    "account_age": "5 months",
+    "bio": "I'm a 28-year-old dog lover from Portland, Oregon. I live with my partner and our beloved 7-year-old husky/lab mix. By day, I work as a freelance graphic designer, which allows me to work flexible hours. I often spend my mornings and evenings online, typically browsing Reddit threads related to dogs, food safety, and history. I have a keen interest in understanding ancient civilizations, thanks to my minor in History during college. I love trying out new recipes and ensuring they are safe to consume, which is why 'foodsafety' is a recent interest of mine. In my free time, I enjoy listening to Cuarteto De Nos, a band I've recently discovered and can't get enough of.",
+    "top_subreddit_categories": [
+      "Animals",
+      "Educational",
+      "Lifestyle"
+    ],
+    "top_subreddits": "CuartetoDeNos",
+    "recent_subreddits": "foodsafety, u_moghazal, HistoriaCivilis"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a solid understanding of graphic design, which I pursued both in college and through self-teaching online courses. My interest in dogs stems from having grown up with several pets, and I regularly follow dog-care blogs and forums. My curiosity about history is both from formal education and personal reading.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

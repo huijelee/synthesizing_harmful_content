@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CartiLibertarianPro",
+    "account_age": "5 years",
+    "bio": "A 26-year-old from Mumbai, India, with a passion for political discussions and hip-hop music. Having completed a degree in Political Science, I work as a freelance writer and part-time content creator. I enjoy engaging in lively debates on Libertarian principles and am a huge fan of Playboi Carti. I typically browse Reddit during late night hours, often between 9 PM and 2 AM IST. I'm single and enjoy exploring different subcultures online. Dislikes include censorship and overly strict moderation.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Entertainment",
+      "Lifestyle"
+    ],
+    "top_subreddits": "LibertarianIndia",
+    "recent_subreddits": "playboicarti"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a background in Political Science, I am well-versed in political ideologies, particularly Libertarianism. My expertise is further honed through self-study, engaging in online forums, and writing articles on political topics.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

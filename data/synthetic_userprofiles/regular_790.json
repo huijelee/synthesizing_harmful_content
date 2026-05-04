@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "LoL_Top_Ban",
+    "account_age": "18 months",
+    "bio": "Avid League of Legends player hailing from Denver, Colorado. I work as a software developer for a tech startup, and my job allows me flexibility to play games during breaks. I'm single and enjoy spending my weekends hiking or cycling around the Rockies. I can't stand champions like Darius or Vayne ruining my ranked games. I'm usually online in the evenings, especially on weekdays after 7 PM.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Sports"
+    ],
+    "top_subreddits": "bikemessengers, OrderOfHeroes, snapmap",
+    "recent_subreddits": "ColoradoAvalanche, Damnthatsinteresting"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a deep understanding of League of Legends, gained through years of playing and watching e-sports. My knowledge is supplemented by my background in computer science, which I studied at the University of Colorado. I also actively engage with the community to stay updated on game mechanics and strategies.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

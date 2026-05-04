@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousBeardieNewbie",
+    "account_age": "2 months",
+    "bio": "I'm a 27-year-old living in Portland, Oregon. Recently, I've developed a newfound interest in bearded dragons after adopting my first one. I'm also a music enthusiast, often diving into electronic festivals like 'Lightning In A Bottle' and exploring new tunes from bands like Radiohead and DJ Max. I work as a graphic designer, which allows me some flexibility in my hours, so I typically browse Reddit in the late evenings. I'm currently single and enjoy spending my weekends hiking or exploring local music venues.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Animals"
+    ],
+    "top_subreddits": "LightningInABottle, djmax",
+    "recent_subreddits": "ticsandroses, radiohead, FruitsBasket"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have no formal education in herpetology, but I've been avidly reading online articles and watching YouTube videos to learn more about caring for bearded dragons. My interest in music comes from years of attending festivals and concerts, and I often share my thoughts and discoveries on related subreddits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

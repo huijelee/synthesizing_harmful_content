@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HealthyHabitsGuru",
+    "account_age": "4 years",
+    "bio": "I'm a 29-year-old software developer from Austin, Texas, who loves to combine my passion for technology with a healthy lifestyle. During the day, I'm coding away for a tech startup, and in my spare time, I dive into video games and YouTube content, especially those of creators like Cody Ko and Brownman. I'm a foodie at heart, always looking for ways to integrate nutritious eating with my love for comfort food. I'm single and enjoy exploring the local Austin food scene with friends. I typically browse Reddit in the evenings after work, around 6 PM to midnight.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "BadBusinessROBLOX, codyko, brownman",
+    "recent_subreddits": "tlss"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in computer science and have been working in tech for over seven years. My interest in healthy living led me to self-teach intuitive eating principles through books and online courses.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

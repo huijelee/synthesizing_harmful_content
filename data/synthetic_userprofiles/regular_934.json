@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CraftyHerpetologist",
+    "account_age": "18 months",
+    "bio": "I'm a 28-year-old digital artist and part-time herpetologist based in Portland, Oregon. My days are spent sketching out designs for clients and caring for my collection of amphibians. I'm a huge fan of Minecraft, both for leisure and as a creative outlet. I also dabble in fractal art, which I find mesmerizing. On weekends, you can find me hiking in the nearby forests or attending local art meet-ups. I'm in a long-term relationship with my partner who shares my love for nature and art. Typically online in the evenings after work and during the weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Animals"
+    ],
+    "top_subreddits": "CompetitiveMinecraft, gravitysketch, Amphibians",
+    "recent_subreddits": "FractalDesignNA"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Biological Sciences and a passion for digital art, I've combined my interests by creating educational content about amphibians and reptiles through digital illustrations. My knowledge comes from both formal education and years of self-teaching through online courses and community discussions.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

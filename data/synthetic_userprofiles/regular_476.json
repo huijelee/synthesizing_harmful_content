@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechieTaco87",
+    "account_age": "18 months",
+    "bio": "I'm a 36-year-old freelance electronics technician living in Albuquerque, New Mexico. I have a deep passion for all things tech and have been tinkering with electronics since I was a kid. When I'm not soldering circuits or coding small projects, I'm likely indulging in my love for sci-fi and fantasy, with Star Wars being a particular favorite. I'm married, and my wife shares my love for geek culture. I usually browse Reddit in the evenings after work, around 8-11 PM MST.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "DanielThrasher, AskElectronics, Longhaulers",
+    "recent_subreddits": "acronis, SantaDecides, DelTaco"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in Electrical Engineering from New Mexico State University. Most of my advanced knowledge comes from hands-on experience and self-teaching through countless online resources and communities. I've worked with various tech companies before going freelance, which has broadened my expertise in both hardware and software.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "RustyFrogFC",
+    "account_age": "8 years",
+    "bio": "Avid gamer and nature enthusiast based in Cookeville, Tennessee. By day, I work as a software developer for a mid-sized tech firm, and by night, I'm exploring the virtual worlds of Rust and other multiplayer games. Passionate about football, especially FC Porto, and I make it a point to catch every match. I also have a soft spot for frogs and love learning about their habitats. Typically online during evenings and weekends. Currently single and enjoy spending my free time gaming, watching football, or engaging with the online community.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Entertainment",
+      "Animals"
+    ],
+    "top_subreddits": "frogs, fcporto, cookeville",
+    "recent_subreddits": "BlackPlasma, hentaijoibrasil"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a computer science degree from a regional university, I've spent the last decade honing my skills in software development. My expertise extends to gaming environments, where I apply my analytical skills to understand game mechanics. I've also self-taught much about amphibian care and football tactics through online resources and community forums.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NeuralCorpseFan95",
+    "account_age": "7 years",
+    "bio": "I'm a tech enthusiast from Toronto who loves metal music, especially Cannibal Corpse. I spend my weekdays working as a software developer and my weekends catching up on the latest Real Madrid matches. When I'm not coding or watching football, I dive deep into neural networks and AI research as a hobby. Typically, I'm online in the evenings, usually between 8 PM and midnight, Eastern Time. I'm currently single and enjoy the freedom it gives me to explore my interests.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "Cannibalcorpse, Caddicarus, neuralnetworks",
+    "recent_subreddits": "realmadrid"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "My expertise lies in software development and artificial intelligence. I have a degree in Computer Science and have been working in the tech industry for over a decade. My interest in AI is mostly self-taught through online courses and reading research papers.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

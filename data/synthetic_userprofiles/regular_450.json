@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ArkansasPrintWizard",
+    "account_age": "18 months",
+    "bio": "Hey there! I'm a 24-year-old student from Fayetteville, currently pursuing a degree in Computer Science at the University of Arkansas. I have a keen interest in 3D printing and often spend my weekends tinkering with my OctoPrint setup. I'm a night owl, so you'll likely find me online in the late evenings, usually between 9 PM and 2 AM. I'm a big fan of electronic music, especially while working on my projects. I'm currently single and focusing on my studies and hobbies. I occasionally browse subreddits for casual chats to unwind.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Hobbies and Occupations",
+      "Lifestyle"
+    ],
+    "top_subreddits": "UniversityofArkansas, octoprint, DirtySexyKikPals",
+    "recent_subreddits": "Retconned"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong foundation in computer science, primarily developed through my university studies. My passion for 3D printing led me to self-teach through online resources and forums, where I frequently exchange tips and tricks with other enthusiasts. I'm also somewhat knowledgeable about psychedelic experiences, thanks to a mix of online research and personal curiosity.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

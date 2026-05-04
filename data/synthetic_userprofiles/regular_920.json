@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "3DPrintWizardUK",
+    "account_age": "24 months",
+    "bio": "I'm a 32-year-old mechanical engineer based in the UK with a passion for 3D printing. When I'm not in the lab designing prototypes, you can find me sharing tips and tricks on 3D printing forums or playing strategy games like Lords Mobile. I'm a night owl, usually browsing Reddit from 9 PM to midnight. In a committed relationship, and enjoy spending weekends hiking or exploring new tech gadgets.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "lordsmobile",
+    "recent_subreddits": "JuniorDoctorsUK"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a mechanical engineering degree with a focus on materials science. I began 3D printing during university and have continued to refine my skills through both personal projects and professional work. I often share insights from my job, where we conduct rigorous testing on various filaments for engineering prototypes.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

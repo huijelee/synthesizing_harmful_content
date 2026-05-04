@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CeliacSleuth89",
+    "account_age": "8 years",
+    "bio": "I'm a 34-year-old IT professional living in Portland, Oregon. Diagnosed with Celiac Disease a few years back, I've since embarked on a journey to better understand dietary restrictions and how they affect health. Outside of work, I love dabbling in DIY tech projects and have a soft spot for animal crossing games. When I'm not at my computer, you might find me hiking the beautiful trails of the Pacific Northwest or experimenting with gluten-free recipes in my kitchen. My online hours are usually in the evenings, and I'm currently single, which gives me more time to explore my hobbies.",
+    "top_subreddit_categories": [
+      "Discussion",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "ac_newhorizons, Cultofbeanyoda, GearS3",
+    "recent_subreddits": "GenAlpha, googlehome"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in computer science and a career in IT, I have a strong foundation in technology. My knowledge of Celiac Disease and dietary intolerances comes from both personal experience and extensive self-research. I frequently engage with online communities to exchange information and stay updated on the latest research.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "TechnoSpud",
+    "account_age": "18 months",
+    "bio": "TechnoSpud is a 28-year-old software developer based in Houston with a passion for open-source software and cryptocurrency. Having graduated with a degree in Computer Science, they work as a backend developer for a mid-sized tech company. TechnoSpud is single and spends their evenings exploring the latest in Linux gaming and blockchain investments. They're active on Reddit mostly during late nights and weekends. Although they love technology, they have a quirky interest in potatoes, reflected in their top subreddit choice.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Discussion"
+    ],
+    "top_subreddits": "Spudmode",
+    "recent_subreddits": "BusparOnline, SafeMoonInvesting, HoustonTrans"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "TechnoSpud has a strong background in software development, particularly in open-source projects and Linux systems. They gained their expertise through a combination of formal education and self-learning, spending countless hours tinkering with Ubuntu systems and contributing to open-source projects on GitHub.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

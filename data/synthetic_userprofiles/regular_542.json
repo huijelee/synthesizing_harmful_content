@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CyberShibaGamer92",
+    "account_age": "24 months",
+    "bio": "Avid gamer and tech enthusiast from Seattle, Washington. I work as a software developer focusing on user interface design. I love exploring open-world RPGs, especially those with cyberpunk and dystopian themes. Outside of gaming, I enjoy walking my Mini Shiba Inu and following the latest Marvel series, with a particular fondness for Jessica Jones. I usually browse Reddit in the evenings, often while relaxing after work. Currently single, I enjoy connecting with fellow gamers and fans of niche TV shows.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Animals"
+    ],
+    "top_subreddits": "MiniShibaInu, dissidia",
+    "recent_subreddits": "QiqiMains, JessicaJones, turtles"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "With a degree in Computer Science from the University of Washington, I have a solid foundation in programming and design. I developed a passion for video games during college and have since taught myself game development basics. My interest in technology extends to staying updated on the latest trends in gaming and software design.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

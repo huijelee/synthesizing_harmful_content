@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "SynthWaveRider",
+    "account_age": "18 months",
+    "bio": "Originally from the UK, this user has a passion for all things cyberpunk and immersive gaming experiences. They work as a software developer focusing on game modding and customization tools. In their free time, they enjoy experimenting with game files and creating custom content. They are single and often spend late nights online, particularly between 10 PM and 2 AM GMT. Aside from gaming, they have a keen interest in electronic music and DIY tech projects.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Technology",
+      "Hobbies and Occupations"
+    ],
+    "top_subreddits": "TheDayBefore, CasualUK",
+    "recent_subreddits": "nsfwrequests, PhasmophobiaGame"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "This user has a strong foundation in software development with a focus on game design. They hold a bachelor's degree in Computer Science and have been self-teaching modding techniques through online forums and communities since their university days. They are particularly knowledgeable about file structures and scripting languages used in popular gaming titles.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

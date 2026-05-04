@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "NewbieTrainer123",
+    "account_age": "8 months",
+    "bio": "I'm a 24-year-old tech enthusiast from Antwerp, Belgium. I recently got into Pok\u00e9mon Go and discovered the art of spoofing. I work as a junior software developer at a local tech startup and enjoy exploring new software tools and applications. My interests include gaming, particularly roguelikes like Tales of Maj'Eyal, and I've been diving into the world of AI and machine learning. I'm single and usually online during late evenings after work.",
+    "top_subreddit_categories": [
+      "Technology",
+      "Hobbies and Occupations",
+      "Entertainment"
+    ],
+    "top_subreddits": "ToME4, fusion",
+    "recent_subreddits": "sizetalk, Antwerpen"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in computer science and have been exploring various software tools and programming languages as a hobby. My interest in gaming led me to Reddit, where I continuously learn about game mechanics, modding, and related technologies. I frequently explore subreddits to expand my knowledge in these areas.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "strict"
+  }
+}

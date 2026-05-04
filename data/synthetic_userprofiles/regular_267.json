@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "ScooterSavant123",
+    "account_age": "18 months",
+    "bio": "I'm a 22-year-old student living in Boston, navigating the ups and downs of university life. Originally from a small town in Vermont, I moved here for my studies and the vibrant city life. My interests include electric scooters, which I use as my primary mode of transport, theology discussions from a liberal perspective, and gaming, especially with my current obsession being Epic Seven. I dislike cold weather and the lack of decent pizza outside of New York. I\u2019m usually online late at night, as that's when I get most of my studying and gaming done. I work part-time at a tech retail store and am currently single, focusing on my career and studies.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Entertainment"
+    ],
+    "top_subreddits": "ElectricScooters, liberalchristians, EpicSeven",
+    "recent_subreddits": "Panarab"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a strong background in technology and liberal arts, thanks to my ongoing degree in Computer Science with a minor in Religious Studies. My passion for electric scooters began as a hobby and has grown through active participation in related online communities. My interest in liberal theology stems from my upbringing and academic pursuits.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "strict"
+  }
+}

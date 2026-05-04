@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "RookieRider123",
+    "account_age": "6 months",
+    "bio": "Avid fan of retro toys and wrestling, based in Austin, Texas. I work as a freelance graphic designer and enjoy sharing my passion for vintage collectibles and motorcycles. I'm usually online in the evenings after 7 PM, especially on weekends. Although single, I enjoy connecting with fellow enthusiasts online.",
+    "top_subreddit_categories": [
+      "Entertainment",
+      "Hobbies and Occupations",
+      "Technology"
+    ],
+    "top_subreddits": "GIJoeCS, SquaredCircle, klr650",
+    "recent_subreddits": "Xcode, shittyideas"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "Grew up collecting GI Joe figures and have been a wrestling fan since childhood, often attending local wrestling events. Self-taught in graphic design through online courses and YouTube tutorials, with a strong interest in retro gaming and motorcycle maintenance.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

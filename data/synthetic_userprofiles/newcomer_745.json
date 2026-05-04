@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "RutgersRookie123",
+    "account_age": "6 months",
+    "bio": "I'm a first-year college student at Rutgers, currently exploring different majors with an interest in computer science and psychology. Originally from New Jersey, I love spending time outdoors and exploring new tech gadgets. I'm usually online in the evenings after classes, around 8 PM to midnight. I work part-time as a barista and am single, focusing on my studies and personal growth.",
+    "top_subreddit_categories": [
+      "Educational",
+      "Entertainment",
+      "Discussion"
+    ],
+    "top_subreddits": "TruTalk, Shinto",
+    "recent_subreddits": "Asthma, 21savage, IndianBoysOnTinder"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a basic understanding of computer science from my coursework and enjoy learning about psychology through online articles and discussions. I'm also keen on following the latest trends in technology and music.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}

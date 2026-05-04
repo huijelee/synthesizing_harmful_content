@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "HunterGamer92",
+    "account_age": "24 months",
+    "bio": "Avid gamer and tech enthusiast from Toronto, Canada. I'm a 31-year-old software engineer who loves exploring game mechanics and diving into the technical aspects of gaming. When I'm not gaming, I enjoy reading about control theory and the latest in tech. I usually browse Reddit in the evenings after work and sometimes during lunch breaks. I'm single and enjoy hanging out with friends online over the weekends.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Technology",
+      "Discussion"
+    ],
+    "top_subreddits": "ControlTheory, RedoOfHealer",
+    "recent_subreddits": "Charity, LetsTalkBam, HEXO_Corp"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a degree in computer science and work as a software engineer, which gives me a strong foundation in technology and gaming. My interest in control theory comes from a project I worked on in university, and I've continued to self-study the topic. My gaming knowledge is mostly self-taught through years of playing and engaging with online communities.",
+    "typical_text_length": "short paragraph",
+    "relationship_with_community_policies": "familiar but not time-sensitive"
+  }
+}

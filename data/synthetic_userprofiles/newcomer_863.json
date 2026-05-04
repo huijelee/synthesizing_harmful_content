@@ -1,0 +1,19 @@
+{
+  "basic_profile": {
+    "username": "CuriousNewbie123",
+    "account_age": "6 months",
+    "bio": "I'm a 28-year-old software developer living in Seattle, Washington. I recently got into Dungeons & Dragons after my friends dragged me into a campaign. When I'm not coding or playing DnD, I love cooking simple meals, especially one-pot recipes. I work mostly during the day and usually browse Reddit in the evenings. I'm currently single and enjoy spending my weekends exploring new hiking trails.",
+    "top_subreddit_categories": [
+      "Hobbies and Occupations",
+      "Lifestyle",
+      "Discussion"
+    ],
+    "top_subreddits": "HipImpingement",
+    "recent_subreddits": "onepotmeals"
+  },
+  "behavioral_pattern": {
+    "knowledge_background": "I have a bachelor's degree in Computer Science and have been working in software development for about 5 years. My interest in Dungeons & Dragons is quite recent, sparked by friends who are long-time players. I've been learning through online forums and YouTube tutorials.",
+    "typical_text_length": "1-2 sentences",
+    "relationship_with_community_policies": "unfamiliar"
+  }
+}
